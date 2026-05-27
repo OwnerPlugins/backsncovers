@@ -1,0 +1,122 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:06+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Hungarian <translation-team-hu@lists.sourceforge.net>\n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "... not saved!"
+msgstr "... nincs mentve!"
+
+msgid "... saved!"
+msgstr "... mentve!"
+
+msgid "Backdrops"
+msgstr "Hátterek"
+
+msgid "BacksNcovers"
+msgstr ""
+
+msgid "Close after selection:"
+msgstr "Kiválasztás után bezárás:"
+
+msgid "Covers"
+msgstr "Borítók"
+
+msgid "Error: {0}"
+msgstr "Hiba: {0}"
+
+msgid "Exit"
+msgstr "Kijárat"
+
+msgid "FileBot Schema:"
+msgstr "FileBot séma:"
+
+msgid "Find Backdrops & Covers ..."
+msgstr "Hátterek és borítók keresése..."
+
+msgid "Find Backdrops and Covers for Movielist"
+msgstr "Keressen háttereket és borítókat a Movielist számára"
+
+msgid "Find Movies"
+msgstr "Filmek keresése"
+
+msgid "Find Series"
+msgstr "Sorozat keresése"
+
+msgid "Find all movies or series"
+msgstr "Találja meg az összes filmet vagy sorozatot"
+
+msgid "Image successfully saved."
+msgstr "A kép sikeresen mentve."
+
+msgid "Language:"
+msgstr "Nyelv:"
+
+msgid "Loading %s for %s"
+msgstr "%s betöltése a következőhöz: %s"
+
+msgid "Network error: cannot reach TMDb"
+msgstr "Hálózati hiba: nem lehet elérni a TMDb-t"
+
+msgid "No movie results, %s for %s"
+msgstr "Nincsenek filmeredmények, %s – %s"
+
+msgid "No results found for %s!"
+msgstr "Nincs találat a következőre: %s!"
+
+msgid "No results, %s for %s"
+msgstr "Nincs eredmény, %s – %s"
+
+msgid "No series results, %s for %s"
+msgstr "Nincsenek sorozateredmények, %s – %s"
+
+msgid "Picture resolution:"
+msgstr "Képfelbontás:"
+
+msgid "Save Cover or Backdrop"
+msgstr "Mentse a borítót vagy a hátteret"
+
+msgid "Search Text ..."
+msgstr "Szöveg keresése..."
+
+msgid "Search for:"
+msgstr "Keresés:"
+
+msgid "Setup"
+msgstr "Beállítás"
+
+msgid "Show Backdrops or Covers"
+msgstr "Hátterek vagy borítók megjelenítése"
+
+msgid "Start with Backdrops:"
+msgstr "Kezdje a hátterekkel:"
+
+msgid "TMDb does not respond, try again later!"
+msgstr "A TMDb nem válaszol, próbálja újra később!"
+
+msgid "TMDb movie results, %s %s for %s"
+msgstr "TMDb film eredmények, %s %s – %s"
+
+msgid "TMDb result, %s"
+msgstr "TMDb eredmény, %s"
+
+msgid "TMDb search"
+msgstr "TMDb keresés"
+
+msgid "TMDb search, %s for %s"
+msgstr "TMDb keresés, %s – %s"
+
+msgid "TMDb series results, %s %s for %s"
+msgstr "TMDb sorozat eredményei, %s %s – %s"
+
+msgid "backsNcovers"
+msgstr "hátlapok"
+
+msgid "virtual folder not possible!"
+msgstr "virtuális mappa nem lehetséges!"

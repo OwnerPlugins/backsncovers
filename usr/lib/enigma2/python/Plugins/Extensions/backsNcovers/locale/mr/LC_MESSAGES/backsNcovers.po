@@ -1,0 +1,121 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:16+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Marathi <sshedmak@redhat.com>\n"
+"Language: mr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "... not saved!"
+msgstr "... जतन नाही!"
+
+msgid "... saved!"
+msgstr "... वाचवले!"
+
+msgid "Backdrops"
+msgstr "पार्श्वभूमी"
+
+msgid "BacksNcovers"
+msgstr ""
+
+msgid "Close after selection:"
+msgstr "निवडीनंतर बंद करा:"
+
+msgid "Covers"
+msgstr "कव्हर"
+
+msgid "Error: {0}"
+msgstr "त्रुटी: {0}"
+
+msgid "Exit"
+msgstr "बाहेर पडा"
+
+msgid "FileBot Schema:"
+msgstr "फाइलबॉट स्कीमा:"
+
+msgid "Find Backdrops & Covers ..."
+msgstr "पार्श्वभूमी आणि कव्हर शोधा..."
+
+msgid "Find Backdrops and Covers for Movielist"
+msgstr "मूव्हीलिस्टसाठी पार्श्वभूमी आणि कव्हर्स शोधा"
+
+msgid "Find Movies"
+msgstr "चित्रपट शोधा"
+
+msgid "Find Series"
+msgstr "मालिका शोधा"
+
+msgid "Find all movies or series"
+msgstr "सर्व चित्रपट किंवा मालिका शोधा"
+
+msgid "Image successfully saved."
+msgstr "प्रतिमा यशस्वीरित्या जतन केली."
+
+msgid "Language:"
+msgstr "भाषा:"
+
+msgid "Loading %s for %s"
+msgstr "%s साठी %s लोड करत आहे"
+
+msgid "Network error: cannot reach TMDb"
+msgstr "नेटवर्क त्रुटी: TMDb पर्यंत पोहोचू शकत नाही"
+
+msgid "No movie results, %s for %s"
+msgstr "कोणतेही चित्रपट परिणाम नाहीत, %s साठी %s"
+
+msgid "No results found for %s!"
+msgstr "%s साठी कोणतेही परिणाम आढळले नाहीत!"
+
+msgid "No results, %s for %s"
+msgstr "कोणतेही परिणाम नाहीत, %s साठी %s"
+
+msgid "No series results, %s for %s"
+msgstr "मालिका परिणाम नाहीत, %s साठी %s"
+
+msgid "Picture resolution:"
+msgstr "चित्र निराकरण:"
+
+msgid "Save Cover or Backdrop"
+msgstr "कव्हर किंवा पार्श्वभूमी जतन करा"
+
+msgid "Search Text ..."
+msgstr "मजकूर शोधा..."
+
+msgid "Search for:"
+msgstr "यासाठी शोधा:"
+
+msgid "Setup"
+msgstr "सेटअप"
+
+msgid "Show Backdrops or Covers"
+msgstr "पार्श्वभूमी किंवा कव्हर दर्शवा"
+
+msgid "Start with Backdrops:"
+msgstr "पार्श्वभूमीसह प्रारंभ करा:"
+
+msgid "TMDb does not respond, try again later!"
+msgstr "TMDb प्रतिसाद देत नाही, नंतर पुन्हा प्रयत्न करा!"
+
+msgid "TMDb movie results, %s %s for %s"
+msgstr "TMDb चित्रपट परिणाम, %s साठी %s %s"
+
+msgid "TMDb result, %s"
+msgstr "TMDb परिणाम, %s"
+
+msgid "TMDb search"
+msgstr "TMDb शोध"
+
+msgid "TMDb search, %s for %s"
+msgstr "TMDb शोध, %s साठी %s"
+
+msgid "TMDb series results, %s %s for %s"
+msgstr "TMDb मालिका परिणाम, %s साठी %s %s"
+
+msgid "backsNcovers"
+msgstr ""
+
+msgid "virtual folder not possible!"
+msgstr "आभासी फोल्डर शक्य नाही!"

@@ -1,0 +1,121 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:38+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Language zh-SG\n"
+"Language: zh-SG\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "... not saved!"
+msgstr "……没救了！"
+
+msgid "... saved!"
+msgstr "...得救了！"
+
+msgid "Backdrops"
+msgstr "背景"
+
+msgid "BacksNcovers"
+msgstr "背套"
+
+msgid "Close after selection:"
+msgstr "选择后关闭："
+
+msgid "Covers"
+msgstr "封面"
+
+msgid "Error: {0}"
+msgstr "错误：{0}"
+
+msgid "Exit"
+msgstr "出口"
+
+msgid "FileBot Schema:"
+msgstr "FileBot 架构："
+
+msgid "Find Backdrops & Covers ..."
+msgstr "查找背景和封面..."
+
+msgid "Find Backdrops and Covers for Movielist"
+msgstr "查找电影列表的背景和封面"
+
+msgid "Find Movies"
+msgstr "查找电影"
+
+msgid "Find Series"
+msgstr "查找系列"
+
+msgid "Find all movies or series"
+msgstr "查找所有电影或连续剧"
+
+msgid "Image successfully saved."
+msgstr "图片保存成功。"
+
+msgid "Language:"
+msgstr "语言："
+
+msgid "Loading %s for %s"
+msgstr "正在为 %s 加载 %s"
+
+msgid "Network error: cannot reach TMDb"
+msgstr "网络错误：无法到达TMDb"
+
+msgid "No movie results, %s for %s"
+msgstr "没有电影结果，%s 的 %s"
+
+msgid "No results found for %s!"
+msgstr "未找到 %s 的结果！"
+
+msgid "No results, %s for %s"
+msgstr "%s 没有结果，%s 的结果"
+
+msgid "No series results, %s for %s"
+msgstr "无系列结果，%s 对应 %s"
+
+msgid "Picture resolution:"
+msgstr "图片分辨率："
+
+msgid "Save Cover or Backdrop"
+msgstr "保存封面或背景"
+
+msgid "Search Text ..."
+msgstr "搜索文本..."
+
+msgid "Search for:"
+msgstr "搜索："
+
+msgid "Setup"
+msgstr "设置"
+
+msgid "Show Backdrops or Covers"
+msgstr "显示背景或封面"
+
+msgid "Start with Backdrops:"
+msgstr "从背景开始："
+
+msgid "TMDb does not respond, try again later!"
+msgstr "TMDb 没有响应，请稍后重试！"
+
+msgid "TMDb movie results, %s %s for %s"
+msgstr "TMDb 电影结果，%s %s，%s"
+
+msgid "TMDb result, %s"
+msgstr "TMDb 结果，%s"
+
+msgid "TMDb search"
+msgstr "TMDb 搜索"
+
+msgid "TMDb search, %s for %s"
+msgstr "TMDb 搜索，%s 搜索 %s"
+
+msgid "TMDb series results, %s %s for %s"
+msgstr "TMDb 系列结果，%s %s 对应 %s"
+
+msgid "backsNcovers"
+msgstr "背盖"
+
+msgid "virtual folder not possible!"
+msgstr "虚拟文件夹不可能！"

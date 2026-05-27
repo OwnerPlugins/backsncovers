@@ -1,0 +1,122 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:36+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Vietnamese <translation-team-vi@lists.sourceforge.net>\n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "... not saved!"
+msgstr "... chưa được lưu!"
+
+msgid "... saved!"
+msgstr "... đã được cứu!"
+
+msgid "Backdrops"
+msgstr "Phông nền"
+
+msgid "BacksNcovers"
+msgstr "Quay lạiNcovers"
+
+msgid "Close after selection:"
+msgstr "Đóng sau khi lựa chọn:"
+
+msgid "Covers"
+msgstr "bìa"
+
+msgid "Error: {0}"
+msgstr "Lỗi: {0}"
+
+msgid "Exit"
+msgstr "Ra"
+
+msgid "FileBot Schema:"
+msgstr "Lược đồ FileBot:"
+
+msgid "Find Backdrops & Covers ..."
+msgstr "Tìm Phông nền & Ảnh bìa ..."
+
+msgid "Find Backdrops and Covers for Movielist"
+msgstr "Tìm phông nền và bìa cho danh sách phim"
+
+msgid "Find Movies"
+msgstr "Tìm Phim"
+
+msgid "Find Series"
+msgstr "Tìm loạt bài"
+
+msgid "Find all movies or series"
+msgstr "Tìm tất cả phim hoặc loạt phim"
+
+msgid "Image successfully saved."
+msgstr "Hình ảnh đã được lưu thành công."
+
+msgid "Language:"
+msgstr "Ngôn ngữ:"
+
+msgid "Loading %s for %s"
+msgstr "Đang tải %s cho %s"
+
+msgid "Network error: cannot reach TMDb"
+msgstr "Lỗi mạng: không vào được TMDb"
+
+msgid "No movie results, %s for %s"
+msgstr "Không có kết quả phim, %s cho %s"
+
+msgid "No results found for %s!"
+msgstr "Không tìm thấy kết quả nào cho %s!"
+
+msgid "No results, %s for %s"
+msgstr "Không có kết quả, %s cho %s"
+
+msgid "No series results, %s for %s"
+msgstr "Không có kết quả chuỗi nào, %s cho %s"
+
+msgid "Picture resolution:"
+msgstr "Độ phân giải hình ảnh:"
+
+msgid "Save Cover or Backdrop"
+msgstr "Lưu ảnh bìa hoặc phông nền"
+
+msgid "Search Text ..."
+msgstr "Tìm kiếm văn bản ..."
+
+msgid "Search for:"
+msgstr "Tìm kiếm:"
+
+msgid "Setup"
+msgstr "Cài đặt"
+
+msgid "Show Backdrops or Covers"
+msgstr "Hiển thị phông nền hoặc bìa"
+
+msgid "Start with Backdrops:"
+msgstr "Bắt đầu với Phông nền:"
+
+msgid "TMDb does not respond, try again later!"
+msgstr "TMDb không phản hồi, hãy thử lại sau!"
+
+msgid "TMDb movie results, %s %s for %s"
+msgstr "Kết quả phim TMDb, %s %s cho %s"
+
+msgid "TMDb result, %s"
+msgstr "Kết quả TMDb, %s"
+
+msgid "TMDb search"
+msgstr "Tìm kiếm TMDb"
+
+msgid "TMDb search, %s for %s"
+msgstr "Tìm kiếm TMDb, %s cho %s"
+
+msgid "TMDb series results, %s %s for %s"
+msgstr "Kết quả loạt TMDb, %s %s cho %s"
+
+msgid "backsNcovers"
+msgstr "lưngNcovers"
+
+msgid "virtual folder not possible!"
+msgstr "thư mục ảo không thể!"

@@ -1,0 +1,121 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:26+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Albanian <translation-team-sq@lists.sourceforge.net>\n"
+"Language: sq\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "... not saved!"
+msgstr "... nuk u ruajt!"
+
+msgid "... saved!"
+msgstr "... shpëtuar!"
+
+msgid "Backdrops"
+msgstr "Sfondet"
+
+msgid "BacksNcovers"
+msgstr "MbrapaNmbulesa"
+
+msgid "Close after selection:"
+msgstr "Mbyll pas zgjedhjes:"
+
+msgid "Covers"
+msgstr "Mbulesa"
+
+msgid "Error: {0}"
+msgstr "Gabim: {0}"
+
+msgid "Exit"
+msgstr "Dilni"
+
+msgid "FileBot Schema:"
+msgstr "Skema FileBot:"
+
+msgid "Find Backdrops & Covers ..."
+msgstr "Gjeni sfonde dhe kopertina..."
+
+msgid "Find Backdrops and Covers for Movielist"
+msgstr "Gjeni sfonde dhe kopertina për listën e filmave"
+
+msgid "Find Movies"
+msgstr "Gjeni Filma"
+
+msgid "Find Series"
+msgstr "Gjeni Seritë"
+
+msgid "Find all movies or series"
+msgstr "Gjeni të gjithë filmat ose serialet"
+
+msgid "Image successfully saved."
+msgstr "Imazhi u ruajt me sukses."
+
+msgid "Language:"
+msgstr "Gjuha:"
+
+msgid "Loading %s for %s"
+msgstr "Po ngarkohet %s për %s"
+
+msgid "Network error: cannot reach TMDb"
+msgstr "Gabim rrjeti: nuk mund të arrijë TMDb"
+
+msgid "No movie results, %s for %s"
+msgstr "Nuk ka rezultat filmi, %s për %s"
+
+msgid "No results found for %s!"
+msgstr "Nuk u gjetën rezultate për %s!"
+
+msgid "No results, %s for %s"
+msgstr "Nuk ka rezultate, %s për %s"
+
+msgid "No series results, %s for %s"
+msgstr "Nuk ka rezultate serie, %s për %s"
+
+msgid "Picture resolution:"
+msgstr "Rezolucioni i figurës:"
+
+msgid "Save Cover or Backdrop"
+msgstr "Ruaj kopertinën ose sfondin"
+
+msgid "Search Text ..."
+msgstr "Kërko Tekst..."
+
+msgid "Search for:"
+msgstr "Kërko për:"
+
+msgid "Setup"
+msgstr "Konfigurimi"
+
+msgid "Show Backdrops or Covers"
+msgstr "Shfaq sfondet ose kopertinat"
+
+msgid "Start with Backdrops:"
+msgstr "Filloni me sfondet:"
+
+msgid "TMDb does not respond, try again later!"
+msgstr "TMDb nuk përgjigjet, provo sërish më vonë!"
+
+msgid "TMDb movie results, %s %s for %s"
+msgstr "Rezultatet e filmit TMDb, %s %s për %s"
+
+msgid "TMDb result, %s"
+msgstr "Rezultati i TMDb, %s"
+
+msgid "TMDb search"
+msgstr "Kërkimi TMDb"
+
+msgid "TMDb search, %s for %s"
+msgstr "Kërkimi TMDb, %s për %s"
+
+msgid "TMDb series results, %s %s for %s"
+msgstr "Rezultatet e serisë TMDb, %s %s për %s"
+
+msgid "backsNcovers"
+msgstr "shpinaNmbulesa"
+
+msgid "virtual folder not possible!"
+msgstr "dosje virtuale nuk është e mundur!"

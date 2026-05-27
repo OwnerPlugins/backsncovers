@@ -1,0 +1,122 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:09+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Japanese <translation-team-ja@lists.sourceforge.net>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "... not saved!"
+msgstr "...保存されていません!"
+
+msgid "... saved!"
+msgstr "...救われました！"
+
+msgid "Backdrops"
+msgstr "背景"
+
+msgid "BacksNcovers"
+msgstr "バックスカバー"
+
+msgid "Close after selection:"
+msgstr "選択後に閉じる:"
+
+msgid "Covers"
+msgstr "カバー"
+
+msgid "Error: {0}"
+msgstr "エラー: {0}"
+
+msgid "Exit"
+msgstr "出口"
+
+msgid "FileBot Schema:"
+msgstr "FileBot スキーマ:"
+
+msgid "Find Backdrops & Covers ..."
+msgstr "背景とカバーを探す ..."
+
+msgid "Find Backdrops and Covers for Movielist"
+msgstr "ムービーリストの背景とカバーを探す"
+
+msgid "Find Movies"
+msgstr "映画を探す"
+
+msgid "Find Series"
+msgstr "シリーズを検索"
+
+msgid "Find all movies or series"
+msgstr "すべての映画またはシリーズを検索"
+
+msgid "Image successfully saved."
+msgstr "画像は正常に保存されました。"
+
+msgid "Language:"
+msgstr "言語："
+
+msgid "Loading %s for %s"
+msgstr "%s の %s をロード中"
+
+msgid "Network error: cannot reach TMDb"
+msgstr "ネットワーク エラー: TMDb にアクセスできません"
+
+msgid "No movie results, %s for %s"
+msgstr "映画の結果はありません。%s の %s"
+
+msgid "No results found for %s!"
+msgstr "%s の結果が見つかりません!"
+
+msgid "No results, %s for %s"
+msgstr "結果はありません。%s の %s"
+
+msgid "No series results, %s for %s"
+msgstr "シリーズの結果はありません。%s の %s"
+
+msgid "Picture resolution:"
+msgstr "画像解像度:"
+
+msgid "Save Cover or Backdrop"
+msgstr "表紙または背景を保存する"
+
+msgid "Search Text ..."
+msgstr "テキストを検索 ..."
+
+msgid "Search for:"
+msgstr "検索する："
+
+msgid "Setup"
+msgstr "設定"
+
+msgid "Show Backdrops or Covers"
+msgstr "背景またはカバーを表示する"
+
+msgid "Start with Backdrops:"
+msgstr "背景から始めます:"
+
+msgid "TMDb does not respond, try again later!"
+msgstr "TMDb が応答しません。後でもう一度試してください。"
+
+msgid "TMDb movie results, %s %s for %s"
+msgstr "TMDb ムービーの結果、%s %s、%s"
+
+msgid "TMDb result, %s"
+msgstr "TMDb の結果、%s"
+
+msgid "TMDb search"
+msgstr "TMDb検索"
+
+msgid "TMDb search, %s for %s"
+msgstr "TMDb 検索、%s の %s"
+
+msgid "TMDb series results, %s %s for %s"
+msgstr "TMDb シリーズの結果、%s %s (%s)"
+
+msgid "backsNcovers"
+msgstr "バックスカバー"
+
+msgid "virtual folder not possible!"
+msgstr "仮想フォルダーは不可能です!"

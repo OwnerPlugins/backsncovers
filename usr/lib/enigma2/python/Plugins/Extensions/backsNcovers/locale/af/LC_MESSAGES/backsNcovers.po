@@ -1,0 +1,121 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 17:49+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Afrikaans <i18n@af.org.za>\n"
+"Language: af\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "... not saved!"
+msgstr "... nie gered nie!"
+
+msgid "... saved!"
+msgstr "... gered!"
+
+msgid "Backdrops"
+msgstr "Agtergronde"
+
+msgid "BacksNcovers"
+msgstr ""
+
+msgid "Close after selection:"
+msgstr "Sluit na keuse:"
+
+msgid "Covers"
+msgstr "Deksels"
+
+msgid "Error: {0}"
+msgstr "Fout: {0}"
+
+msgid "Exit"
+msgstr "Verlaat"
+
+msgid "FileBot Schema:"
+msgstr "FileBot skema:"
+
+msgid "Find Backdrops & Covers ..."
+msgstr "Soek agtergronde en omslae ..."
+
+msgid "Find Backdrops and Covers for Movielist"
+msgstr "Vind agtergronde en omslae vir flieklys"
+
+msgid "Find Movies"
+msgstr "Soek films"
+
+msgid "Find Series"
+msgstr "Soek reeks"
+
+msgid "Find all movies or series"
+msgstr "Vind alle flieks of reekse"
+
+msgid "Image successfully saved."
+msgstr "Prent suksesvol gestoor."
+
+msgid "Language:"
+msgstr "Taal:"
+
+msgid "Loading %s for %s"
+msgstr "Laai tans %s vir %s"
+
+msgid "Network error: cannot reach TMDb"
+msgstr "Netwerkfout: kan nie TMDb bereik nie"
+
+msgid "No movie results, %s for %s"
+msgstr "Geen fliekresultate nie, %s vir %s"
+
+msgid "No results found for %s!"
+msgstr "Geen resultate gevind vir %s nie!"
+
+msgid "No results, %s for %s"
+msgstr "Geen resultate, %s vir %s"
+
+msgid "No series results, %s for %s"
+msgstr "Geen reeksresultate nie, %s vir %s"
+
+msgid "Picture resolution:"
+msgstr "Beeld resolusie:"
+
+msgid "Save Cover or Backdrop"
+msgstr "Stoor omslag of agtergrond"
+
+msgid "Search Text ..."
+msgstr "Soek teks ..."
+
+msgid "Search for:"
+msgstr "Soek vir:"
+
+msgid "Setup"
+msgstr "Opstelling"
+
+msgid "Show Backdrops or Covers"
+msgstr "Wys agtergronde of omslae"
+
+msgid "Start with Backdrops:"
+msgstr "Begin met agtergronde:"
+
+msgid "TMDb does not respond, try again later!"
+msgstr "TMDb reageer nie, probeer later weer!"
+
+msgid "TMDb movie results, %s %s for %s"
+msgstr "TMDb-fliekresultate, %s %s vir %s"
+
+msgid "TMDb result, %s"
+msgstr "TMDb-resultaat, %s"
+
+msgid "TMDb search"
+msgstr "TMDb soektog"
+
+msgid "TMDb search, %s for %s"
+msgstr "TMDb-soektog, %s vir %s"
+
+msgid "TMDb series results, %s %s for %s"
+msgstr "TMDb-reeks resultate, %s %s vir %s"
+
+msgid "backsNcovers"
+msgstr ""
+
+msgid "virtual folder not possible!"
+msgstr "virtuele gids nie moontlik nie!"

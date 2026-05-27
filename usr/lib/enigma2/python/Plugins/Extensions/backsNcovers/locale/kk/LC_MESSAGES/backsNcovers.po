@@ -1,0 +1,121 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:10+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Kazakh <(nothing)>\n"
+"Language: kk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "... not saved!"
+msgstr "... сақталмады!"
+
+msgid "... saved!"
+msgstr "... сақталды!"
+
+msgid "Backdrops"
+msgstr "Фондар"
+
+msgid "BacksNcovers"
+msgstr ""
+
+msgid "Close after selection:"
+msgstr "Таңдаудан кейін жабу:"
+
+msgid "Covers"
+msgstr "Қақпақтар"
+
+msgid "Error: {0}"
+msgstr "Қате: {0}"
+
+msgid "Exit"
+msgstr "Шығу"
+
+msgid "FileBot Schema:"
+msgstr "FileBot схемасы:"
+
+msgid "Find Backdrops & Covers ..."
+msgstr "Фондар мен мұқабаларды табыңыз..."
+
+msgid "Find Backdrops and Covers for Movielist"
+msgstr "Фильмдер тізімі үшін фон мен мұқабаларды табыңыз"
+
+msgid "Find Movies"
+msgstr "Фильмдерді табу"
+
+msgid "Find Series"
+msgstr "Серияларды табыңыз"
+
+msgid "Find all movies or series"
+msgstr "Барлық фильмдерді немесе серияларды табыңыз"
+
+msgid "Image successfully saved."
+msgstr "Кескін сәтті сақталды."
+
+msgid "Language:"
+msgstr "Тіл:"
+
+msgid "Loading %s for %s"
+msgstr "%s үшін %s жүктелуде"
+
+msgid "Network error: cannot reach TMDb"
+msgstr "Желі қатесі: TMDb қол жеткізу мүмкін емес"
+
+msgid "No movie results, %s for %s"
+msgstr "Фильм нәтижелері жоқ, %s үшін %s"
+
+msgid "No results found for %s!"
+msgstr "%s бойынша нәтижелер табылмады!"
+
+msgid "No results, %s for %s"
+msgstr "Нәтиже жоқ, %s үшін %s"
+
+msgid "No series results, %s for %s"
+msgstr "Қатар нәтижелер жоқ, %s үшін %s"
+
+msgid "Picture resolution:"
+msgstr "Суреттің ажыратымдылығы:"
+
+msgid "Save Cover or Backdrop"
+msgstr "Мұқабаны немесе Фонды сақтаңыз"
+
+msgid "Search Text ..."
+msgstr "Мәтінді іздеу..."
+
+msgid "Search for:"
+msgstr "Іздеу:"
+
+msgid "Setup"
+msgstr "Орнату"
+
+msgid "Show Backdrops or Covers"
+msgstr "Фондарды немесе мұқабаларды көрсету"
+
+msgid "Start with Backdrops:"
+msgstr "Фондармен бастаңыз:"
+
+msgid "TMDb does not respond, try again later!"
+msgstr "TMDb жауап бермейді, әрекетті кейінірек қайталаңыз!"
+
+msgid "TMDb movie results, %s %s for %s"
+msgstr "TMDb фильмінің нәтижелері, %s үшін %s %s"
+
+msgid "TMDb result, %s"
+msgstr "TMDb нәтижесі, %s"
+
+msgid "TMDb search"
+msgstr "TMDb іздеу"
+
+msgid "TMDb search, %s for %s"
+msgstr "TMDb іздеу, %s үшін %s"
+
+msgid "TMDb series results, %s %s for %s"
+msgstr "TMDb сериясының нәтижелері, %s үшін %s %s"
+
+msgid "backsNcovers"
+msgstr ""
+
+msgid "virtual folder not possible!"
+msgstr "виртуалды қалта мүмкін емес!"

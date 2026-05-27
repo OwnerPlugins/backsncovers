@@ -1,0 +1,121 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:08+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Icelandic <translation-team-is@lists.sourceforge.net>\n"
+"Language: is\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "... not saved!"
+msgstr "... ekki vistað!"
+
+msgid "... saved!"
+msgstr "... bjargað!"
+
+msgid "Backdrops"
+msgstr "Baksvið"
+
+msgid "BacksNcovers"
+msgstr ""
+
+msgid "Close after selection:"
+msgstr "Loka eftir val:"
+
+msgid "Covers"
+msgstr "Hlífar"
+
+msgid "Error: {0}"
+msgstr "Villa: {0}"
+
+msgid "Exit"
+msgstr "Hætta"
+
+msgid "FileBot Schema:"
+msgstr "FileBot skema:"
+
+msgid "Find Backdrops & Covers ..."
+msgstr "Finndu bakgrunn og umslag..."
+
+msgid "Find Backdrops and Covers for Movielist"
+msgstr "Finndu bakgrunn og forsíður fyrir kvikmyndalista"
+
+msgid "Find Movies"
+msgstr "Finndu kvikmyndir"
+
+msgid "Find Series"
+msgstr "Finndu röð"
+
+msgid "Find all movies or series"
+msgstr "Finndu allar kvikmyndir eða seríur"
+
+msgid "Image successfully saved."
+msgstr "Myndin var vistuð."
+
+msgid "Language:"
+msgstr "Tungumál:"
+
+msgid "Loading %s for %s"
+msgstr "Hleður %s fyrir %s"
+
+msgid "Network error: cannot reach TMDb"
+msgstr "Netvilla: kemst ekki í TMDb"
+
+msgid "No movie results, %s for %s"
+msgstr "Engar kvikmyndaniðurstöður, %s fyrir %s"
+
+msgid "No results found for %s!"
+msgstr "Engar niðurstöður fundust fyrir %s!"
+
+msgid "No results, %s for %s"
+msgstr "Engar niðurstöður, %s fyrir %s"
+
+msgid "No series results, %s for %s"
+msgstr "Engar röð niðurstöður, %s fyrir %s"
+
+msgid "Picture resolution:"
+msgstr "Myndupplausn:"
+
+msgid "Save Cover or Backdrop"
+msgstr "Vista forsíðu eða bakgrunn"
+
+msgid "Search Text ..."
+msgstr "Leita í texta..."
+
+msgid "Search for:"
+msgstr "Leita að:"
+
+msgid "Setup"
+msgstr "Uppsetning"
+
+msgid "Show Backdrops or Covers"
+msgstr "Sýna bakgrunn eða forsíður"
+
+msgid "Start with Backdrops:"
+msgstr "Byrjaðu á bakgrunni:"
+
+msgid "TMDb does not respond, try again later!"
+msgstr "TMDb svarar ekki, reyndu aftur síðar!"
+
+msgid "TMDb movie results, %s %s for %s"
+msgstr "Niðurstöður TMDb kvikmynda, %s %s fyrir %s"
+
+msgid "TMDb result, %s"
+msgstr "TMDb niðurstaða, %s"
+
+msgid "TMDb search"
+msgstr "TMDb leit"
+
+msgid "TMDb search, %s for %s"
+msgstr "TMDb leit, %s fyrir %s"
+
+msgid "TMDb series results, %s %s for %s"
+msgstr "Niðurstöður TMDb röð, %s %s fyrir %s"
+
+msgid "backsNcovers"
+msgstr "baksíðurHlífar"
+
+msgid "virtual folder not possible!"
+msgstr "sýndarmappa ekki möguleg!"

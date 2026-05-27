@@ -1,0 +1,121 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:19+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Nepali <translation-team-ne@lists.sourceforge.net>\n"
+"Language: ne\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "... not saved!"
+msgstr "... बचाइएन!"
+
+msgid "... saved!"
+msgstr "... बचाइयो!"
+
+msgid "Backdrops"
+msgstr "ब्याकड्रपहरू"
+
+msgid "BacksNcovers"
+msgstr "ब्याककभरहरू"
+
+msgid "Close after selection:"
+msgstr "चयन पछि बन्द गर्नुहोस्:"
+
+msgid "Covers"
+msgstr "कभर"
+
+msgid "Error: {0}"
+msgstr "त्रुटि: {0}"
+
+msgid "Exit"
+msgstr "बाहिर निस्कनुहोस्"
+
+msgid "FileBot Schema:"
+msgstr "FileBot स्कीमा:"
+
+msgid "Find Backdrops & Covers ..."
+msgstr "ब्याकड्रप र कभरहरू फेला पार्नुहोस्..."
+
+msgid "Find Backdrops and Covers for Movielist"
+msgstr "चलचित्रसूचीका लागि ब्याकड्रप र कभरहरू फेला पार्नुहोस्"
+
+msgid "Find Movies"
+msgstr "चलचित्रहरू खोज्नुहोस्"
+
+msgid "Find Series"
+msgstr "श्रृंखला खोज्नुहोस्"
+
+msgid "Find all movies or series"
+msgstr "सबै चलचित्र वा श्रृंखला खोज्नुहोस्"
+
+msgid "Image successfully saved."
+msgstr "छवि सफलतापूर्वक सुरक्षित गरियो।"
+
+msgid "Language:"
+msgstr "भाषा:"
+
+msgid "Loading %s for %s"
+msgstr "%s को लागि %s लोड गर्दै"
+
+msgid "Network error: cannot reach TMDb"
+msgstr "नेटवर्क त्रुटि: TMDb पुग्न सक्दैन"
+
+msgid "No movie results, %s for %s"
+msgstr "कुनै चलचित्र परिणामहरू छैनन्, %s को लागि %s"
+
+msgid "No results found for %s!"
+msgstr "%s को लागि कुनै परिणाम फेला परेन!"
+
+msgid "No results, %s for %s"
+msgstr "कुनै परिणाम छैन, %s को लागि %s"
+
+msgid "No series results, %s for %s"
+msgstr "कुनै श्रृंखला परिणामहरू छैनन्, %s को लागि %s"
+
+msgid "Picture resolution:"
+msgstr "तस्वीर संकल्प:"
+
+msgid "Save Cover or Backdrop"
+msgstr "आवरण वा ब्याकड्रप बचत गर्नुहोस्"
+
+msgid "Search Text ..."
+msgstr "पाठ खोज्नुहोस्..."
+
+msgid "Search for:"
+msgstr "खोज्नुहोस्:"
+
+msgid "Setup"
+msgstr "सेटअप"
+
+msgid "Show Backdrops or Covers"
+msgstr "ब्याकड्रप वा कभरहरू देखाउनुहोस्"
+
+msgid "Start with Backdrops:"
+msgstr "ब्याकड्रपबाट सुरु गर्नुहोस्:"
+
+msgid "TMDb does not respond, try again later!"
+msgstr "TMDb ले प्रतिक्रिया दिदैन, पछि पुन: प्रयास गर्नुहोस्!"
+
+msgid "TMDb movie results, %s %s for %s"
+msgstr "TMDb चलचित्र परिणामहरू, %s को लागि %s %s"
+
+msgid "TMDb result, %s"
+msgstr "TMDb परिणाम, %s"
+
+msgid "TMDb search"
+msgstr "TMDb खोज"
+
+msgid "TMDb search, %s for %s"
+msgstr "TMDb खोज, %s को लागि %s"
+
+msgid "TMDb series results, %s %s for %s"
+msgstr "TMDb श्रृंखला परिणामहरू, %s को लागि %s %s"
+
+msgid "backsNcovers"
+msgstr ""
+
+msgid "virtual folder not possible!"
+msgstr "भर्चुअल फोल्डर सम्भव छैन!"

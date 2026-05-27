@@ -1,0 +1,121 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:22+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Pashto\n"
+"Language: ps\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "... not saved!"
+msgstr "... نه ژغورل شوی!"
+
+msgid "... saved!"
+msgstr "... ژغورل شوی!"
+
+msgid "Backdrops"
+msgstr "شاته"
+
+msgid "BacksNcovers"
+msgstr ""
+
+msgid "Close after selection:"
+msgstr "د انتخاب وروسته بند کړئ:"
+
+msgid "Covers"
+msgstr "پوښښ"
+
+msgid "Error: {0}"
+msgstr "تېروتنه: {0}"
+
+msgid "Exit"
+msgstr "وتل"
+
+msgid "FileBot Schema:"
+msgstr "د فایل بوټ سکیما:"
+
+msgid "Find Backdrops & Covers ..."
+msgstr "شالیدونه او پوښونه ومومئ ..."
+
+msgid "Find Backdrops and Covers for Movielist"
+msgstr "د فلم لیست لپاره شالیدونه او پوښونه ومومئ"
+
+msgid "Find Movies"
+msgstr "فلمونه ومومئ"
+
+msgid "Find Series"
+msgstr "لړۍ ومومئ"
+
+msgid "Find all movies or series"
+msgstr "ټول فلمونه یا لړۍ ومومئ"
+
+msgid "Image successfully saved."
+msgstr "انځور په بریالیتوب سره خوندي شو."
+
+msgid "Language:"
+msgstr "ژبه:"
+
+msgid "Loading %s for %s"
+msgstr "د %s لپاره %s پورته کول"
+
+msgid "Network error: cannot reach TMDb"
+msgstr "د شبکې تېروتنه: TMDb ته نشي رسیدلی"
+
+msgid "No movie results, %s for %s"
+msgstr "د فلم پایلې نشته، %s لپاره %s"
+
+msgid "No results found for %s!"
+msgstr "د %s لپاره کومه پایله ونه موندل شوه!"
+
+msgid "No results, %s for %s"
+msgstr "هیڅ نتیجه نه ده، %s لپاره %s"
+
+msgid "No series results, %s for %s"
+msgstr "د لړۍ پایلې نشته، %s لپاره %s"
+
+msgid "Picture resolution:"
+msgstr "د عکس حل:"
+
+msgid "Save Cover or Backdrop"
+msgstr "پوښ یا شالید خوندي کړئ"
+
+msgid "Search Text ..."
+msgstr "د متن لټون ..."
+
+msgid "Search for:"
+msgstr "لټون:"
+
+msgid "Setup"
+msgstr "چمتو کول"
+
+msgid "Show Backdrops or Covers"
+msgstr "شالیدونه یا پوښونه وښایاست"
+
+msgid "Start with Backdrops:"
+msgstr "د شالیدونو سره پیل کړئ:"
+
+msgid "TMDb does not respond, try again later!"
+msgstr "TMDb ځواب نه ورکوي، وروسته بیا هڅه وکړئ!"
+
+msgid "TMDb movie results, %s %s for %s"
+msgstr "د TMDb فلم پایلې، %s %s د %s لپاره"
+
+msgid "TMDb result, %s"
+msgstr "د TMDb پایله، %s"
+
+msgid "TMDb search"
+msgstr "د TMDb لټون"
+
+msgid "TMDb search, %s for %s"
+msgstr "د TMDb لټون، د %s لپاره %s"
+
+msgid "TMDb series results, %s %s for %s"
+msgstr "د TMDb لړۍ پایلې، %s %s د %s لپاره"
+
+msgid "backsNcovers"
+msgstr ""
+
+msgid "virtual folder not possible!"
+msgstr "مجازی فولډر امکان نلري!"

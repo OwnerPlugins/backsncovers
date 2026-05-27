@@ -1,0 +1,122 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:00+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Finnish <translation-team-fi@lists.sourceforge.net>\n"
+"Language: fi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "... not saved!"
+msgstr "...ei tallennettu!"
+
+msgid "... saved!"
+msgstr "... pelastettu!"
+
+msgid "Backdrops"
+msgstr "Taustat"
+
+msgid "BacksNcovers"
+msgstr ""
+
+msgid "Close after selection:"
+msgstr "Sulje valinnan jälkeen:"
+
+msgid "Covers"
+msgstr "Kannet"
+
+msgid "Error: {0}"
+msgstr "Virhe: {0}"
+
+msgid "Exit"
+msgstr "Poistu"
+
+msgid "FileBot Schema:"
+msgstr "FileBot-skeema:"
+
+msgid "Find Backdrops & Covers ..."
+msgstr "Etsi taustakuvia ja kansia..."
+
+msgid "Find Backdrops and Covers for Movielist"
+msgstr "Etsi taustakuvia ja kansia Movielistille"
+
+msgid "Find Movies"
+msgstr "Etsi elokuvia"
+
+msgid "Find Series"
+msgstr "Etsi sarja"
+
+msgid "Find all movies or series"
+msgstr "Etsi kaikki elokuvat tai sarjat"
+
+msgid "Image successfully saved."
+msgstr "Kuvan tallennus onnistui."
+
+msgid "Language:"
+msgstr "Kieli:"
+
+msgid "Loading %s for %s"
+msgstr "Ladataan %s kohteelle %s"
+
+msgid "Network error: cannot reach TMDb"
+msgstr "Verkkovirhe: TMDb:tä ei saada yhteyttä"
+
+msgid "No movie results, %s for %s"
+msgstr "Ei elokuvatuloksia, %s haulle %s"
+
+msgid "No results found for %s!"
+msgstr "Ei tuloksia haulle %s!"
+
+msgid "No results, %s for %s"
+msgstr "Ei tuloksia, %s kohteelle %s"
+
+msgid "No series results, %s for %s"
+msgstr "Ei sarjatuloksia, %s kohteelle %s"
+
+msgid "Picture resolution:"
+msgstr "Kuvan resoluutio:"
+
+msgid "Save Cover or Backdrop"
+msgstr "Tallenna kansi tai tausta"
+
+msgid "Search Text ..."
+msgstr "Hae tekstiä..."
+
+msgid "Search for:"
+msgstr "Hae:"
+
+msgid "Setup"
+msgstr "Asennus"
+
+msgid "Show Backdrops or Covers"
+msgstr "Näytä taustat tai kannet"
+
+msgid "Start with Backdrops:"
+msgstr "Aloita taustakuvista:"
+
+msgid "TMDb does not respond, try again later!"
+msgstr "TMDb ei vastaa, yritä myöhemmin uudelleen!"
+
+msgid "TMDb movie results, %s %s for %s"
+msgstr "TMDb-elokuvatulokset, %s %s %s:lle"
+
+msgid "TMDb result, %s"
+msgstr "TMDb-tulos, %s"
+
+msgid "TMDb search"
+msgstr "TMDb-haku"
+
+msgid "TMDb search, %s for %s"
+msgstr "TMDb-haku, %s haulle %s"
+
+msgid "TMDb series results, %s %s for %s"
+msgstr "TMDb-sarjan tulokset, %s %s %s:lle"
+
+msgid "backsNcovers"
+msgstr "selkäkannet"
+
+msgid "virtual folder not possible!"
+msgstr "virtuaalinen kansio ei ole mahdollista!"

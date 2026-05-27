@@ -1,0 +1,122 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:20+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Norwegian\n"
+"Language: no\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "... not saved!"
+msgstr "... ikke lagret!"
+
+msgid "... saved!"
+msgstr "... reddet!"
+
+msgid "Backdrops"
+msgstr "Baktepper"
+
+msgid "BacksNcovers"
+msgstr ""
+
+msgid "Close after selection:"
+msgstr "Lukk etter valg:"
+
+msgid "Covers"
+msgstr "Dekker"
+
+msgid "Error: {0}"
+msgstr "Feil: {0}"
+
+msgid "Exit"
+msgstr "Gå"
+
+msgid "FileBot Schema:"
+msgstr "FileBot-skjema:"
+
+msgid "Find Backdrops & Covers ..."
+msgstr "Finn bakgrunner og omslag ..."
+
+msgid "Find Backdrops and Covers for Movielist"
+msgstr "Finn bakgrunner og omslag for filmlisten"
+
+msgid "Find Movies"
+msgstr "Finn filmer"
+
+msgid "Find Series"
+msgstr "Finn serier"
+
+msgid "Find all movies or series"
+msgstr "Finn alle filmer eller serier"
+
+msgid "Image successfully saved."
+msgstr "Bildet er lagret."
+
+msgid "Language:"
+msgstr "Språk:"
+
+msgid "Loading %s for %s"
+msgstr "Laster inn %s for %s"
+
+msgid "Network error: cannot reach TMDb"
+msgstr "Nettverksfeil: kan ikke nå TMDb"
+
+msgid "No movie results, %s for %s"
+msgstr "Ingen filmresultater, %s for %s"
+
+msgid "No results found for %s!"
+msgstr "Ingen resultater funnet for %s!"
+
+msgid "No results, %s for %s"
+msgstr "Ingen resultater, %s for %s"
+
+msgid "No series results, %s for %s"
+msgstr "Ingen serieresultater, %s for %s"
+
+msgid "Picture resolution:"
+msgstr "Bildeoppløsning:"
+
+msgid "Save Cover or Backdrop"
+msgstr "Lagre omslag eller bakteppe"
+
+msgid "Search Text ..."
+msgstr "Søk etter tekst ..."
+
+msgid "Search for:"
+msgstr "Søk etter:"
+
+msgid "Setup"
+msgstr "Oppsett"
+
+msgid "Show Backdrops or Covers"
+msgstr "Vis bakgrunner eller omslag"
+
+msgid "Start with Backdrops:"
+msgstr "Start med bakgrunner:"
+
+msgid "TMDb does not respond, try again later!"
+msgstr "TMDb svarer ikke, prøv igjen senere!"
+
+msgid "TMDb movie results, %s %s for %s"
+msgstr "TMDb-filmresultater, %s %s for %s"
+
+msgid "TMDb result, %s"
+msgstr "TMDb-resultat, %s"
+
+msgid "TMDb search"
+msgstr "TMDb-søk"
+
+msgid "TMDb search, %s for %s"
+msgstr "TMDb-søk, %s for %s"
+
+msgid "TMDb series results, %s %s for %s"
+msgstr "TMDb-serieresultater, %s %s for %s"
+
+msgid "backsNcovers"
+msgstr "baksidedekker"
+
+msgid "virtual folder not possible!"
+msgstr "virtuell mappe ikke mulig!"

@@ -15,156 +15,113 @@ msgstr ""
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-SearchPath-0: backsNcovers.py\n"
 
-#: backsNcovers.py:63
-msgid "backsNcovers"
-msgstr ""
+msgid "... not saved!"
+msgstr "...non salvato!"
 
-#: backsNcovers.py:64
-msgid "Find Backdrops and Covers for Movielist"
-msgstr ""
+msgid "... saved!"
+msgstr "...salvato!"
 
-#: backsNcovers.py:113
-msgid "backsNcovers Setup"
-msgstr ""
-
-#: backsNcovers.py:124
-msgid "OK"
-msgstr ""
-
-#: backsNcovers.py:125
-msgid "Cancel"
-msgstr ""
-
-#: backsNcovers.py:136
-msgid "Picture resolution:"
-msgstr ""
-
-#: backsNcovers.py:137
-msgid "Language:"
-msgstr ""
-
-#: backsNcovers.py:138
-msgid "Start with Backdrops:"
-msgstr ""
-
-#: backsNcovers.py:139
-msgid "FileBot Pattern:"
-msgstr ""
-
-#: backsNcovers.py:140
-msgid "Close after selection:"
-msgstr ""
-
-#: backsNcovers.py:198
-msgid "virtual folder not possible!"
-msgstr ""
-
-#: backsNcovers.py:202
-msgid "Show Backdrops or Covers"
-msgstr ""
-
-#: backsNcovers.py:203 backsNcovers.py:230
-msgid "Search Text ..."
-msgstr ""
-
-#: backsNcovers.py:204 backsNcovers.py:231
-msgid "Find Series"
-msgstr ""
-
-#: backsNcovers.py:205 backsNcovers.py:232
-msgid "Find Movies"
-msgstr ""
-
-#: backsNcovers.py:206
-msgid "Setup"
-msgstr ""
-
-#: backsNcovers.py:207
-msgid "Exit"
-msgstr ""
-
-#: backsNcovers.py:208
-msgid "Save Cover or Backdrop"
-msgstr ""
-
-#: backsNcovers.py:209
-msgid "Find all movies or series"
-msgstr ""
-
-#: backsNcovers.py:222 backsNcovers.py:226 backsNcovers.py:276
 msgid "Backdrops"
-msgstr ""
+msgstr "Fondali"
 
-#: backsNcovers.py:223 backsNcovers.py:225 backsNcovers.py:272
+msgid "BacksNcovers"
+msgstr "SchienaliNcopertine"
+
+msgid "Close after selection:"
+msgstr "Chiudi dopo la selezione:"
+
 msgid "Covers"
-msgstr ""
+msgstr "Copertine"
 
-#: backsNcovers.py:228
-msgid "TMDb search"
-msgstr ""
-
-#: backsNcovers.py:261
-msgid "TMDb does not respond, try again later!"
-msgstr ""
-
-#: backsNcovers.py:265
-#, python-format
-msgid "TMDb search, %s for %s"
-msgstr ""
-
-#: backsNcovers.py:302
-msgid "Search for:"
-msgstr ""
-
-#: backsNcovers.py:316
-#, python-format
-msgid "Loading %s for %s"
-msgstr ""
-
-#: backsNcovers.py:324
-#, python-format
-msgid "No results found for %s!"
-msgstr ""
-
-#: backsNcovers.py:376
-#, python-format
-msgid "No movie results, %s for %s"
-msgstr ""
-
-#: backsNcovers.py:378
-#, python-format
-msgid "No series results, %s for %s"
-msgstr ""
-
-#: backsNcovers.py:380
-#, python-format
-msgid "No results, %s for %s"
-msgstr ""
-
-#: backsNcovers.py:385
-#, python-brace-format
 msgid "Error: {0}"
-msgstr ""
+msgstr "Errore: {0}"
 
-#: backsNcovers.py:442 backsNcovers.py:449
-#, python-format
-msgid "TMDb result, %s"
-msgstr ""
+msgid "Exit"
+msgstr "Uscita"
 
-#: backsNcovers.py:442
-msgid " ... not saved!"
-msgstr ""
+msgid "FileBot Schema:"
+msgstr "Schema FileBot:"
 
-#: backsNcovers.py:449
-msgid " ... saved!"
-msgstr ""
+msgid "Find Backdrops & Covers ..."
+msgstr "Trova Fondali e Copertine..."
 
-#: backsNcovers.py:462
-#, python-format
+msgid "Find Backdrops and Covers for Movielist"
+msgstr "Trova sfondi e copertine per Movielist"
+
+msgid "Find Movies"
+msgstr "Trova film"
+
+msgid "Find Series"
+msgstr "Trova serie"
+
+msgid "Find all movies or series"
+msgstr "Trova tutti i film o le serie"
+
+msgid "Image successfully saved."
+msgstr "Immagine salvata con successo."
+
+msgid "Language:"
+msgstr "Lingua:"
+
+msgid "Loading %s for %s"
+msgstr "Caricamento %s per %s"
+
+msgid "Network error: cannot reach TMDb"
+msgstr "Errore di rete: impossibile raggiungere TMDb"
+
+msgid "No movie results, %s for %s"
+msgstr "Nessun risultato di film, %s per %s"
+
+msgid "No results found for %s!"
+msgstr "Nessun risultato trovato per %s!"
+
+msgid "No results, %s for %s"
+msgstr "Nessun risultato, %s per %s"
+
+msgid "No series results, %s for %s"
+msgstr "Nessun risultato in serie, %s per %s"
+
+msgid "Picture resolution:"
+msgstr "Risoluzione dell'immagine:"
+
+msgid "Save Cover or Backdrop"
+msgstr "Salva copertina o sfondo"
+
+msgid "Search Text ..."
+msgstr "Cerca testo..."
+
+msgid "Search for:"
+msgstr "Cercare:"
+
+msgid "Setup"
+msgstr "Impostare"
+
+msgid "Show Backdrops or Covers"
+msgstr "Mostra sfondi o copertine"
+
+msgid "Start with Backdrops:"
+msgstr "Inizia con gli sfondi:"
+
+msgid "TMDb does not respond, try again later!"
+msgstr "TMDb non risponde, riprova più tardi!"
+
 msgid "TMDb movie results, %s %s for %s"
-msgstr ""
+msgstr "Risultati del film TMDb, %s %s per %s"
 
-#: backsNcovers.py:464
-#, python-format
+msgid "TMDb result, %s"
+msgstr "Risultato TMDb, %s"
+
+msgid "TMDb search"
+msgstr "Ricerca su TMDb"
+
+msgid "TMDb search, %s for %s"
+msgstr "Ricerca TMDb, %s per %s"
+
 msgid "TMDb series results, %s %s for %s"
-msgstr ""
+msgstr "Risultati della serie TMDb, %s %s per %s"
+
+msgid "backsNcovers"
+msgstr "dorsiNcopertine"
+
+msgid "virtual folder not possible!"
+msgstr "cartella virtuale non possibile!"

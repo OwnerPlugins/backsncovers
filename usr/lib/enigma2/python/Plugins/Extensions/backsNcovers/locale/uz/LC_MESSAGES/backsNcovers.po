@@ -1,0 +1,121 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:35+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Uzbek\n"
+"Language: uz\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "... not saved!"
+msgstr "... saqlanmadi!"
+
+msgid "... saved!"
+msgstr "... saqlangan!"
+
+msgid "Backdrops"
+msgstr "Orqa fon lavhalari"
+
+msgid "BacksNcovers"
+msgstr ""
+
+msgid "Close after selection:"
+msgstr "Tanlovdan keyin yopish:"
+
+msgid "Covers"
+msgstr "Qopqoqlar"
+
+msgid "Error: {0}"
+msgstr "Xato: {0}"
+
+msgid "Exit"
+msgstr "Chiqish"
+
+msgid "FileBot Schema:"
+msgstr "FileBot sxemasi:"
+
+msgid "Find Backdrops & Covers ..."
+msgstr "Orqa fon lavhalari va muqovalarini toping..."
+
+msgid "Find Backdrops and Covers for Movielist"
+msgstr "Filmlar roʻyxati uchun fon lavhalari va muqovalarini toping"
+
+msgid "Find Movies"
+msgstr "Filmlarni toping"
+
+msgid "Find Series"
+msgstr "Seriyani toping"
+
+msgid "Find all movies or series"
+msgstr "Barcha filmlar yoki seriallarni toping"
+
+msgid "Image successfully saved."
+msgstr "Rasm muvaffaqiyatli saqlandi."
+
+msgid "Language:"
+msgstr "Til:"
+
+msgid "Loading %s for %s"
+msgstr "%s uchun %s yuklanmoqda"
+
+msgid "Network error: cannot reach TMDb"
+msgstr "Tarmoq xatosi: TMDb ga ulanib bo'lmadi"
+
+msgid "No movie results, %s for %s"
+msgstr "Film natijalari yo‘q, %s uchun %s"
+
+msgid "No results found for %s!"
+msgstr "%s uchun hech qanday natija topilmadi!"
+
+msgid "No results, %s for %s"
+msgstr "Natija yo‘q, %s uchun %s"
+
+msgid "No series results, %s for %s"
+msgstr "Seriyali natijalar yo‘q, %s uchun %s"
+
+msgid "Picture resolution:"
+msgstr "Rasm o'lchamlari:"
+
+msgid "Save Cover or Backdrop"
+msgstr "Muqova yoki fon rasmini saqlang"
+
+msgid "Search Text ..."
+msgstr "Matnni qidirish ..."
+
+msgid "Search for:"
+msgstr "Ni qidirish:"
+
+msgid "Setup"
+msgstr "Sozlash; o'rnatish"
+
+msgid "Show Backdrops or Covers"
+msgstr "Orqa fon lavhalari yoki qopqoqlarni ko'rsatish"
+
+msgid "Start with Backdrops:"
+msgstr "Orqa fon lavhalaridan boshlang:"
+
+msgid "TMDb does not respond, try again later!"
+msgstr "TMDb javob bermayapti, keyinroq qayta urinib ko'ring!"
+
+msgid "TMDb movie results, %s %s for %s"
+msgstr "TMDb film natijalari, %s uchun %s %s"
+
+msgid "TMDb result, %s"
+msgstr "TMDb natijasi, %s"
+
+msgid "TMDb search"
+msgstr "TMDb qidiruvi"
+
+msgid "TMDb search, %s for %s"
+msgstr "TMDb qidiruvi, %s uchun %s"
+
+msgid "TMDb series results, %s %s for %s"
+msgstr "TMDb seriyasi natijalari, %s uchun %s %s"
+
+msgid "backsNcovers"
+msgstr ""
+
+msgid "virtual folder not possible!"
+msgstr "virtual jild mumkin emas!"

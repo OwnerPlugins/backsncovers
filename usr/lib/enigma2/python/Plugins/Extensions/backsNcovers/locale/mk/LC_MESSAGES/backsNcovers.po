@@ -1,0 +1,121 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:14+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Macedonian <ufo@linux.net.mk>\n"
+"Language: mk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "... not saved!"
+msgstr "... не е зачувано!"
+
+msgid "... saved!"
+msgstr "... спасен!"
+
+msgid "Backdrops"
+msgstr "Позадини"
+
+msgid "BacksNcovers"
+msgstr "Покривки за грб"
+
+msgid "Close after selection:"
+msgstr "Затвори по изборот:"
+
+msgid "Covers"
+msgstr "Навлаки"
+
+msgid "Error: {0}"
+msgstr "Грешка: {0}"
+
+msgid "Exit"
+msgstr "Излезете"
+
+msgid "FileBot Schema:"
+msgstr "Шема FileBot:"
+
+msgid "Find Backdrops & Covers ..."
+msgstr "Најдете заднини и корици ..."
+
+msgid "Find Backdrops and Covers for Movielist"
+msgstr "Најдете заднини и корици за филмска листа"
+
+msgid "Find Movies"
+msgstr "Најдете филмови"
+
+msgid "Find Series"
+msgstr "Најдете серии"
+
+msgid "Find all movies or series"
+msgstr "Најдете ги сите филмови или серии"
+
+msgid "Image successfully saved."
+msgstr "Сликата е успешно зачувана."
+
+msgid "Language:"
+msgstr "Јазик:"
+
+msgid "Loading %s for %s"
+msgstr "Се вчитува %s за %s"
+
+msgid "Network error: cannot reach TMDb"
+msgstr "Мрежна грешка: не може да стигне до TMDb"
+
+msgid "No movie results, %s for %s"
+msgstr "Нема резултати од филмот, %s за %s"
+
+msgid "No results found for %s!"
+msgstr "Не се најдени резултати за %s!"
+
+msgid "No results, %s for %s"
+msgstr "Нема резултати, %s за %s"
+
+msgid "No series results, %s for %s"
+msgstr "Нема резултати од серија, %s за %s"
+
+msgid "Picture resolution:"
+msgstr "Резолуција на сликата:"
+
+msgid "Save Cover or Backdrop"
+msgstr "Зачувај корица или заднина"
+
+msgid "Search Text ..."
+msgstr "Пребарај текст..."
+
+msgid "Search for:"
+msgstr "Пребарај за:"
+
+msgid "Setup"
+msgstr "Поставување"
+
+msgid "Show Backdrops or Covers"
+msgstr "Прикажи заднини или корици"
+
+msgid "Start with Backdrops:"
+msgstr "Започнете со заднини:"
+
+msgid "TMDb does not respond, try again later!"
+msgstr "TMDb не реагира, обидете се повторно подоцна!"
+
+msgid "TMDb movie results, %s %s for %s"
+msgstr "Резултати од TMDb филм, %s %s за %s"
+
+msgid "TMDb result, %s"
+msgstr "Резултат на TMDb, %s"
+
+msgid "TMDb search"
+msgstr "TMDb пребарување"
+
+msgid "TMDb search, %s for %s"
+msgstr "TMDb пребарување, %s за %s"
+
+msgid "TMDb series results, %s %s for %s"
+msgstr "Резултати од серијата TMDb, %s %s за %s"
+
+msgid "backsNcovers"
+msgstr "грбни корици"
+
+msgid "virtual folder not possible!"
+msgstr "виртуелната папка не е можна!"

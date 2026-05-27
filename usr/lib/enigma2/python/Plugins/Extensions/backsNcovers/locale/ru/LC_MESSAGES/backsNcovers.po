@@ -1,0 +1,122 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:24+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Russian <gnu@d07.ru>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+msgid "... not saved!"
+msgstr "...не сохранено!"
+
+msgid "... saved!"
+msgstr "... спасён!"
+
+msgid "Backdrops"
+msgstr "Фоны"
+
+msgid "BacksNcovers"
+msgstr "СпинкиОбложки"
+
+msgid "Close after selection:"
+msgstr "Закрыть после выбора:"
+
+msgid "Covers"
+msgstr "Обложки"
+
+msgid "Error: {0}"
+msgstr "Ошибка: {0}"
+
+msgid "Exit"
+msgstr "Выход"
+
+msgid "FileBot Schema:"
+msgstr "Схема FileBot:"
+
+msgid "Find Backdrops & Covers ..."
+msgstr "Найдите фоны и обложки..."
+
+msgid "Find Backdrops and Covers for Movielist"
+msgstr "Найдите фоны и обложки для Movielist"
+
+msgid "Find Movies"
+msgstr "Найти фильмы"
+
+msgid "Find Series"
+msgstr "Найти серию"
+
+msgid "Find all movies or series"
+msgstr "Найти все фильмы или сериалы"
+
+msgid "Image successfully saved."
+msgstr "Изображение успешно сохранено."
+
+msgid "Language:"
+msgstr "Язык:"
+
+msgid "Loading %s for %s"
+msgstr "Загрузка %s для %s"
+
+msgid "Network error: cannot reach TMDb"
+msgstr "Ошибка сети: невозможно подключиться к TMDb"
+
+msgid "No movie results, %s for %s"
+msgstr "Нет результатов фильма, %s для %s"
+
+msgid "No results found for %s!"
+msgstr "По запросу %s результатов не найдено!"
+
+msgid "No results, %s for %s"
+msgstr "Нет результатов, %s для %s"
+
+msgid "No series results, %s for %s"
+msgstr "Нет результатов серии, %s для %s"
+
+msgid "Picture resolution:"
+msgstr "Разрешение изображения:"
+
+msgid "Save Cover or Backdrop"
+msgstr "Сохранить обложку или фон"
+
+msgid "Search Text ..."
+msgstr "Поиск текста..."
+
+msgid "Search for:"
+msgstr "Искать:"
+
+msgid "Setup"
+msgstr "Настраивать"
+
+msgid "Show Backdrops or Covers"
+msgstr "Показать фоны или обложки"
+
+msgid "Start with Backdrops:"
+msgstr "Начните с фонов:"
+
+msgid "TMDb does not respond, try again later!"
+msgstr "TMDb не отвечает, повторите попытку позже!"
+
+msgid "TMDb movie results, %s %s for %s"
+msgstr "Результаты фильма TMDb, %s %s для %s"
+
+msgid "TMDb result, %s"
+msgstr "Результат TMDb, %s"
+
+msgid "TMDb search"
+msgstr "Поиск в TMDb"
+
+msgid "TMDb search, %s for %s"
+msgstr "Поиск в TMDb, %s для %s"
+
+msgid "TMDb series results, %s %s for %s"
+msgstr "Результаты серии TMDb, %s %s для %s"
+
+msgid "backsNcovers"
+msgstr "спинкиНобложки"
+
+msgid "virtual folder not possible!"
+msgstr "виртуальная папка невозможна!"

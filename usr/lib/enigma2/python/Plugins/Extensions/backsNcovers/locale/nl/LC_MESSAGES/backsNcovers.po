@@ -1,0 +1,122 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:19+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Dutch <vertaling@vrijschrift.org>\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "... not saved!"
+msgstr "... niet gered!"
+
+msgid "... saved!"
+msgstr "... gered!"
+
+msgid "Backdrops"
+msgstr "Achtergronden"
+
+msgid "BacksNcovers"
+msgstr "RugNcovers"
+
+msgid "Close after selection:"
+msgstr "Sluiten na selectie:"
+
+msgid "Covers"
+msgstr "Hoezen"
+
+msgid "Error: {0}"
+msgstr "Fout: {0}"
+
+msgid "Exit"
+msgstr "Uitgang"
+
+msgid "FileBot Schema:"
+msgstr "FileBot-schema:"
+
+msgid "Find Backdrops & Covers ..."
+msgstr "Vind achtergronden en covers..."
+
+msgid "Find Backdrops and Covers for Movielist"
+msgstr "Vind achtergronden en covers voor Movielist"
+
+msgid "Find Movies"
+msgstr "Zoek films"
+
+msgid "Find Series"
+msgstr "Zoek serie"
+
+msgid "Find all movies or series"
+msgstr "Vind alle films of series"
+
+msgid "Image successfully saved."
+msgstr "Afbeelding succesvol opgeslagen."
+
+msgid "Language:"
+msgstr "Taal:"
+
+msgid "Loading %s for %s"
+msgstr "%s laden voor %s"
+
+msgid "Network error: cannot reach TMDb"
+msgstr "Netwerkfout: kan TMDb niet bereiken"
+
+msgid "No movie results, %s for %s"
+msgstr "Geen filmresultaten, %s voor %s"
+
+msgid "No results found for %s!"
+msgstr "Geen resultaten gevonden voor %s!"
+
+msgid "No results, %s for %s"
+msgstr "Geen resultaten, %s voor %s"
+
+msgid "No series results, %s for %s"
+msgstr "Geen serieresultaten, %s voor %s"
+
+msgid "Picture resolution:"
+msgstr "Beeldresolutie:"
+
+msgid "Save Cover or Backdrop"
+msgstr "Bewaar omslag of achtergrond"
+
+msgid "Search Text ..."
+msgstr "Tekst zoeken..."
+
+msgid "Search for:"
+msgstr "Zoeken naar:"
+
+msgid "Setup"
+msgstr "Installatie"
+
+msgid "Show Backdrops or Covers"
+msgstr "Laat achtergronden of omslagen zien"
+
+msgid "Start with Backdrops:"
+msgstr "Begin met achtergronden:"
+
+msgid "TMDb does not respond, try again later!"
+msgstr "TMDb reageert niet, probeer het later opnieuw!"
+
+msgid "TMDb movie results, %s %s for %s"
+msgstr "TMDb-filmresultaten, %s %s voor %s"
+
+msgid "TMDb result, %s"
+msgstr "TMDb-resultaat, %s"
+
+msgid "TMDb search"
+msgstr "TMDb-zoekopdracht"
+
+msgid "TMDb search, %s for %s"
+msgstr "TMDb-zoekopdracht, %s voor %s"
+
+msgid "TMDb series results, %s %s for %s"
+msgstr "Resultaten uit de TMDb-serie, %s %s voor %s"
+
+msgid "backsNcovers"
+msgstr "rugNcovers"
+
+msgid "virtual folder not possible!"
+msgstr "virtuele map niet mogelijk!"

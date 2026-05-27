@@ -1,0 +1,121 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:21+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Punjabi <punjabi-l10n@lists.sourceforge.net>\n"
+"Language: pa\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "... not saved!"
+msgstr "... ਸੰਭਾਲਿਆ ਨਹੀਂ ਗਿਆ!"
+
+msgid "... saved!"
+msgstr "...ਬਚਾਇਆ!"
+
+msgid "Backdrops"
+msgstr "ਬੈਕਡ੍ਰੌਪਸ"
+
+msgid "BacksNcovers"
+msgstr ""
+
+msgid "Close after selection:"
+msgstr "ਚੋਣ ਤੋਂ ਬਾਅਦ ਬੰਦ ਕਰੋ:"
+
+msgid "Covers"
+msgstr "ਕਵਰ ਕਰਦਾ ਹੈ"
+
+msgid "Error: {0}"
+msgstr "ਗਲਤੀ: {0}"
+
+msgid "Exit"
+msgstr "ਨਿਕਾਸ"
+
+msgid "FileBot Schema:"
+msgstr "ਫਾਈਲਬੋਟ ਸਕੀਮਾ:"
+
+msgid "Find Backdrops & Covers ..."
+msgstr "ਬੈਕਡ੍ਰੌਪਸ ਅਤੇ ਕਵਰ ਲੱਭੋ..."
+
+msgid "Find Backdrops and Covers for Movielist"
+msgstr "ਮੂਵੀਲਿਸਟ ਲਈ ਬੈਕਡ੍ਰੌਪਸ ਅਤੇ ਕਵਰ ਲੱਭੋ"
+
+msgid "Find Movies"
+msgstr "ਫ਼ਿਲਮਾਂ ਲੱਭੋ"
+
+msgid "Find Series"
+msgstr "ਸੀਰੀਜ਼ ਲੱਭੋ"
+
+msgid "Find all movies or series"
+msgstr "ਸਾਰੀਆਂ ਫਿਲਮਾਂ ਜਾਂ ਸੀਰੀਜ਼ ਲੱਭੋ"
+
+msgid "Image successfully saved."
+msgstr "ਚਿੱਤਰ ਨੂੰ ਸਫਲਤਾਪੂਰਵਕ ਸੁਰੱਖਿਅਤ ਕੀਤਾ ਗਿਆ।"
+
+msgid "Language:"
+msgstr "ਭਾਸ਼ਾ:"
+
+msgid "Loading %s for %s"
+msgstr "%s ਲਈ %s ਲੋਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ"
+
+msgid "Network error: cannot reach TMDb"
+msgstr "ਨੈੱਟਵਰਕ ਗੜਬੜ: TMDb ਤੱਕ ਨਹੀਂ ਪਹੁੰਚ ਸਕਦਾ"
+
+msgid "No movie results, %s for %s"
+msgstr "ਕੋਈ ਮੂਵੀ ਨਤੀਜੇ ਨਹੀਂ, %s ਲਈ %s"
+
+msgid "No results found for %s!"
+msgstr "%s ਲਈ ਕੋਈ ਨਤੀਜੇ ਨਹੀਂ ਮਿਲੇ!"
+
+msgid "No results, %s for %s"
+msgstr "ਕੋਈ ਨਤੀਜਾ ਨਹੀਂ, %s ਲਈ %s"
+
+msgid "No series results, %s for %s"
+msgstr "ਕੋਈ ਸੀਰੀਜ਼ ਨਤੀਜੇ ਨਹੀਂ, %s ਲਈ %s"
+
+msgid "Picture resolution:"
+msgstr "ਤਸਵੀਰ ਰੈਜ਼ੋਲਿਊਸ਼ਨ:"
+
+msgid "Save Cover or Backdrop"
+msgstr "ਕਵਰ ਜਾਂ ਬੈਕਡ੍ਰੌਪ ਸੁਰੱਖਿਅਤ ਕਰੋ"
+
+msgid "Search Text ..."
+msgstr "ਪਾਠ ਖੋਜੋ..."
+
+msgid "Search for:"
+msgstr "ਲਈ ਖੋਜ:"
+
+msgid "Setup"
+msgstr "ਸਥਾਪਨਾ ਕਰਨਾ"
+
+msgid "Show Backdrops or Covers"
+msgstr "ਬੈਕਡ੍ਰੌਪਸ ਜਾਂ ਕਵਰ ਦਿਖਾਓ"
+
+msgid "Start with Backdrops:"
+msgstr "ਬੈਕਡ੍ਰੌਪਸ ਨਾਲ ਸ਼ੁਰੂ ਕਰੋ:"
+
+msgid "TMDb does not respond, try again later!"
+msgstr "TMDb ਜਵਾਬ ਨਹੀਂ ਦਿੰਦਾ, ਬਾਅਦ ਵਿੱਚ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ!"
+
+msgid "TMDb movie results, %s %s for %s"
+msgstr "TMDb ਮੂਵੀ ਨਤੀਜੇ, %s ਲਈ %s %s"
+
+msgid "TMDb result, %s"
+msgstr "TMDb ਨਤੀਜਾ, %s"
+
+msgid "TMDb search"
+msgstr "TMDb ਖੋਜ"
+
+msgid "TMDb search, %s for %s"
+msgstr "TMDb ਖੋਜ, %s ਲਈ %s"
+
+msgid "TMDb series results, %s %s for %s"
+msgstr "TMDb ਸੀਰੀਜ਼ ਦੇ ਨਤੀਜੇ, %s ਲਈ %s %s"
+
+msgid "backsNcovers"
+msgstr ""
+
+msgid "virtual folder not possible!"
+msgstr "ਵਰਚੁਅਲ ਫੋਲਡਰ ਸੰਭਵ ਨਹੀਂ ਹੈ!"

@@ -1,0 +1,121 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:18+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Burmese\n"
+"Language: my\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "... not saved!"
+msgstr "... မကယ်တင်ပါ!"
+
+msgid "... saved!"
+msgstr "... ကယ်ပြီ!"
+
+msgid "Backdrops"
+msgstr "နောက်ခံကားချပ်များ"
+
+msgid "BacksNcovers"
+msgstr ""
+
+msgid "Close after selection:"
+msgstr "ရွေးချယ်ပြီးနောက် ပိတ်ပါ"
+
+msgid "Covers"
+msgstr "အဖုံးများ"
+
+msgid "Error: {0}"
+msgstr "အမှား- {0}"
+
+msgid "Exit"
+msgstr "ထွက်ပေါက်"
+
+msgid "FileBot Schema:"
+msgstr "FileBot အစီအစဉ်-"
+
+msgid "Find Backdrops & Covers ..."
+msgstr "နောက်ခံကားများနှင့် အဖုံးများကို ရှာပါ..."
+
+msgid "Find Backdrops and Covers for Movielist"
+msgstr "ရုပ်ရှင်စာရင်းအတွက် နောက်ခံကားများနှင့် အဖုံးများကို ရှာပါ။"
+
+msgid "Find Movies"
+msgstr "ရုပ်ရှင်များကိုရှာပါ။"
+
+msgid "Find Series"
+msgstr "စီးရီးရှာပါ။"
+
+msgid "Find all movies or series"
+msgstr "ရုပ်ရှင် သို့မဟုတ် စီးရီးအားလုံးကို ရှာပါ။"
+
+msgid "Image successfully saved."
+msgstr "ပုံကို အောင်မြင်စွာ သိမ်းဆည်းပြီးပါပြီ။"
+
+msgid "Language:"
+msgstr "ဘာသာစကား-"
+
+msgid "Loading %s for %s"
+msgstr "%s အတွက် %s ကို ဖွင့်နေပါသည်။"
+
+msgid "Network error: cannot reach TMDb"
+msgstr "ကွန်ရက်အမှားအယွင်း- TMDb သို့ မရောက်ရှိနိုင်ပါ။"
+
+msgid "No movie results, %s for %s"
+msgstr "ရုပ်ရှင်ရလဒ်များမရှိပါ၊ %s အတွက် %s"
+
+msgid "No results found for %s!"
+msgstr "%s အတွက် ရလဒ်များ မတွေ့ပါ။"
+
+msgid "No results, %s for %s"
+msgstr "ရလဒ်မရှိပါ၊ %s အတွက် %s"
+
+msgid "No series results, %s for %s"
+msgstr "စီးရီးရလဒ်များမရှိပါ၊ %s အတွက် %s"
+
+msgid "Picture resolution:"
+msgstr "ရုပ်ပုံကြည်လင်ပြတ်သားမှု-"
+
+msgid "Save Cover or Backdrop"
+msgstr "အဖုံး သို့မဟုတ် နောက်ခံကားကို သိမ်းဆည်းပါ။"
+
+msgid "Search Text ..."
+msgstr "စာသားရှာပါ..."
+
+msgid "Search for:"
+msgstr "အားရှာဖွေခြင်း:"
+
+msgid "Setup"
+msgstr "တည်ဆောက်သည်"
+
+msgid "Show Backdrops or Covers"
+msgstr "နောက်ခံကားများ သို့မဟုတ် အဖုံးများကို ပြသပါ။"
+
+msgid "Start with Backdrops:"
+msgstr "နောက်ခံကားများဖြင့် စတင်ပါ။"
+
+msgid "TMDb does not respond, try again later!"
+msgstr "TMDb က မတုံ့ပြန်ပါ၊ နောက်မှ ထပ်ကြိုးစားပါ။"
+
+msgid "TMDb movie results, %s %s for %s"
+msgstr "TMDb ရုပ်ရှင်ရလဒ်များ၊ %s အတွက် %s"
+
+msgid "TMDb result, %s"
+msgstr "TMDb ရလဒ်၊ %s"
+
+msgid "TMDb search"
+msgstr "TMDb ရှာဖွေမှု"
+
+msgid "TMDb search, %s for %s"
+msgstr "TMDb ရှာဖွေမှု၊ %s အတွက် %s"
+
+msgid "TMDb series results, %s %s for %s"
+msgstr "TMDb စီးရီးရလဒ်များ၊ %s အတွက် %s"
+
+msgid "backsNcovers"
+msgstr "ကျောထောက်နောက်ခံများ"
+
+msgid "virtual folder not possible!"
+msgstr "virtual folder မဖြစ်နိုင်ပါ။"

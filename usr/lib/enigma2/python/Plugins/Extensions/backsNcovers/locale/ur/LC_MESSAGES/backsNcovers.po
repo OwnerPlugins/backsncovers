@@ -1,0 +1,121 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:35+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Urdu <jessbody@gmail.com>\n"
+"Language: ur\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "... not saved!"
+msgstr "... محفوظ نہیں!"
+
+msgid "... saved!"
+msgstr "... بچایا!"
+
+msgid "Backdrops"
+msgstr "پس منظر"
+
+msgid "BacksNcovers"
+msgstr ""
+
+msgid "Close after selection:"
+msgstr "انتخاب کے بعد بند کریں:"
+
+msgid "Covers"
+msgstr "احاطہ کرتا ہے۔"
+
+msgid "Error: {0}"
+msgstr "خرابی: {0}"
+
+msgid "Exit"
+msgstr "باہر نکلیں۔"
+
+msgid "FileBot Schema:"
+msgstr "فائل بوٹ سکیما:"
+
+msgid "Find Backdrops & Covers ..."
+msgstr "بیک ڈراپس اور کور تلاش کریں..."
+
+msgid "Find Backdrops and Covers for Movielist"
+msgstr "مووی لسٹ کے لیے بیک ڈراپس اور کور تلاش کریں۔"
+
+msgid "Find Movies"
+msgstr "فلمیں تلاش کریں۔"
+
+msgid "Find Series"
+msgstr "سیریز تلاش کریں۔"
+
+msgid "Find all movies or series"
+msgstr "تمام فلمیں یا سیریز تلاش کریں۔"
+
+msgid "Image successfully saved."
+msgstr "تصویر کامیابی کے ساتھ محفوظ ہو گئی۔"
+
+msgid "Language:"
+msgstr "زبان:"
+
+msgid "Loading %s for %s"
+msgstr "%s کے لیے %s لوڈ ہو رہا ہے۔"
+
+msgid "Network error: cannot reach TMDb"
+msgstr "نیٹ ورک کی خرابی: TMDb تک نہیں پہنچ سکتا"
+
+msgid "No movie results, %s for %s"
+msgstr "کوئی فلم کا نتیجہ نہیں، %s کے لیے %s"
+
+msgid "No results found for %s!"
+msgstr "%s کے لیے کوئی نتیجہ نہیں ملا!"
+
+msgid "No results, %s for %s"
+msgstr "کوئی نتیجہ نہیں، %s کے لیے %s"
+
+msgid "No series results, %s for %s"
+msgstr "سیریز کے کوئی نتائج نہیں، %s کے لیے %s"
+
+msgid "Picture resolution:"
+msgstr "تصویر کی قرارداد:"
+
+msgid "Save Cover or Backdrop"
+msgstr "کور یا بیک ڈراپ محفوظ کریں۔"
+
+msgid "Search Text ..."
+msgstr "متن تلاش کریں..."
+
+msgid "Search for:"
+msgstr "تلاش کریں:"
+
+msgid "Setup"
+msgstr "سیٹ اپ"
+
+msgid "Show Backdrops or Covers"
+msgstr "بیک ڈراپس یا کور دکھائیں۔"
+
+msgid "Start with Backdrops:"
+msgstr "بیک ڈراپس کے ساتھ شروع کریں:"
+
+msgid "TMDb does not respond, try again later!"
+msgstr "TMDb جواب نہیں دیتا، بعد میں دوبارہ کوشش کریں!"
+
+msgid "TMDb movie results, %s %s for %s"
+msgstr "TMDb فلم کے نتائج، %s کے لیے %s %s"
+
+msgid "TMDb result, %s"
+msgstr "TMDb نتیجہ، %s"
+
+msgid "TMDb search"
+msgstr "TMDb تلاش"
+
+msgid "TMDb search, %s for %s"
+msgstr "TMDb تلاش، %s کے لیے %s"
+
+msgid "TMDb series results, %s %s for %s"
+msgstr "TMDb سیریز کے نتائج، %s کے لیے %s %s"
+
+msgid "backsNcovers"
+msgstr ""
+
+msgid "virtual folder not possible!"
+msgstr "ورچوئل فولڈر ممکن نہیں!"

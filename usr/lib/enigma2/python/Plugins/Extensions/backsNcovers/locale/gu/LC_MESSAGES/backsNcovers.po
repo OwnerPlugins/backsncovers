@@ -1,0 +1,121 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:04+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Gujarati\n"
+"Language: gu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "... not saved!"
+msgstr "... સચવાય નહીં!"
+
+msgid "... saved!"
+msgstr "... સાચવ્યું!"
+
+msgid "Backdrops"
+msgstr "બેકડ્રોપ્સ"
+
+msgid "BacksNcovers"
+msgstr ""
+
+msgid "Close after selection:"
+msgstr "પસંદગી પછી બંધ કરો:"
+
+msgid "Covers"
+msgstr "આવરી લે છે"
+
+msgid "Error: {0}"
+msgstr "ભૂલ: {0}"
+
+msgid "Exit"
+msgstr "બહાર નીકળો"
+
+msgid "FileBot Schema:"
+msgstr "ફાઇલબોટ સ્કીમા:"
+
+msgid "Find Backdrops & Covers ..."
+msgstr "બેકડ્રોપ્સ અને કવર શોધો..."
+
+msgid "Find Backdrops and Covers for Movielist"
+msgstr "મૂવીલિસ્ટ માટે બેકડ્રોપ્સ અને કવર શોધો"
+
+msgid "Find Movies"
+msgstr "મૂવીઝ શોધો"
+
+msgid "Find Series"
+msgstr "શ્રેણી શોધો"
+
+msgid "Find all movies or series"
+msgstr "બધી મૂવી અથવા શ્રેણી શોધો"
+
+msgid "Image successfully saved."
+msgstr "છબી સફળતાપૂર્વક સાચવી."
+
+msgid "Language:"
+msgstr "ભાષા:"
+
+msgid "Loading %s for %s"
+msgstr "%s માટે %s લોડ કરી રહ્યું છે"
+
+msgid "Network error: cannot reach TMDb"
+msgstr "નેટવર્ક ભૂલ: TMDb સુધી પહોંચી શકાતું નથી"
+
+msgid "No movie results, %s for %s"
+msgstr "કોઈ મૂવી પરિણામો નથી, %s માટે %s"
+
+msgid "No results found for %s!"
+msgstr "%s માટે કોઈ પરિણામો મળ્યા નથી!"
+
+msgid "No results, %s for %s"
+msgstr "કોઈ પરિણામ નથી, %s માટે %s"
+
+msgid "No series results, %s for %s"
+msgstr "કોઈ શ્રેણી પરિણામો નથી, %s માટે %s"
+
+msgid "Picture resolution:"
+msgstr "ચિત્ર રીઝોલ્યુશન:"
+
+msgid "Save Cover or Backdrop"
+msgstr "કવર અથવા બેકડ્રોપ સાચવો"
+
+msgid "Search Text ..."
+msgstr "ટેક્સ્ટ શોધો..."
+
+msgid "Search for:"
+msgstr "આ માટે શોધો:"
+
+msgid "Setup"
+msgstr "સેટઅપ"
+
+msgid "Show Backdrops or Covers"
+msgstr "બેકડ્રોપ્સ અથવા કવર બતાવો"
+
+msgid "Start with Backdrops:"
+msgstr "બેકડ્રોપ્સ સાથે પ્રારંભ કરો:"
+
+msgid "TMDb does not respond, try again later!"
+msgstr "TMDb પ્રતિસાદ આપતું નથી, પછીથી ફરી પ્રયાસ કરો!"
+
+msgid "TMDb movie results, %s %s for %s"
+msgstr "TMDb મૂવી પરિણામો, %s માટે %s %s"
+
+msgid "TMDb result, %s"
+msgstr "TMDb પરિણામ, %s"
+
+msgid "TMDb search"
+msgstr "TMDb શોધ"
+
+msgid "TMDb search, %s for %s"
+msgstr "TMDb શોધ, %s માટે %s"
+
+msgid "TMDb series results, %s %s for %s"
+msgstr "TMDb શ્રેણી પરિણામો, %s માટે %s %s"
+
+msgid "backsNcovers"
+msgstr ""
+
+msgid "virtual folder not possible!"
+msgstr "વર્ચ્યુઅલ ફોલ્ડર શક્ય નથી!"

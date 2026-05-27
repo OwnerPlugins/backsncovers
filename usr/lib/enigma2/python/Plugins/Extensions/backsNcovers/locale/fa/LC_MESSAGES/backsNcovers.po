@@ -1,0 +1,121 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:00+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Persian <translation-team-fa@lists.sourceforge.net>\n"
+"Language: fa\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "... not saved!"
+msgstr "... ذخیره نشد!"
+
+msgid "... saved!"
+msgstr "... ذخیره شد!"
+
+msgid "Backdrops"
+msgstr "پس زمینه"
+
+msgid "BacksNcovers"
+msgstr ""
+
+msgid "Close after selection:"
+msgstr "بستن پس از انتخاب:"
+
+msgid "Covers"
+msgstr "پوشش می دهد"
+
+msgid "Error: {0}"
+msgstr "خطا: {0}"
+
+msgid "Exit"
+msgstr "خارج شوید"
+
+msgid "FileBot Schema:"
+msgstr "طرحواره FileBot:"
+
+msgid "Find Backdrops & Covers ..."
+msgstr "یافتن پس زمینه و جلد ..."
+
+msgid "Find Backdrops and Covers for Movielist"
+msgstr "پس زمینه و جلدهای فهرست فیلم را پیدا کنید"
+
+msgid "Find Movies"
+msgstr "پیدا کردن فیلم"
+
+msgid "Find Series"
+msgstr "پیدا کردن سری"
+
+msgid "Find all movies or series"
+msgstr "همه فیلم ها یا سریال ها را پیدا کنید"
+
+msgid "Image successfully saved."
+msgstr "تصویر با موفقیت ذخیره شد."
+
+msgid "Language:"
+msgstr "زبان:"
+
+msgid "Loading %s for %s"
+msgstr "در حال بارگیری %s برای %s"
+
+msgid "Network error: cannot reach TMDb"
+msgstr "خطای شبکه: نمی تواند به TMDb برسد"
+
+msgid "No movie results, %s for %s"
+msgstr "نتیجه فیلمی وجود ندارد، %s برای %s"
+
+msgid "No results found for %s!"
+msgstr "هیچ نتیجه ای برای %s یافت نشد!"
+
+msgid "No results, %s for %s"
+msgstr "نتیجه ای وجود ندارد، %s برای %s"
+
+msgid "No series results, %s for %s"
+msgstr "هیچ سری نتیجه‌ای وجود ندارد، %s برای %s"
+
+msgid "Picture resolution:"
+msgstr "وضوح تصویر:"
+
+msgid "Save Cover or Backdrop"
+msgstr "جلد یا پس زمینه را ذخیره کنید"
+
+msgid "Search Text ..."
+msgstr "جستجوی متن ..."
+
+msgid "Search for:"
+msgstr "جستجو برای:"
+
+msgid "Setup"
+msgstr "راه اندازی"
+
+msgid "Show Backdrops or Covers"
+msgstr "نمایش پس زمینه یا جلدها"
+
+msgid "Start with Backdrops:"
+msgstr "با پس زمینه شروع کنید:"
+
+msgid "TMDb does not respond, try again later!"
+msgstr "TMDb پاسخ نمی دهد، بعداً دوباره امتحان کنید!"
+
+msgid "TMDb movie results, %s %s for %s"
+msgstr "نتایج فیلم TMDb، %s %s برای %s"
+
+msgid "TMDb result, %s"
+msgstr "نتیجه TMDb، %s"
+
+msgid "TMDb search"
+msgstr "جستجوی TMDb"
+
+msgid "TMDb search, %s for %s"
+msgstr "جستجوی TMDb، %s برای %s"
+
+msgid "TMDb series results, %s %s for %s"
+msgstr "نتایج سری TMDb، %s %s برای %s"
+
+msgid "backsNcovers"
+msgstr "پوشش های پشتی"
+
+msgid "virtual folder not possible!"
+msgstr "پوشه مجازی امکان پذیر نیست!"

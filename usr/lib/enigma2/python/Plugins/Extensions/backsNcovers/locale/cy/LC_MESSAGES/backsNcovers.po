@@ -1,0 +1,121 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 17:55+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Welsh\n"
+"Language: cy\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "... not saved!"
+msgstr "... heb ei gadw!"
+
+msgid "... saved!"
+msgstr "... arbed!"
+
+msgid "Backdrops"
+msgstr "Cefnlenni"
+
+msgid "BacksNcovers"
+msgstr ""
+
+msgid "Close after selection:"
+msgstr "Cau ar ôl dewis:"
+
+msgid "Covers"
+msgstr "Gorchuddion"
+
+msgid "Error: {0}"
+msgstr "Gwall: {0}"
+
+msgid "Exit"
+msgstr "Ymadael"
+
+msgid "FileBot Schema:"
+msgstr "Sgema FileBot:"
+
+msgid "Find Backdrops & Covers ..."
+msgstr "Dewch o hyd i Gefnlenni a Gorchuddion..."
+
+msgid "Find Backdrops and Covers for Movielist"
+msgstr "Dewch o hyd i Gefnlenni a Chloriau ar gyfer Movielist"
+
+msgid "Find Movies"
+msgstr "Dod o hyd i Ffilmiau"
+
+msgid "Find Series"
+msgstr "Dod o hyd i Gyfres"
+
+msgid "Find all movies or series"
+msgstr "Dewch o hyd i bob ffilm neu gyfres"
+
+msgid "Image successfully saved."
+msgstr "Llwyddwyd i gadw'r llun."
+
+msgid "Language:"
+msgstr "Iaith:"
+
+msgid "Loading %s for %s"
+msgstr "Wrthi'n llwytho %s ar gyfer %s"
+
+msgid "Network error: cannot reach TMDb"
+msgstr "Gwall rhwydwaith: methu cyrraedd TMDb"
+
+msgid "No movie results, %s for %s"
+msgstr "Dim canlyniadau ffilm, %s ar gyfer %s"
+
+msgid "No results found for %s!"
+msgstr "Heb ganfod canlyniadau ar gyfer %s!"
+
+msgid "No results, %s for %s"
+msgstr "Dim canlyniadau, %s ar gyfer %s"
+
+msgid "No series results, %s for %s"
+msgstr "Dim canlyniadau cyfres, %s ar gyfer %s"
+
+msgid "Picture resolution:"
+msgstr "Cydraniad llun:"
+
+msgid "Save Cover or Backdrop"
+msgstr "Arbed Clawr neu Gefndir"
+
+msgid "Search Text ..."
+msgstr "Chwilio Testun ..."
+
+msgid "Search for:"
+msgstr "Chwilio am:"
+
+msgid "Setup"
+msgstr "Gosod"
+
+msgid "Show Backdrops or Covers"
+msgstr "Dangos Cefnlenni neu Gloriau"
+
+msgid "Start with Backdrops:"
+msgstr "Dechreuwch gyda chefnlenni:"
+
+msgid "TMDb does not respond, try again later!"
+msgstr "Nid yw TMDb yn ymateb, ceisiwch eto yn nes ymlaen!"
+
+msgid "TMDb movie results, %s %s for %s"
+msgstr "Canlyniadau ffilm TMDb, %s %s ar gyfer %s"
+
+msgid "TMDb result, %s"
+msgstr "Canlyniad TMDb, %s"
+
+msgid "TMDb search"
+msgstr "Chwiliad TMDb"
+
+msgid "TMDb search, %s for %s"
+msgstr "Chwiliad TMDb, %s ar gyfer %s"
+
+msgid "TMDb series results, %s %s for %s"
+msgstr "Canlyniadau cyfres TMDb, %s %s ar gyfer %s"
+
+msgid "backsNcovers"
+msgstr "cefnNcovers"
+
+msgid "virtual folder not possible!"
+msgstr "ffolder rhithwir ddim yn bosibl!"

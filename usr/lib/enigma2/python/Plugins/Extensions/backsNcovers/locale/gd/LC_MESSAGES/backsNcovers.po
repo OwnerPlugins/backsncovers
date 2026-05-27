@@ -1,0 +1,121 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:02+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Scottish Gaelic <fios@foramnagaidhlig.net>\n"
+"Language: gd\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "... not saved!"
+msgstr "... nach deach a shàbhaladh!"
+
+msgid "... saved!"
+msgstr "... air a shàbhaladh!"
+
+msgid "Backdrops"
+msgstr "Cùl-fhiosrachadh"
+
+msgid "BacksNcovers"
+msgstr ""
+
+msgid "Close after selection:"
+msgstr "Dùin às deidh taghadh:"
+
+msgid "Covers"
+msgstr "Còmhdaich"
+
+msgid "Error: {0}"
+msgstr "Mearachd: {0}"
+
+msgid "Exit"
+msgstr "Ar-a-mach"
+
+msgid "FileBot Schema:"
+msgstr "Sgeama FileBot:"
+
+msgid "Find Backdrops & Covers ..."
+msgstr "Lorg Cùl-fhiosrachadh & Còmhdaichean ..."
+
+msgid "Find Backdrops and Covers for Movielist"
+msgstr "Lorg Cùl-fhiosrachadh is Còmhdaichean airson Liosta Film"
+
+msgid "Find Movies"
+msgstr "Lorg filmichean"
+
+msgid "Find Series"
+msgstr "Lorg sreath"
+
+msgid "Find all movies or series"
+msgstr "Lorg a h-uile film no sreath"
+
+msgid "Image successfully saved."
+msgstr "Chaidh an dealbh a shàbhaladh gu soirbheachail."
+
+msgid "Language:"
+msgstr "Cànan:"
+
+msgid "Loading %s for %s"
+msgstr "A' luchdadh %s airson %s"
+
+msgid "Network error: cannot reach TMDb"
+msgstr "Mearachd lìonraidh: chan urrainn dha TMDb a ruighinn"
+
+msgid "No movie results, %s for %s"
+msgstr "Gun toradh film, %s airson %s"
+
+msgid "No results found for %s!"
+msgstr "Cha deach toradh a lorg airson %s!"
+
+msgid "No results, %s for %s"
+msgstr "Gun toradh, %s airson %s"
+
+msgid "No series results, %s for %s"
+msgstr "Gun toradh san t-sreath, %s airson %s"
+
+msgid "Picture resolution:"
+msgstr "Fuasgladh dhealbhan:"
+
+msgid "Save Cover or Backdrop"
+msgstr "Sàbhail còmhdach no cùl-raon"
+
+msgid "Search Text ..."
+msgstr "Lorg Teacs ..."
+
+msgid "Search for:"
+msgstr "Lorg airson:"
+
+msgid "Setup"
+msgstr "Suidhich"
+
+msgid "Show Backdrops or Covers"
+msgstr "Seall Cùl-fhiosrachadh no Còmhdaichean"
+
+msgid "Start with Backdrops:"
+msgstr "Tòisich le Cùl-fhiosrachadh:"
+
+msgid "TMDb does not respond, try again later!"
+msgstr "Cha bhith TMDb a’ freagairt, feuch ris a-rithist nas fhaide air adhart!"
+
+msgid "TMDb movie results, %s %s for %s"
+msgstr "Toradh film TMDb, %s %s airson %s"
+
+msgid "TMDb result, %s"
+msgstr "Toradh TMDb, %s"
+
+msgid "TMDb search"
+msgstr "Rannsachadh TMDb"
+
+msgid "TMDb search, %s for %s"
+msgstr "Rannsachadh TMDb, %s airson %s"
+
+msgid "TMDb series results, %s %s for %s"
+msgstr "Toraidhean sreath TMDb, %s %s airson %s"
+
+msgid "backsNcovers"
+msgstr "cùl-chòmhdaich"
+
+msgid "virtual folder not possible!"
+msgstr "chan eil am pasgan brìgheil comasach!"

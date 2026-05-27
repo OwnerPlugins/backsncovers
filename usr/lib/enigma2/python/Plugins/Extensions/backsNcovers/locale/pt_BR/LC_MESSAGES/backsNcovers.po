@@ -1,0 +1,121 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:23+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Language pt-BR\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "... not saved!"
+msgstr "... não salvo!"
+
+msgid "... saved!"
+msgstr "... salvo!"
+
+msgid "Backdrops"
+msgstr "Cenários"
+
+msgid "BacksNcovers"
+msgstr ""
+
+msgid "Close after selection:"
+msgstr "Fechar após seleção:"
+
+msgid "Covers"
+msgstr "Capas"
+
+msgid "Error: {0}"
+msgstr "Erro: {0}"
+
+msgid "Exit"
+msgstr "Saída"
+
+msgid "FileBot Schema:"
+msgstr "Esquema do FileBot:"
+
+msgid "Find Backdrops & Covers ..."
+msgstr "Encontre cenários e capas ..."
+
+msgid "Find Backdrops and Covers for Movielist"
+msgstr "Encontre cenários e capas para Movielist"
+
+msgid "Find Movies"
+msgstr "Encontre filmes"
+
+msgid "Find Series"
+msgstr "Encontrar série"
+
+msgid "Find all movies or series"
+msgstr "Encontre todos os filmes ou séries"
+
+msgid "Image successfully saved."
+msgstr "Imagem salva com sucesso."
+
+msgid "Language:"
+msgstr "Linguagem:"
+
+msgid "Loading %s for %s"
+msgstr "Carregando %s para %s"
+
+msgid "Network error: cannot reach TMDb"
+msgstr "Erro de rede: não é possível acessar o TMDb"
+
+msgid "No movie results, %s for %s"
+msgstr "Nenhum resultado de filme, %s para %s"
+
+msgid "No results found for %s!"
+msgstr "Nenhum resultado encontrado para %s!"
+
+msgid "No results, %s for %s"
+msgstr "Nenhum resultado, %s para %s"
+
+msgid "No series results, %s for %s"
+msgstr "Nenhum resultado de série, %s para %s"
+
+msgid "Picture resolution:"
+msgstr "Resolução da imagem:"
+
+msgid "Save Cover or Backdrop"
+msgstr "Salvar capa ou pano de fundo"
+
+msgid "Search Text ..."
+msgstr "Pesquisar texto..."
+
+msgid "Search for:"
+msgstr "Procurar:"
+
+msgid "Setup"
+msgstr "Configurar"
+
+msgid "Show Backdrops or Covers"
+msgstr "Mostrar cenários ou capas"
+
+msgid "Start with Backdrops:"
+msgstr "Comece com cenários:"
+
+msgid "TMDb does not respond, try again later!"
+msgstr "TMDb não responde, tente novamente mais tarde!"
+
+msgid "TMDb movie results, %s %s for %s"
+msgstr "Resultados do filme TMDb, %s %s para %s"
+
+msgid "TMDb result, %s"
+msgstr "Resultado TMDb, %s"
+
+msgid "TMDb search"
+msgstr "Pesquisa TMDb"
+
+msgid "TMDb search, %s for %s"
+msgstr "Pesquisa TMDb, %s para %s"
+
+msgid "TMDb series results, %s %s for %s"
+msgstr "Resultados da série TMDb, %s %s para %s"
+
+msgid "backsNcovers"
+msgstr ""
+
+msgid "virtual folder not possible!"
+msgstr "pasta virtual não é possível!"

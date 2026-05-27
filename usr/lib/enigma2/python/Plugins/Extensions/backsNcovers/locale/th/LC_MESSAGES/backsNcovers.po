@@ -1,0 +1,121 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:30+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Thai <(nothing)>\n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "... not saved!"
+msgstr "... ไม่ได้บันทึกไว้!"
+
+msgid "... saved!"
+msgstr "... บันทึกแล้ว!"
+
+msgid "Backdrops"
+msgstr "ฉากหลัง"
+
+msgid "BacksNcovers"
+msgstr "เบื้องหลังNcovers"
+
+msgid "Close after selection:"
+msgstr "ปิดหลังจากเลือก:"
+
+msgid "Covers"
+msgstr "ปก"
+
+msgid "Error: {0}"
+msgstr "ข้อผิดพลาด: {0}"
+
+msgid "Exit"
+msgstr "ออก"
+
+msgid "FileBot Schema:"
+msgstr ""
+
+msgid "Find Backdrops & Covers ..."
+msgstr "ค้นหาฉากหลังและปก ..."
+
+msgid "Find Backdrops and Covers for Movielist"
+msgstr "ค้นหาฉากหลังและหน้าปกสำหรับรายการภาพยนตร์"
+
+msgid "Find Movies"
+msgstr "ค้นหาภาพยนตร์"
+
+msgid "Find Series"
+msgstr "ค้นหาซีรีส์"
+
+msgid "Find all movies or series"
+msgstr "ค้นหาภาพยนตร์หรือซีรีส์ทั้งหมด"
+
+msgid "Image successfully saved."
+msgstr "บันทึกรูปภาพเรียบร้อยแล้ว"
+
+msgid "Language:"
+msgstr "ภาษา:"
+
+msgid "Loading %s for %s"
+msgstr "กำลังโหลด %s สำหรับ %s"
+
+msgid "Network error: cannot reach TMDb"
+msgstr "ข้อผิดพลาดของเครือข่าย: ไม่สามารถเข้าถึง TMDb"
+
+msgid "No movie results, %s for %s"
+msgstr "ไม่มีผลลัพธ์ภาพยนตร์ %s สำหรับ %s"
+
+msgid "No results found for %s!"
+msgstr "ไม่พบผลลัพธ์สำหรับ %s!"
+
+msgid "No results, %s for %s"
+msgstr "ไม่มีผลลัพธ์ %s สำหรับ %s"
+
+msgid "No series results, %s for %s"
+msgstr "ไม่มีผลลัพธ์แบบอนุกรม %s สำหรับ %s"
+
+msgid "Picture resolution:"
+msgstr "ความละเอียดของภาพ:"
+
+msgid "Save Cover or Backdrop"
+msgstr "บันทึกปกหรือฉากหลัง"
+
+msgid "Search Text ..."
+msgstr "ค้นหาข้อความ ..."
+
+msgid "Search for:"
+msgstr "ค้นหา:"
+
+msgid "Setup"
+msgstr "ตั้งค่า"
+
+msgid "Show Backdrops or Covers"
+msgstr "แสดงฉากหลังหรือปก"
+
+msgid "Start with Backdrops:"
+msgstr "เริ่มต้นด้วยฉากหลัง:"
+
+msgid "TMDb does not respond, try again later!"
+msgstr "TMDb ไม่ตอบสนอง โปรดลองอีกครั้งในภายหลัง!"
+
+msgid "TMDb movie results, %s %s for %s"
+msgstr "ผลลัพธ์ภาพยนตร์ TMDb, %s %s สำหรับ %s"
+
+msgid "TMDb result, %s"
+msgstr "ผลลัพธ์ TMDb, %s"
+
+msgid "TMDb search"
+msgstr "ค้นหา TMDb"
+
+msgid "TMDb search, %s for %s"
+msgstr "ค้นหา TMDb, %s สำหรับ %s"
+
+msgid "TMDb series results, %s %s for %s"
+msgstr "ผลลัพธ์ซีรีส์ TMDb, %s %s สำหรับ %s"
+
+msgid "backsNcovers"
+msgstr "ด้านหลังNcovers"
+
+msgid "virtual folder not possible!"
+msgstr "โฟลเดอร์เสมือนเป็นไปไม่ได้!"

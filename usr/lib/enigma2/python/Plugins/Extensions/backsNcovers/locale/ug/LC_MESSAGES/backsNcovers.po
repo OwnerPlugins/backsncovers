@@ -1,0 +1,121 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:33+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Uighur\n"
+"Language: ug\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "... not saved!"
+msgstr "... قۇتقۇزۇلمىدى!"
+
+msgid "... saved!"
+msgstr "... ساقلاندى!"
+
+msgid "Backdrops"
+msgstr "ئارقا كۆرۈنۈش"
+
+msgid "BacksNcovers"
+msgstr ""
+
+msgid "Close after selection:"
+msgstr "تاللاشتىن كېيىن تاقاش:"
+
+msgid "Covers"
+msgstr ""
+
+msgid "Error: {0}"
+msgstr "خاتالىق: {0}"
+
+msgid "Exit"
+msgstr "چىقىش"
+
+msgid "FileBot Schema:"
+msgstr "FileBot لايىھىسى:"
+
+msgid "Find Backdrops & Covers ..."
+msgstr "ئارقا كۆرۈنۈش ۋە قاپقاقلارنى تېپىش ..."
+
+msgid "Find Backdrops and Covers for Movielist"
+msgstr "Movielist ئۈچۈن ئارقا كۆرۈنۈش ۋە قاپاقلارنى تېپىڭ"
+
+msgid "Find Movies"
+msgstr "كىنولارنى تېپىش"
+
+msgid "Find Series"
+msgstr "Series Series"
+
+msgid "Find all movies or series"
+msgstr "بارلىق كىنو ياكى يۈرۈشلۈكلەرنى تېپىڭ"
+
+msgid "Image successfully saved."
+msgstr "رەسىم مۇۋەپپەقىيەتلىك ساقلاندى."
+
+msgid "Language:"
+msgstr "تىل:"
+
+msgid "Loading %s for %s"
+msgstr "% S ئۈچۈن% s نى يۈكلەۋاتىدۇ"
+
+msgid "Network error: cannot reach TMDb"
+msgstr "تور خاتالىقى: TMDb غا يېتەلمەيدۇ"
+
+msgid "No movie results, %s for %s"
+msgstr "ھېچقانداق كىنو نەتىجىسى يوق ،% s ئۈچۈن% s"
+
+msgid "No results found for %s!"
+msgstr "% S ئۈچۈن ھېچقانداق نەتىجە تېپىلمىدى!"
+
+msgid "No results, %s for %s"
+msgstr "ھېچقانداق نەتىجە يوق ،% s ئۈچۈن% s"
+
+msgid "No series results, %s for %s"
+msgstr "بىر قاتار نەتىجىلەر يوق ،% s ئۈچۈن% s"
+
+msgid "Picture resolution:"
+msgstr "رەسىم ئېنىقلىقى:"
+
+msgid "Save Cover or Backdrop"
+msgstr "قاپلاش ياكى تەگلىكنى ساقلاش"
+
+msgid "Search Text ..."
+msgstr "ئىزدەش تېكىستى ..."
+
+msgid "Search for:"
+msgstr "ئىزدەش:"
+
+msgid "Setup"
+msgstr "تەڭشەش"
+
+msgid "Show Backdrops or Covers"
+msgstr "ئارقا كۆرۈنۈش ياكى ياپقۇچنى كۆرسىتىش"
+
+msgid "Start with Backdrops:"
+msgstr "ئارقا كۆرۈنۈشتىن باشلاڭ:"
+
+msgid "TMDb does not respond, try again later!"
+msgstr "TMDb جاۋاب قايتۇرمىدى ، كېيىن قايتا سىناڭ!"
+
+msgid "TMDb movie results, %s %s for %s"
+msgstr "TMDb كىنو نەتىجىسى ،% s ئۈچۈن% s% s"
+
+msgid "TMDb result, %s"
+msgstr "TMDb نەتىجىسى ،% s"
+
+msgid "TMDb search"
+msgstr "TMDb ئىزدەش"
+
+msgid "TMDb search, %s for %s"
+msgstr "TMDb ئىزدەش ،% s ئۈچۈن% s"
+
+msgid "TMDb series results, %s %s for %s"
+msgstr "TMDb يۈرۈشلۈك نەتىجىسى ،% s ئۈچۈن% s% s"
+
+msgid "backsNcovers"
+msgstr ""
+
+msgid "virtual folder not possible!"
+msgstr "مەۋھۇم ھۆججەت قىسقۇچ مۇمكىن ئەمەس!"

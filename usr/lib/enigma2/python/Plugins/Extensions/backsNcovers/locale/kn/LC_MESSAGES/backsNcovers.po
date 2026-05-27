@@ -1,0 +1,121 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:11+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Kannada <debian-l10n-kannada@lists.debian.org>\n"
+"Language: kn\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "... not saved!"
+msgstr "... ಉಳಿಸಲಾಗಿಲ್ಲ!"
+
+msgid "... saved!"
+msgstr "... ಉಳಿಸಲಾಗಿದೆ!"
+
+msgid "Backdrops"
+msgstr "ಹಿನ್ನೆಲೆಗಳು"
+
+msgid "BacksNcovers"
+msgstr "ಬ್ಯಾಕ್ಸ್ಎನ್ಕವರ್ಗಳು"
+
+msgid "Close after selection:"
+msgstr "ಆಯ್ಕೆಯ ನಂತರ ಮುಚ್ಚಿ:"
+
+msgid "Covers"
+msgstr "ಆವರಿಸುತ್ತದೆ"
+
+msgid "Error: {0}"
+msgstr "ದೋಷ: {0}"
+
+msgid "Exit"
+msgstr "ನಿರ್ಗಮಿಸಿ"
+
+msgid "FileBot Schema:"
+msgstr "ಫೈಲ್‌ಬಾಟ್ ಸ್ಕೀಮಾ:"
+
+msgid "Find Backdrops & Covers ..."
+msgstr "ಬ್ಯಾಕ್‌ಡ್ರಾಪ್‌ಗಳು ಮತ್ತು ಕವರ್‌ಗಳನ್ನು ಹುಡುಕಿ..."
+
+msgid "Find Backdrops and Covers for Movielist"
+msgstr "ಚಲನಚಿತ್ರ ಪಟ್ಟಿಗಾಗಿ ಬ್ಯಾಕ್‌ಡ್ರಾಪ್‌ಗಳು ಮತ್ತು ಕವರ್‌ಗಳನ್ನು ಹುಡುಕಿ"
+
+msgid "Find Movies"
+msgstr "ಚಲನಚಿತ್ರಗಳನ್ನು ಹುಡುಕಿ"
+
+msgid "Find Series"
+msgstr "ಸರಣಿಯನ್ನು ಹುಡುಕಿ"
+
+msgid "Find all movies or series"
+msgstr "ಎಲ್ಲಾ ಚಲನಚಿತ್ರಗಳು ಅಥವಾ ಸರಣಿಗಳನ್ನು ಹುಡುಕಿ"
+
+msgid "Image successfully saved."
+msgstr "ಚಿತ್ರವನ್ನು ಯಶಸ್ವಿಯಾಗಿ ಉಳಿಸಲಾಗಿದೆ."
+
+msgid "Language:"
+msgstr "ಭಾಷೆ:"
+
+msgid "Loading %s for %s"
+msgstr "%s ಗಾಗಿ %s ಅನ್ನು ಲೋಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ"
+
+msgid "Network error: cannot reach TMDb"
+msgstr "ನೆಟ್‌ವರ್ಕ್ ದೋಷ: TMDb ಅನ್ನು ತಲುಪಲು ಸಾಧ್ಯವಿಲ್ಲ"
+
+msgid "No movie results, %s for %s"
+msgstr "ಯಾವುದೇ ಚಲನಚಿತ್ರ ಫಲಿತಾಂಶಗಳಿಲ್ಲ, %s ಗೆ %s"
+
+msgid "No results found for %s!"
+msgstr "%s ಗಾಗಿ ಯಾವುದೇ ಫಲಿತಾಂಶಗಳು ಕಂಡುಬಂದಿಲ್ಲ!"
+
+msgid "No results, %s for %s"
+msgstr "ಯಾವುದೇ ಫಲಿತಾಂಶಗಳಿಲ್ಲ, %s ಗೆ %s"
+
+msgid "No series results, %s for %s"
+msgstr "ಯಾವುದೇ ಸರಣಿ ಫಲಿತಾಂಶಗಳಿಲ್ಲ, %s ಗೆ %s"
+
+msgid "Picture resolution:"
+msgstr "ಚಿತ್ರದ ರೆಸಲ್ಯೂಶನ್:"
+
+msgid "Save Cover or Backdrop"
+msgstr "ಕವರ್ ಅಥವಾ ಬ್ಯಾಕ್‌ಡ್ರಾಪ್ ಉಳಿಸಿ"
+
+msgid "Search Text ..."
+msgstr "ಪಠ್ಯವನ್ನು ಹುಡುಕಿ..."
+
+msgid "Search for:"
+msgstr "ಇದಕ್ಕಾಗಿ ಹುಡುಕಿ:"
+
+msgid "Setup"
+msgstr "ಸೆಟಪ್"
+
+msgid "Show Backdrops or Covers"
+msgstr "ಬ್ಯಾಕ್‌ಡ್ರಾಪ್‌ಗಳು ಅಥವಾ ಕವರ್‌ಗಳನ್ನು ತೋರಿಸಿ"
+
+msgid "Start with Backdrops:"
+msgstr "ಬ್ಯಾಕ್‌ಡ್ರಾಪ್‌ಗಳೊಂದಿಗೆ ಪ್ರಾರಂಭಿಸಿ:"
+
+msgid "TMDb does not respond, try again later!"
+msgstr "TMDb ಪ್ರತಿಕ್ರಿಯಿಸುವುದಿಲ್ಲ, ನಂತರ ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ!"
+
+msgid "TMDb movie results, %s %s for %s"
+msgstr "TMDb ಚಲನಚಿತ್ರ ಫಲಿತಾಂಶಗಳು, %s ಗಾಗಿ %s %s"
+
+msgid "TMDb result, %s"
+msgstr "TMDb ಫಲಿತಾಂಶ, %s"
+
+msgid "TMDb search"
+msgstr "TMDb ಹುಡುಕಾಟ"
+
+msgid "TMDb search, %s for %s"
+msgstr "TMDb ಹುಡುಕಾಟ, %s ಗಾಗಿ %s"
+
+msgid "TMDb series results, %s %s for %s"
+msgstr "TMDb ಸರಣಿಯ ಫಲಿತಾಂಶಗಳು, %s ಗಾಗಿ %s %s"
+
+msgid "backsNcovers"
+msgstr "ಬ್ಯಾಕ್ಸ್ಎನ್ಕವರ್ಗಳು"
+
+msgid "virtual folder not possible!"
+msgstr "ವರ್ಚುವಲ್ ಫೋಲ್ಡರ್ ಸಾಧ್ಯವಿಲ್ಲ!"

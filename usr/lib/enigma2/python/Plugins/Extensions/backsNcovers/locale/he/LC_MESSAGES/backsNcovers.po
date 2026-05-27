@@ -1,0 +1,122 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:04+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Hebrew <heb-bugzap@hamakor.org.il>\n"
+"Language: he\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "... not saved!"
+msgstr "... לא נשמר!"
+
+msgid "... saved!"
+msgstr "... נשמר!"
+
+msgid "Backdrops"
+msgstr "תפאורות"
+
+msgid "BacksNcovers"
+msgstr ""
+
+msgid "Close after selection:"
+msgstr "סגור לאחר בחירה:"
+
+msgid "Covers"
+msgstr "כריכות"
+
+msgid "Error: {0}"
+msgstr "שגיאה: {0}"
+
+msgid "Exit"
+msgstr "יְצִיאָה"
+
+msgid "FileBot Schema:"
+msgstr "סכימת FileBot:"
+
+msgid "Find Backdrops & Covers ..."
+msgstr "מצא תפאורות ועטיפות..."
+
+msgid "Find Backdrops and Covers for Movielist"
+msgstr "מצא תפאורות ועטיפות לרשימת הסרטים"
+
+msgid "Find Movies"
+msgstr "מצא סרטים"
+
+msgid "Find Series"
+msgstr "מצא סדרות"
+
+msgid "Find all movies or series"
+msgstr "מצא את כל הסרטים או הסדרות"
+
+msgid "Image successfully saved."
+msgstr "התמונה נשמרה בהצלחה."
+
+msgid "Language:"
+msgstr "שָׂפָה:"
+
+msgid "Loading %s for %s"
+msgstr "טוען %s עבור %s"
+
+msgid "Network error: cannot reach TMDb"
+msgstr "שגיאת רשת: אין אפשרות להגיע ל-TMDb"
+
+msgid "No movie results, %s for %s"
+msgstr "אין תוצאות סרטים, %s עבור %s"
+
+msgid "No results found for %s!"
+msgstr "לא נמצאו תוצאות עבור %s!"
+
+msgid "No results, %s for %s"
+msgstr "אין תוצאות, %s עבור %s"
+
+msgid "No series results, %s for %s"
+msgstr "אין תוצאות סדרה, %s עבור %s"
+
+msgid "Picture resolution:"
+msgstr "רזולוציית תמונה:"
+
+msgid "Save Cover or Backdrop"
+msgstr "שמור כריכה או רקע"
+
+msgid "Search Text ..."
+msgstr "חיפוש טקסט..."
+
+msgid "Search for:"
+msgstr "חפש את:"
+
+msgid "Setup"
+msgstr "הגדרה"
+
+msgid "Show Backdrops or Covers"
+msgstr "הצג רקעים או כריכות"
+
+msgid "Start with Backdrops:"
+msgstr "התחל עם תפאורות:"
+
+msgid "TMDb does not respond, try again later!"
+msgstr "TMDb לא מגיב, נסה שוב מאוחר יותר!"
+
+msgid "TMDb movie results, %s %s for %s"
+msgstr "תוצאות סרט TMDb, %s %s עבור %s"
+
+msgid "TMDb result, %s"
+msgstr "תוצאת TMDb, %s"
+
+msgid "TMDb search"
+msgstr "חיפוש TMDb"
+
+msgid "TMDb search, %s for %s"
+msgstr "חיפוש TMDb, %s עבור %s"
+
+msgid "TMDb series results, %s %s for %s"
+msgstr "תוצאות סדרת TMDb, %s %s עבור %s"
+
+msgid "backsNcovers"
+msgstr ""
+
+msgid "virtual folder not possible!"
+msgstr "תיקיה וירטואלית לא אפשרית!"

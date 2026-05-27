@@ -1,0 +1,121 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 17:49+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Amharic\n"
+"Language: am\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "... not saved!"
+msgstr "... አልዳነም!"
+
+msgid "... saved!"
+msgstr "... ድኗል!"
+
+msgid "Backdrops"
+msgstr "ዳራዎች"
+
+msgid "BacksNcovers"
+msgstr ""
+
+msgid "Close after selection:"
+msgstr "ከተመረጠ በኋላ ዝጋ;"
+
+msgid "Covers"
+msgstr "ሽፋኖች"
+
+msgid "Error: {0}"
+msgstr "ስህተት፡ {0}"
+
+msgid "Exit"
+msgstr "ውጣ"
+
+msgid "FileBot Schema:"
+msgstr "FileBot እቅድ፡"
+
+msgid "Find Backdrops & Covers ..."
+msgstr "Backdrops እና ሽፋኖችን አግኝ..."
+
+msgid "Find Backdrops and Covers for Movielist"
+msgstr "ለፊልም ዝርዝር ዳራዎችን እና ሽፋኖችን ያግኙ"
+
+msgid "Find Movies"
+msgstr "ፊልሞችን ያግኙ"
+
+msgid "Find Series"
+msgstr "ተከታታይ አግኝ"
+
+msgid "Find all movies or series"
+msgstr "ሁሉንም ፊልሞች ወይም ተከታታይ ያግኙ"
+
+msgid "Image successfully saved."
+msgstr "ምስል በተሳካ ሁኔታ ተቀምጧል።"
+
+msgid "Language:"
+msgstr "ቋንቋ፡"
+
+msgid "Loading %s for %s"
+msgstr "%s ለ%s በመጫን ላይ"
+
+msgid "Network error: cannot reach TMDb"
+msgstr "የአውታረ መረብ ስህተት፡ TMDb መድረስ አልተቻለም"
+
+msgid "No movie results, %s for %s"
+msgstr "ምንም የፊልም ውጤቶች የሉም፣ %s ለ %s"
+
+msgid "No results found for %s!"
+msgstr "ለ%s ምንም ውጤቶች አልተገኙም!"
+
+msgid "No results, %s for %s"
+msgstr "ምንም ውጤቶች የሉም፣ %s ለ %s"
+
+msgid "No series results, %s for %s"
+msgstr "ምንም ተከታታይ ውጤቶች የሉም፣ %s ለ %s"
+
+msgid "Picture resolution:"
+msgstr "የምስል ጥራት;"
+
+msgid "Save Cover or Backdrop"
+msgstr "ሽፋንን ወይም Backdropን ያስቀምጡ"
+
+msgid "Search Text ..."
+msgstr "ጽሑፍ ፈልግ..."
+
+msgid "Search for:"
+msgstr "ፈልግ፡"
+
+msgid "Setup"
+msgstr "ማዋቀር"
+
+msgid "Show Backdrops or Covers"
+msgstr "Backdrops ወይም ሽፋኖችን አሳይ"
+
+msgid "Start with Backdrops:"
+msgstr "በBackdrops ይጀምሩ፡"
+
+msgid "TMDb does not respond, try again later!"
+msgstr "TMDb ምላሽ አይሰጥም፣ ቆይተው እንደገና ይሞክሩ!"
+
+msgid "TMDb movie results, %s %s for %s"
+msgstr "የቲኤምዲቢ ፊልም ውጤቶች፣ %s %s ለ%s"
+
+msgid "TMDb result, %s"
+msgstr "የቲኤምዲቢ ውጤት፣%s"
+
+msgid "TMDb search"
+msgstr "TMDb ፍለጋ"
+
+msgid "TMDb search, %s for %s"
+msgstr "TMDb ፍለጋ፣ %s ለ%s"
+
+msgid "TMDb series results, %s %s for %s"
+msgstr "TMDb ተከታታይ ውጤቶች፣ %s %s ለ%s"
+
+msgid "backsNcovers"
+msgstr ""
+
+msgid "virtual folder not possible!"
+msgstr "ምናባዊ አቃፊ አይቻልም!"

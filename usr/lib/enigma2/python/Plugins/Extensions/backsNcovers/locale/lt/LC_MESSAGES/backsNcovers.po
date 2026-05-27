@@ -1,0 +1,122 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:13+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Lithuanian <komp_lt@konferencijos.lt>\n"
+"Language: lt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+msgid "... not saved!"
+msgstr "... neišsaugotas!"
+
+msgid "... saved!"
+msgstr "... išgelbėtas!"
+
+msgid "Backdrops"
+msgstr "Fonas"
+
+msgid "BacksNcovers"
+msgstr ""
+
+msgid "Close after selection:"
+msgstr "Pasirinkus uždaryti:"
+
+msgid "Covers"
+msgstr "Viršeliai"
+
+msgid "Error: {0}"
+msgstr "Klaida: {0}"
+
+msgid "Exit"
+msgstr "Išeiti"
+
+msgid "FileBot Schema:"
+msgstr "„FileBot“ schema:"
+
+msgid "Find Backdrops & Covers ..."
+msgstr "Raskite fonus ir viršelius..."
+
+msgid "Find Backdrops and Covers for Movielist"
+msgstr "Raskite „Movielist“ fonus ir viršelius"
+
+msgid "Find Movies"
+msgstr "Rasti filmus"
+
+msgid "Find Series"
+msgstr "Rasti seriją"
+
+msgid "Find all movies or series"
+msgstr "Raskite visus filmus ar serialus"
+
+msgid "Image successfully saved."
+msgstr "Vaizdas sėkmingai išsaugotas."
+
+msgid "Language:"
+msgstr "Kalba:"
+
+msgid "Loading %s for %s"
+msgstr "Įkeliamas %s, skirtas %s"
+
+msgid "Network error: cannot reach TMDb"
+msgstr "Tinklo klaida: nepavyksta pasiekti TMDb"
+
+msgid "No movie results, %s for %s"
+msgstr "Nėra filmo rezultatų, %s %s"
+
+msgid "No results found for %s!"
+msgstr "Nerasta rezultatų pagal %s!"
+
+msgid "No results, %s for %s"
+msgstr "Nėra rezultatų, %s %s"
+
+msgid "No series results, %s for %s"
+msgstr "Nėra serijos rezultatų, %s %s"
+
+msgid "Picture resolution:"
+msgstr "Nuotraukos raiška:"
+
+msgid "Save Cover or Backdrop"
+msgstr "Išsaugoti viršelį arba foną"
+
+msgid "Search Text ..."
+msgstr "Ieškoti teksto..."
+
+msgid "Search for:"
+msgstr "Ieškoti:"
+
+msgid "Setup"
+msgstr "Sąranka"
+
+msgid "Show Backdrops or Covers"
+msgstr "Rodyti fonus arba viršelius"
+
+msgid "Start with Backdrops:"
+msgstr "Pradėkite nuo fonų:"
+
+msgid "TMDb does not respond, try again later!"
+msgstr "TMDb neatsako, bandykite dar kartą vėliau!"
+
+msgid "TMDb movie results, %s %s for %s"
+msgstr "TMDb filmo rezultatai, %s %s %s"
+
+msgid "TMDb result, %s"
+msgstr "TMDb rezultatas, %s"
+
+msgid "TMDb search"
+msgstr "TMDb paieška"
+
+msgid "TMDb search, %s for %s"
+msgstr "TMDb paieška, %s – %s"
+
+msgid "TMDb series results, %s %s for %s"
+msgstr "TMDb serijos rezultatai, %s %s %s"
+
+msgid "backsNcovers"
+msgstr "nugarėlėsDangteliai"
+
+msgid "virtual folder not possible!"
+msgstr "virtualus aplankas neįmanomas!"

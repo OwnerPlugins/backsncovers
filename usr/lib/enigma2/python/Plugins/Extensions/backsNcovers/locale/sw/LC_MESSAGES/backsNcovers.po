@@ -1,0 +1,121 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:28+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Swahili <(nothing)>\n"
+"Language: sw\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "... not saved!"
+msgstr "... haijahifadhiwa!"
+
+msgid "... saved!"
+msgstr "... kuokolewa!"
+
+msgid "Backdrops"
+msgstr "Mandhari"
+
+msgid "BacksNcovers"
+msgstr ""
+
+msgid "Close after selection:"
+msgstr "Funga baada ya uteuzi:"
+
+msgid "Covers"
+msgstr "Vifuniko"
+
+msgid "Error: {0}"
+msgstr "Hitilafu: {0}"
+
+msgid "Exit"
+msgstr "Utgång"
+
+msgid "FileBot Schema:"
+msgstr "Mpango wa FileBot:"
+
+msgid "Find Backdrops & Covers ..."
+msgstr "Tafuta Mandhari na Majalada ..."
+
+msgid "Find Backdrops and Covers for Movielist"
+msgstr "Pata Mandhari na Majalada ya Orodha ya Sinema"
+
+msgid "Find Movies"
+msgstr "Tafuta Filamu"
+
+msgid "Find Series"
+msgstr "Tafuta Msururu"
+
+msgid "Find all movies or series"
+msgstr "Pata filamu au mfululizo wote"
+
+msgid "Image successfully saved."
+msgstr "Picha imehifadhiwa."
+
+msgid "Language:"
+msgstr "Lugha:"
+
+msgid "Loading %s for %s"
+msgstr "Inapakia %s kwa %s"
+
+msgid "Network error: cannot reach TMDb"
+msgstr "Hitilafu ya mtandao: haiwezi kufikia TMDb"
+
+msgid "No movie results, %s for %s"
+msgstr "Hakuna matokeo ya filamu, %s kwa %s"
+
+msgid "No results found for %s!"
+msgstr "Hakuna matokeo yaliyopatikana ya %s!"
+
+msgid "No results, %s for %s"
+msgstr "Hakuna matokeo, %s kwa %s"
+
+msgid "No series results, %s for %s"
+msgstr "Hakuna matokeo ya mfululizo, %s kwa %s"
+
+msgid "Picture resolution:"
+msgstr "Azimio la picha:"
+
+msgid "Save Cover or Backdrop"
+msgstr "Hifadhi Jalada au Mandhari"
+
+msgid "Search Text ..."
+msgstr "Tafuta Maandishi..."
+
+msgid "Search for:"
+msgstr "Tafuta:"
+
+msgid "Setup"
+msgstr "Sanidi"
+
+msgid "Show Backdrops or Covers"
+msgstr "Onyesha Mandhari au Majalada"
+
+msgid "Start with Backdrops:"
+msgstr "Anza na Mandhari:"
+
+msgid "TMDb does not respond, try again later!"
+msgstr "TMDb haijibu, jaribu tena baadaye!"
+
+msgid "TMDb movie results, %s %s for %s"
+msgstr "Matokeo ya filamu ya TMDb, %s %s kwa %s"
+
+msgid "TMDb result, %s"
+msgstr "Matokeo ya TMDb, %s"
+
+msgid "TMDb search"
+msgstr "Utafutaji wa TMDb"
+
+msgid "TMDb search, %s for %s"
+msgstr "Utafutaji wa TMDb, %s kwa %s"
+
+msgid "TMDb series results, %s %s for %s"
+msgstr "Matokeo ya mfululizo wa TMDb, %s %s kwa %s"
+
+msgid "backsNcovers"
+msgstr ""
+
+msgid "virtual folder not possible!"
+msgstr "folda halisi haiwezekani!"

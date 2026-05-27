@@ -1,0 +1,121 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:11+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Central Khmer\n"
+"Language: km\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "... not saved!"
+msgstr "...មិនបានសង្រ្គោះទេ!"
+
+msgid "... saved!"
+msgstr "... សង្គ្រោះ!"
+
+msgid "Backdrops"
+msgstr "ផ្ទាំងខាងក្រោយ"
+
+msgid "BacksNcovers"
+msgstr ""
+
+msgid "Close after selection:"
+msgstr "បិទបន្ទាប់ពីជ្រើសរើស៖"
+
+msgid "Covers"
+msgstr "គម្រប"
+
+msgid "Error: {0}"
+msgstr "កំហុស៖ {0}"
+
+msgid "Exit"
+msgstr "ចេញ"
+
+msgid "FileBot Schema:"
+msgstr "គ្រោងការណ៍ FileBot៖"
+
+msgid "Find Backdrops & Covers ..."
+msgstr "ស្វែងរកផ្ទាំងខាងក្រោយ និងគម្រប..."
+
+msgid "Find Backdrops and Covers for Movielist"
+msgstr "ស្វែងរកផ្ទាំងខាងក្រោយ និងគម្របសម្រាប់បញ្ជីភាពយន្ត"
+
+msgid "Find Movies"
+msgstr "ស្វែងរកភាពយន្ត"
+
+msgid "Find Series"
+msgstr "ស្វែងរកស៊េរី"
+
+msgid "Find all movies or series"
+msgstr "ស្វែងរកភាពយន្ត ឬស៊េរីទាំងអស់។"
+
+msgid "Image successfully saved."
+msgstr "រូបភាពត្រូវបានរក្សាទុកដោយជោគជ័យ។"
+
+msgid "Language:"
+msgstr "ភាសា៖"
+
+msgid "Loading %s for %s"
+msgstr "កំពុងផ្ទុក %s សម្រាប់ %s"
+
+msgid "Network error: cannot reach TMDb"
+msgstr "កំហុសបណ្តាញ៖ មិនអាចទៅដល់ TMDb បានទេ។"
+
+msgid "No movie results, %s for %s"
+msgstr "គ្មានលទ្ធផលភាពយន្តទេ %s សម្រាប់ %s"
+
+msgid "No results found for %s!"
+msgstr "រកមិនឃើញលទ្ធផលសម្រាប់ %s!"
+
+msgid "No results, %s for %s"
+msgstr "គ្មានលទ្ធផល %s សម្រាប់ %s"
+
+msgid "No series results, %s for %s"
+msgstr "មិនមានលទ្ធផលជាស៊េរីទេ %s សម្រាប់ %s"
+
+msgid "Picture resolution:"
+msgstr "គុណភាពបង្ហាញរូបភាព៖"
+
+msgid "Save Cover or Backdrop"
+msgstr "រក្សាទុកគម្រប ឬផ្ទាំងខាងក្រោយ"
+
+msgid "Search Text ..."
+msgstr "ស្វែងរកអត្ថបទ..."
+
+msgid "Search for:"
+msgstr "ស្វែងរក៖"
+
+msgid "Setup"
+msgstr "រៀបចំ"
+
+msgid "Show Backdrops or Covers"
+msgstr "បង្ហាញផ្ទាំងខាងក្រោយ ឬគម្រប"
+
+msgid "Start with Backdrops:"
+msgstr "ចាប់ផ្តើមជាមួយផ្ទាំងខាងក្រោយ៖"
+
+msgid "TMDb does not respond, try again later!"
+msgstr "TMDb មិនឆ្លើយតបទេ សូមព្យាយាមម្តងទៀតនៅពេលក្រោយ!"
+
+msgid "TMDb movie results, %s %s for %s"
+msgstr "លទ្ធផលភាពយន្ត TMDb, %s %s សម្រាប់ %s"
+
+msgid "TMDb result, %s"
+msgstr "លទ្ធផល TMDb, %s"
+
+msgid "TMDb search"
+msgstr "ការស្វែងរក TMDb"
+
+msgid "TMDb search, %s for %s"
+msgstr "ការស្វែងរក TMDb, %s សម្រាប់ %s"
+
+msgid "TMDb series results, %s %s for %s"
+msgstr "លទ្ធផលស៊េរី TMDb, %s %s សម្រាប់ %s"
+
+msgid "backsNcovers"
+msgstr ""
+
+msgid "virtual folder not possible!"
+msgstr "ថត​និម្មិត​មិន​អាច​ទៅ​រួច!"

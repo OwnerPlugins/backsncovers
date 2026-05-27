@@ -1,0 +1,121 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:17+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Maltese <translation-team-mt@lists.sourceforge.net>\n"
+"Language: mt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "... not saved!"
+msgstr "... mhux salvati!"
+
+msgid "... saved!"
+msgstr "... salvati!"
+
+msgid "Backdrops"
+msgstr "Sfondi"
+
+msgid "BacksNcovers"
+msgstr ""
+
+msgid "Close after selection:"
+msgstr "Agħlaq wara l-għażla:"
+
+msgid "Covers"
+msgstr "Tkopri"
+
+msgid "Error: {0}"
+msgstr "Żball: {0}"
+
+msgid "Exit"
+msgstr "Ħruġ"
+
+msgid "FileBot Schema:"
+msgstr "Skema tal-FileBot:"
+
+msgid "Find Backdrops & Covers ..."
+msgstr "Sib Sfondi u Qoxra..."
+
+msgid "Find Backdrops and Covers for Movielist"
+msgstr "Sib Sfondi u Qoxra għal Movielist"
+
+msgid "Find Movies"
+msgstr "Sib Films"
+
+msgid "Find Series"
+msgstr "Sib Serje"
+
+msgid "Find all movies or series"
+msgstr "Sib il-films jew is-serje kollha"
+
+msgid "Image successfully saved."
+msgstr "Immaġini ssejvjata b'suċċess."
+
+msgid "Language:"
+msgstr "Lingwa:"
+
+msgid "Loading %s for %s"
+msgstr "Tagħbija %s għal %s"
+
+msgid "Network error: cannot reach TMDb"
+msgstr "Żball tan-netwerk: ma jistax jilħaq TMDb"
+
+msgid "No movie results, %s for %s"
+msgstr "L-ebda riżultat tal-film, %s għal %s"
+
+msgid "No results found for %s!"
+msgstr "Ma nstab l-ebda riżultat għal %s!"
+
+msgid "No results, %s for %s"
+msgstr "L-ebda riżultat, %s għal %s"
+
+msgid "No series results, %s for %s"
+msgstr "L-ebda riżultat tas-serje, %s għal %s"
+
+msgid "Picture resolution:"
+msgstr "Riżoluzzjoni tal-istampa:"
+
+msgid "Save Cover or Backdrop"
+msgstr "Ħlief Qoxra jew Sfond"
+
+msgid "Search Text ..."
+msgstr "Fittex Test..."
+
+msgid "Search for:"
+msgstr "Fittex għal:"
+
+msgid "Setup"
+msgstr ""
+
+msgid "Show Backdrops or Covers"
+msgstr "Uri Sfondi jew Qoxra"
+
+msgid "Start with Backdrops:"
+msgstr "Ibda bl-isfond:"
+
+msgid "TMDb does not respond, try again later!"
+msgstr "TMDb ma jirrispondix, erġa' pprova aktar tard!"
+
+msgid "TMDb movie results, %s %s for %s"
+msgstr "Riżultati tal-films TMDb, %s %s għal %s"
+
+msgid "TMDb result, %s"
+msgstr "Riżultat TMDb, %s"
+
+msgid "TMDb search"
+msgstr "TMDb tfittxija"
+
+msgid "TMDb search, %s for %s"
+msgstr "Tiftix TMDb, %s għal %s"
+
+msgid "TMDb series results, %s %s for %s"
+msgstr "Riżultati tas-serje TMDb, %s %s għal %s"
+
+msgid "backsNcovers"
+msgstr "daharNcovers"
+
+msgid "virtual folder not possible!"
+msgstr "folder virtwali mhux possibbli!"

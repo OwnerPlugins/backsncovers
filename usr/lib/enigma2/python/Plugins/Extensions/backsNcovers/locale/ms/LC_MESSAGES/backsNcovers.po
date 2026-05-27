@@ -1,0 +1,121 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:16+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Malay <translation-team-ms@lists.sourceforge.net>\n"
+"Language: ms\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "... not saved!"
+msgstr "... tidak disimpan!"
+
+msgid "... saved!"
+msgstr "... diselamatkan!"
+
+msgid "Backdrops"
+msgstr "Tirai latar belakang"
+
+msgid "BacksNcovers"
+msgstr ""
+
+msgid "Close after selection:"
+msgstr "Tutup selepas pemilihan:"
+
+msgid "Covers"
+msgstr "Penutup"
+
+msgid "Error: {0}"
+msgstr "Ralat: {0}"
+
+msgid "Exit"
+msgstr "Keluar"
+
+msgid "FileBot Schema:"
+msgstr "Skema FileBot:"
+
+msgid "Find Backdrops & Covers ..."
+msgstr "Cari Tirai Latar & Sarung..."
+
+msgid "Find Backdrops and Covers for Movielist"
+msgstr "Cari Tirai Latar dan Muka Depan untuk Senarai Filem"
+
+msgid "Find Movies"
+msgstr "Cari Filem"
+
+msgid "Find Series"
+msgstr "Cari Siri"
+
+msgid "Find all movies or series"
+msgstr "Cari semua filem atau siri"
+
+msgid "Image successfully saved."
+msgstr "Imej berjaya disimpan."
+
+msgid "Language:"
+msgstr "Bahasa:"
+
+msgid "Loading %s for %s"
+msgstr "Memuatkan %s untuk %s"
+
+msgid "Network error: cannot reach TMDb"
+msgstr "Ralat rangkaian: tidak dapat mencapai TMDb"
+
+msgid "No movie results, %s for %s"
+msgstr "Tiada hasil filem, %s untuk %s"
+
+msgid "No results found for %s!"
+msgstr "Tiada hasil ditemui untuk %s!"
+
+msgid "No results, %s for %s"
+msgstr "Tiada hasil, %s untuk %s"
+
+msgid "No series results, %s for %s"
+msgstr "Tiada hasil siri, %s untuk %s"
+
+msgid "Picture resolution:"
+msgstr "Resolusi gambar:"
+
+msgid "Save Cover or Backdrop"
+msgstr "Simpan Sampul atau Tirai Latar"
+
+msgid "Search Text ..."
+msgstr "Cari Teks ..."
+
+msgid "Search for:"
+msgstr "Cari untuk:"
+
+msgid "Setup"
+msgstr "Persediaan"
+
+msgid "Show Backdrops or Covers"
+msgstr "Tunjukkan Tirai Latar atau Sarung"
+
+msgid "Start with Backdrops:"
+msgstr "Mulakan dengan Tirai Latar:"
+
+msgid "TMDb does not respond, try again later!"
+msgstr "TMDb tidak bertindak balas, cuba lagi nanti!"
+
+msgid "TMDb movie results, %s %s for %s"
+msgstr "Keputusan filem TMDb, %s %s untuk %s"
+
+msgid "TMDb result, %s"
+msgstr "Hasil TMDb, %s"
+
+msgid "TMDb search"
+msgstr "Carian TMDb"
+
+msgid "TMDb search, %s for %s"
+msgstr "Carian TMDb, %s untuk %s"
+
+msgid "TMDb series results, %s %s for %s"
+msgstr "Keputusan siri TMDb, %s %s untuk %s"
+
+msgid "backsNcovers"
+msgstr ""
+
+msgid "virtual folder not possible!"
+msgstr "folder maya tidak mungkin!"

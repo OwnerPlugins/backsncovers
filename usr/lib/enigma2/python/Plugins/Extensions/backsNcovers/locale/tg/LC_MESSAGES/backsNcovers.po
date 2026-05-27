@@ -1,0 +1,121 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:29+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Tajik <rkovacs@khujand.org>\n"
+"Language: tg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "... not saved!"
+msgstr "... захира нашудааст!"
+
+msgid "... saved!"
+msgstr "... наҷот!"
+
+msgid "Backdrops"
+msgstr "Замина"
+
+msgid "BacksNcovers"
+msgstr ""
+
+msgid "Close after selection:"
+msgstr "Пас аз интихоб пӯшед:"
+
+msgid "Covers"
+msgstr "Сарпӯшҳо"
+
+msgid "Error: {0}"
+msgstr "Хатогӣ: {0}"
+
+msgid "Exit"
+msgstr "Баромадгоҳ"
+
+msgid "FileBot Schema:"
+msgstr "Схемаи FileBot:"
+
+msgid "Find Backdrops & Covers ..."
+msgstr "Пайдо кардани замина ва муқоваҳо ..."
+
+msgid "Find Backdrops and Covers for Movielist"
+msgstr "Барои рӯйхати филмҳо замина ва муқоваҳоро пайдо кунед"
+
+msgid "Find Movies"
+msgstr "Филмҳоро пайдо кунед"
+
+msgid "Find Series"
+msgstr "Ҷустуҷӯи силсила"
+
+msgid "Find all movies or series"
+msgstr "Ҳама филмҳо ё силсилаҳоро пайдо кунед"
+
+msgid "Image successfully saved."
+msgstr "Тасвир бомуваффақият захира карда шуд."
+
+msgid "Language:"
+msgstr "Забон:"
+
+msgid "Loading %s for %s"
+msgstr "Боркунии %s барои %s"
+
+msgid "Network error: cannot reach TMDb"
+msgstr "Хатогии шабака: ба TMDb расида наметавонад"
+
+msgid "No movie results, %s for %s"
+msgstr "Натоиҷи филм нест, %s барои %s"
+
+msgid "No results found for %s!"
+msgstr "Барои %s натиҷае ёфт нашуд!"
+
+msgid "No results, %s for %s"
+msgstr "Натоиҷе нест, %s барои %s"
+
+msgid "No series results, %s for %s"
+msgstr "Натоиҷи силсила нест, %s барои %s"
+
+msgid "Picture resolution:"
+msgstr "Ҳалли тасвир:"
+
+msgid "Save Cover or Backdrop"
+msgstr "Сарпӯш ё заминаро захира кунед"
+
+msgid "Search Text ..."
+msgstr "Ҷустуҷӯи матн ..."
+
+msgid "Search for:"
+msgstr "Ҷустуҷӯ барои:"
+
+msgid "Setup"
+msgstr "Ташкил кардан"
+
+msgid "Show Backdrops or Covers"
+msgstr "Нишон додани замина ё муқоваҳо"
+
+msgid "Start with Backdrops:"
+msgstr "Бо замина оғоз кунед:"
+
+msgid "TMDb does not respond, try again later!"
+msgstr "TMDb ҷавоб намедиҳад, баъдтар бори дигар кӯшиш кунед!"
+
+msgid "TMDb movie results, %s %s for %s"
+msgstr "Натиҷаҳои филми TMDb, %s %s барои %s"
+
+msgid "TMDb result, %s"
+msgstr "Натиҷаи TMDb, %s"
+
+msgid "TMDb search"
+msgstr "Ҷустуҷӯи TMDb"
+
+msgid "TMDb search, %s for %s"
+msgstr "Ҷустуҷӯи TMDb, %s барои %s"
+
+msgid "TMDb series results, %s %s for %s"
+msgstr "Натиҷаҳои силсилаи TMDb, %s %s барои %s"
+
+msgid "backsNcovers"
+msgstr "пуштибонӣ мекунад"
+
+msgid "virtual folder not possible!"
+msgstr "папкаи виртуалӣ имконнопазир аст!"

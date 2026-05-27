@@ -1,0 +1,121 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 17:50+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Arabic <(nothing)>\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "... not saved!"
+msgstr "... لم يتم حفظها!"
+
+msgid "... saved!"
+msgstr "... أنقذ!"
+
+msgid "Backdrops"
+msgstr "الخلفيات"
+
+msgid "BacksNcovers"
+msgstr ""
+
+msgid "Close after selection:"
+msgstr "إغلاق بعد التحديد:"
+
+msgid "Covers"
+msgstr "يغطي"
+
+msgid "Error: {0}"
+msgstr "خطأ: {0}"
+
+msgid "Exit"
+msgstr "مخرج"
+
+msgid "FileBot Schema:"
+msgstr "مخطط FileBot:"
+
+msgid "Find Backdrops & Covers ..."
+msgstr "البحث عن الخلفيات والأغطية..."
+
+msgid "Find Backdrops and Covers for Movielist"
+msgstr "البحث عن الخلفيات والأغلفة لقائمة الأفلام"
+
+msgid "Find Movies"
+msgstr "البحث عن أفلام"
+
+msgid "Find Series"
+msgstr "البحث عن سلسلة"
+
+msgid "Find all movies or series"
+msgstr "البحث عن جميع الأفلام أو المسلسلات"
+
+msgid "Image successfully saved."
+msgstr "تم حفظ الصورة بنجاح."
+
+msgid "Language:"
+msgstr "لغة:"
+
+msgid "Loading %s for %s"
+msgstr "جارٍ تحميل %s لـ %s"
+
+msgid "Network error: cannot reach TMDb"
+msgstr "خطأ في الشبكة: لا يمكن الوصول إلى TMDb"
+
+msgid "No movie results, %s for %s"
+msgstr "لا توجد نتائج أفلام، %s لـ %s"
+
+msgid "No results found for %s!"
+msgstr "لم يتم العثور على نتائج لـ %s!"
+
+msgid "No results, %s for %s"
+msgstr "لا توجد نتائج، %s لـ %s"
+
+msgid "No series results, %s for %s"
+msgstr "لا توجد نتائج متسلسلة، %s لـ %s"
+
+msgid "Picture resolution:"
+msgstr "دقة الصورة:"
+
+msgid "Save Cover or Backdrop"
+msgstr "حفظ الغلاف أو الخلفية"
+
+msgid "Search Text ..."
+msgstr "بحث في النص..."
+
+msgid "Search for:"
+msgstr "بحث عن:"
+
+msgid "Setup"
+msgstr "يثبت"
+
+msgid "Show Backdrops or Covers"
+msgstr "عرض الخلفيات أو الأغطية"
+
+msgid "Start with Backdrops:"
+msgstr "ابدأ بالخلفيات:"
+
+msgid "TMDb does not respond, try again later!"
+msgstr "TMDb لا يستجيب، حاول مرة أخرى لاحقا!"
+
+msgid "TMDb movie results, %s %s for %s"
+msgstr "نتائج فيلم TMDb، %s %s لـ %s"
+
+msgid "TMDb result, %s"
+msgstr "نتيجة TMDb، %s"
+
+msgid "TMDb search"
+msgstr "بحث TMDB"
+
+msgid "TMDb search, %s for %s"
+msgstr "بحث TMDb، %s لـ %s"
+
+msgid "TMDb series results, %s %s for %s"
+msgstr "نتائج سلسلة TMDb، %s %s لـ %s"
+
+msgid "backsNcovers"
+msgstr ""
+
+msgid "virtual folder not possible!"
+msgstr "المجلد الظاهري غير ممكن!"

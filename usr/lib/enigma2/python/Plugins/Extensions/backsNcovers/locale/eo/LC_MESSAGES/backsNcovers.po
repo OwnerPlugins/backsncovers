@@ -1,0 +1,122 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 17:57+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Esperanto <translation-team-eo@lists.sourceforge.net>\n"
+"Language: eo\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "... not saved!"
+msgstr "... ne savita!"
+
+msgid "... saved!"
+msgstr "... savita!"
+
+msgid "Backdrops"
+msgstr "Fonoj"
+
+msgid "BacksNcovers"
+msgstr "DorsNkovriloj"
+
+msgid "Close after selection:"
+msgstr "Fermu post elekto:"
+
+msgid "Covers"
+msgstr "Kovroj"
+
+msgid "Error: {0}"
+msgstr "Eraro: {0}"
+
+msgid "Exit"
+msgstr "Eliro"
+
+msgid "FileBot Schema:"
+msgstr "FileBot-skemo:"
+
+msgid "Find Backdrops & Covers ..."
+msgstr "Trovu Fonojn kaj Kovraĵojn..."
+
+msgid "Find Backdrops and Covers for Movielist"
+msgstr "Trovu Fonojn kaj Kovrojn por Filmlisto"
+
+msgid "Find Movies"
+msgstr "Trovu Filmojn"
+
+msgid "Find Series"
+msgstr "Trovu Seriojn"
+
+msgid "Find all movies or series"
+msgstr "Trovu ĉiujn filmojn aŭ seriojn"
+
+msgid "Image successfully saved."
+msgstr "Bildo sukcese konservita."
+
+msgid "Language:"
+msgstr "Lingvo:"
+
+msgid "Loading %s for %s"
+msgstr "Ŝargante %s por %s"
+
+msgid "Network error: cannot reach TMDb"
+msgstr "Reta eraro: ne povas atingi TMDb"
+
+msgid "No movie results, %s for %s"
+msgstr "Neniuj filmrezultoj, %s por %s"
+
+msgid "No results found for %s!"
+msgstr "Neniuj rezultoj trovitaj por %s!"
+
+msgid "No results, %s for %s"
+msgstr "Neniuj rezultoj, %s por %s"
+
+msgid "No series results, %s for %s"
+msgstr "Neniuj seriorezultoj, %s por %s"
+
+msgid "Picture resolution:"
+msgstr "Bilda rezolucio:"
+
+msgid "Save Cover or Backdrop"
+msgstr "Konservu Kovron aŭ Fonon"
+
+msgid "Search Text ..."
+msgstr "Serĉu Tekston..."
+
+msgid "Search for:"
+msgstr "Serĉu:"
+
+msgid "Setup"
+msgstr "Agordi"
+
+msgid "Show Backdrops or Covers"
+msgstr "Montru Fonojn aŭ Kovrojn"
+
+msgid "Start with Backdrops:"
+msgstr "Komencu kun Fonoj:"
+
+msgid "TMDb does not respond, try again later!"
+msgstr "TMDb ne respondas, provu denove poste!"
+
+msgid "TMDb movie results, %s %s for %s"
+msgstr "TMDb-filmrezultoj, %s %s por %s"
+
+msgid "TMDb result, %s"
+msgstr "TMDb-rezulto, %s"
+
+msgid "TMDb search"
+msgstr "TMDb-serĉo"
+
+msgid "TMDb search, %s for %s"
+msgstr "TMDb-serĉo, %s por %s"
+
+msgid "TMDb series results, %s %s for %s"
+msgstr "Rezultoj de la serio TMDb, %s %s por %s"
+
+msgid "backsNcovers"
+msgstr "dorsojNkovriloj"
+
+msgid "virtual folder not possible!"
+msgstr "virtuala dosierujo ne eblas!"

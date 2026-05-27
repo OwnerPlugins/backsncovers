@@ -1,0 +1,122 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 17:58+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Estonian <linux-ee@lists.eenet.ee>\n"
+"Language: et\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "... not saved!"
+msgstr "... pole salvestatud!"
+
+msgid "... saved!"
+msgstr "... päästetud!"
+
+msgid "Backdrops"
+msgstr "Taustad"
+
+msgid "BacksNcovers"
+msgstr ""
+
+msgid "Close after selection:"
+msgstr "Sule pärast valimist:"
+
+msgid "Covers"
+msgstr "Kaaned"
+
+msgid "Error: {0}"
+msgstr "Viga: {0}"
+
+msgid "Exit"
+msgstr "Välju"
+
+msgid "FileBot Schema:"
+msgstr "FileBoti skeem:"
+
+msgid "Find Backdrops & Covers ..."
+msgstr "Otsige taustadekoratsioone ja kaaneid..."
+
+msgid "Find Backdrops and Covers for Movielist"
+msgstr "Otsige filmiloendi taustadekoratsioone ja kaaneid"
+
+msgid "Find Movies"
+msgstr "Otsige filme"
+
+msgid "Find Series"
+msgstr "Leia seeria"
+
+msgid "Find all movies or series"
+msgstr "Otsige üles kõik filmid või sarjad"
+
+msgid "Image successfully saved."
+msgstr "Pilt õnnestus salvestada."
+
+msgid "Language:"
+msgstr "Keel:"
+
+msgid "Loading %s for %s"
+msgstr "%s laadimine %s jaoks"
+
+msgid "Network error: cannot reach TMDb"
+msgstr "Võrgutõrge: ei saa ühendust TMDb-ga"
+
+msgid "No movie results, %s for %s"
+msgstr "Filmitulemusi pole, %s jaoks %s"
+
+msgid "No results found for %s!"
+msgstr "Päringule %s ei leitud tulemusi!"
+
+msgid "No results, %s for %s"
+msgstr "Tulemusi pole, %s otsingule %s"
+
+msgid "No series results, %s for %s"
+msgstr "Seeriatulemusi pole, %s jaoks %s"
+
+msgid "Picture resolution:"
+msgstr "Pildi eraldusvõime:"
+
+msgid "Save Cover or Backdrop"
+msgstr "Salvestage kaas või taust"
+
+msgid "Search Text ..."
+msgstr "Otsi tekstist ..."
+
+msgid "Search for:"
+msgstr "Otsi:"
+
+msgid "Setup"
+msgstr "Seadistamine"
+
+msgid "Show Backdrops or Covers"
+msgstr "Kuva taustadekoratsioonid või kaaned"
+
+msgid "Start with Backdrops:"
+msgstr "Alustage taustadekoratsioonidega:"
+
+msgid "TMDb does not respond, try again later!"
+msgstr "TMDb ei vasta, proovige hiljem uuesti!"
+
+msgid "TMDb movie results, %s %s for %s"
+msgstr "TMDb filmi tulemused, %s %s %s jaoks"
+
+msgid "TMDb result, %s"
+msgstr "TMDb tulemus, %s"
+
+msgid "TMDb search"
+msgstr "TMDb otsing"
+
+msgid "TMDb search, %s for %s"
+msgstr "TMDb otsing, %s jaoks %s"
+
+msgid "TMDb series results, %s %s for %s"
+msgstr "TMDb-seeria tulemused, %s %s %s jaoks"
+
+msgid "backsNcovers"
+msgstr "tagakaaned"
+
+msgid "virtual folder not possible!"
+msgstr "virtuaalne kaust pole võimalik!"

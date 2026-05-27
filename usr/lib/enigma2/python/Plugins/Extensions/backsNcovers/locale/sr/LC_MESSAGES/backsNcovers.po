@@ -1,0 +1,122 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:27+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Serbian <(nothing)>\n"
+"Language: sr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+msgid "... not saved!"
+msgstr "... није сачувано!"
+
+msgid "... saved!"
+msgstr "... спасено!"
+
+msgid "Backdrops"
+msgstr "Позадине"
+
+msgid "BacksNcovers"
+msgstr "БацксНцоверс"
+
+msgid "Close after selection:"
+msgstr "Затвори након избора:"
+
+msgid "Covers"
+msgstr "Цоверс"
+
+msgid "Error: {0}"
+msgstr "Грешка: {0}"
+
+msgid "Exit"
+msgstr "Изађи"
+
+msgid "FileBot Schema:"
+msgstr "ФилеБот шема:"
+
+msgid "Find Backdrops & Covers ..."
+msgstr "Пронађите позадине и корице..."
+
+msgid "Find Backdrops and Covers for Movielist"
+msgstr "Пронађите позадине и омоте за Мовиелист"
+
+msgid "Find Movies"
+msgstr "Пронађите филмове"
+
+msgid "Find Series"
+msgstr "Финд Сериес"
+
+msgid "Find all movies or series"
+msgstr "Пронађите све филмове или серије"
+
+msgid "Image successfully saved."
+msgstr "Слика је успешно сачувана."
+
+msgid "Language:"
+msgstr "Језик:"
+
+msgid "Loading %s for %s"
+msgstr "Учитавање %с за %с"
+
+msgid "Network error: cannot reach TMDb"
+msgstr "Мрежна грешка: није могуће приступити ТМДб-у"
+
+msgid "No movie results, %s for %s"
+msgstr "Нема резултата филмова, %с за %с"
+
+msgid "No results found for %s!"
+msgstr "Нису пронађени резултати за %с!"
+
+msgid "No results, %s for %s"
+msgstr "Нема резултата, %с за %с"
+
+msgid "No series results, %s for %s"
+msgstr "Нема резултата серије, %с за %с"
+
+msgid "Picture resolution:"
+msgstr "Резолуција слике:"
+
+msgid "Save Cover or Backdrop"
+msgstr "Сачувај насловницу или позадину"
+
+msgid "Search Text ..."
+msgstr "Претражи текст..."
+
+msgid "Search for:"
+msgstr "Тражи:"
+
+msgid "Setup"
+msgstr "Сетуп"
+
+msgid "Show Backdrops or Covers"
+msgstr "Прикажи позадине или корице"
+
+msgid "Start with Backdrops:"
+msgstr "Почните са позадинама:"
+
+msgid "TMDb does not respond, try again later!"
+msgstr "ТМДб не одговара, покушајте поново касније!"
+
+msgid "TMDb movie results, %s %s for %s"
+msgstr "Резултати ТМДб филмова, %с %с за %с"
+
+msgid "TMDb result, %s"
+msgstr "ТМДб резултат, %с"
+
+msgid "TMDb search"
+msgstr "ТМДб претрага"
+
+msgid "TMDb search, %s for %s"
+msgstr "ТМДб претрага, %с за %с"
+
+msgid "TMDb series results, %s %s for %s"
+msgstr "Резултати ТМДб серије, %с %с за %с"
+
+msgid "backsNcovers"
+msgstr "бацксНцоверс"
+
+msgid "virtual folder not possible!"
+msgstr "виртуелна фасцикла није могућа!"

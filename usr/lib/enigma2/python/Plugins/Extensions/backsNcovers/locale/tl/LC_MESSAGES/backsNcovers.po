@@ -1,0 +1,121 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:32+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Tagalog\n"
+"Language: tl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "... not saved!"
+msgstr "... hindi naligtas!"
+
+msgid "... saved!"
+msgstr "... nailigtas!"
+
+msgid "Backdrops"
+msgstr "Mga backdrop"
+
+msgid "BacksNcovers"
+msgstr ""
+
+msgid "Close after selection:"
+msgstr "Isara pagkatapos ng pagpili:"
+
+msgid "Covers"
+msgstr "Mga takip"
+
+msgid "Error: {0}"
+msgstr ""
+
+msgid "Exit"
+msgstr "Lumabas"
+
+msgid "FileBot Schema:"
+msgstr "Schema ng FileBot:"
+
+msgid "Find Backdrops & Covers ..."
+msgstr "Maghanap ng Mga Backdrop at Cover..."
+
+msgid "Find Backdrops and Covers for Movielist"
+msgstr "Maghanap ng Mga Backdrop at Cover para sa Movielist"
+
+msgid "Find Movies"
+msgstr "Maghanap ng mga Pelikula"
+
+msgid "Find Series"
+msgstr "Maghanap ng Serye"
+
+msgid "Find all movies or series"
+msgstr "Hanapin ang lahat ng pelikula o serye"
+
+msgid "Image successfully saved."
+msgstr "Matagumpay na na-save ang larawan."
+
+msgid "Language:"
+msgstr "Wika:"
+
+msgid "Loading %s for %s"
+msgstr "Nilo-load ang %s para sa %s"
+
+msgid "Network error: cannot reach TMDb"
+msgstr "Error sa network: hindi maabot ang TMDb"
+
+msgid "No movie results, %s for %s"
+msgstr "Walang resulta ng pelikula, %s para sa %s"
+
+msgid "No results found for %s!"
+msgstr "Walang nakitang mga resulta para sa %s!"
+
+msgid "No results, %s for %s"
+msgstr "Walang mga resulta, %s para sa %s"
+
+msgid "No series results, %s for %s"
+msgstr "Walang mga resulta ng serye, %s para sa %s"
+
+msgid "Picture resolution:"
+msgstr "Resolusyon ng larawan:"
+
+msgid "Save Cover or Backdrop"
+msgstr "I-save ang Cover o Backdrop"
+
+msgid "Search Text ..."
+msgstr "Maghanap ng Teksto ..."
+
+msgid "Search for:"
+msgstr "Maghanap para sa:"
+
+msgid "Setup"
+msgstr ""
+
+msgid "Show Backdrops or Covers"
+msgstr "Ipakita ang mga Backdrop o Cover"
+
+msgid "Start with Backdrops:"
+msgstr "Magsimula sa Mga Backdrop:"
+
+msgid "TMDb does not respond, try again later!"
+msgstr "Hindi tumutugon ang TMDb, subukang muli sa ibang pagkakataon!"
+
+msgid "TMDb movie results, %s %s for %s"
+msgstr "Mga resulta ng pelikula sa TMDb, %s %s para sa %s"
+
+msgid "TMDb result, %s"
+msgstr "Resulta ng TMDb, %s"
+
+msgid "TMDb search"
+msgstr "Paghahanap sa TMDb"
+
+msgid "TMDb search, %s for %s"
+msgstr "Paghahanap sa TMDb, %s para sa %s"
+
+msgid "TMDb series results, %s %s for %s"
+msgstr "Mga resulta ng serye ng TMDb, %s %s para sa %s"
+
+msgid "backsNcovers"
+msgstr ""
+
+msgid "virtual folder not possible!"
+msgstr "hindi posible ang virtual na folder!"

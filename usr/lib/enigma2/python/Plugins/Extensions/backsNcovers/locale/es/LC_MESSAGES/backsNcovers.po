@@ -1,0 +1,122 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 17:58+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Spanish <es@tp.org.es>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "... not saved!"
+msgstr "... ¡no salvo!"
+
+msgid "... saved!"
+msgstr "... salvado!"
+
+msgid "Backdrops"
+msgstr "Fondos"
+
+msgid "BacksNcovers"
+msgstr "EspaldasNportadas"
+
+msgid "Close after selection:"
+msgstr "Cerrar después de la selección:"
+
+msgid "Covers"
+msgstr "Cubiertas"
+
+msgid "Error: {0}"
+msgstr ""
+
+msgid "Exit"
+msgstr "Salida"
+
+msgid "FileBot Schema:"
+msgstr "Esquema de FileBot:"
+
+msgid "Find Backdrops & Covers ..."
+msgstr "Buscar fondos y portadas..."
+
+msgid "Find Backdrops and Covers for Movielist"
+msgstr "Encuentre fondos y portadas para la lista de películas"
+
+msgid "Find Movies"
+msgstr "Buscar películas"
+
+msgid "Find Series"
+msgstr "Buscar serie"
+
+msgid "Find all movies or series"
+msgstr "Encuentra todas las películas o series."
+
+msgid "Image successfully saved."
+msgstr "Imagen guardada exitosamente."
+
+msgid "Language:"
+msgstr "Idioma:"
+
+msgid "Loading %s for %s"
+msgstr "Cargando %s para %s"
+
+msgid "Network error: cannot reach TMDb"
+msgstr "Error de red: no se puede acceder a TMDb"
+
+msgid "No movie results, %s for %s"
+msgstr "No hay resultados de películas, %s para %s"
+
+msgid "No results found for %s!"
+msgstr "¡No se encontraron resultados para %s!"
+
+msgid "No results, %s for %s"
+msgstr "Sin resultados, %s para %s"
+
+msgid "No series results, %s for %s"
+msgstr "No hay resultados de serie, %s para %s"
+
+msgid "Picture resolution:"
+msgstr "Resolución de imagen:"
+
+msgid "Save Cover or Backdrop"
+msgstr "Guardar portada o telón de fondo"
+
+msgid "Search Text ..."
+msgstr "Buscar texto..."
+
+msgid "Search for:"
+msgstr "Buscar:"
+
+msgid "Setup"
+msgstr "Configuración"
+
+msgid "Show Backdrops or Covers"
+msgstr "Mostrar fondos o portadas"
+
+msgid "Start with Backdrops:"
+msgstr "Comience con fondos:"
+
+msgid "TMDb does not respond, try again later!"
+msgstr "TMDb no responde, ¡inténtalo de nuevo más tarde!"
+
+msgid "TMDb movie results, %s %s for %s"
+msgstr "Resultados de la película TMDb, %s %s para %s"
+
+msgid "TMDb result, %s"
+msgstr "Resultado de TMDb, %s"
+
+msgid "TMDb search"
+msgstr "búsqueda en TMDb"
+
+msgid "TMDb search, %s for %s"
+msgstr "Búsqueda en TMDb, %s para %s"
+
+msgid "TMDb series results, %s %s for %s"
+msgstr "Resultados de la serie TMDb, %s %s para %s"
+
+msgid "backsNcovers"
+msgstr "respaldosNcubiertas"
+
+msgid "virtual folder not possible!"
+msgstr "¡La carpeta virtual no es posible!"

@@ -1,0 +1,121 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 17:57+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Language en-GB\n"
+"Language: en-GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "... not saved!"
+msgstr ""
+
+msgid "... saved!"
+msgstr ""
+
+msgid "Backdrops"
+msgstr ""
+
+msgid "BacksNcovers"
+msgstr ""
+
+msgid "Close after selection:"
+msgstr ""
+
+msgid "Covers"
+msgstr ""
+
+msgid "Error: {0}"
+msgstr ""
+
+msgid "Exit"
+msgstr ""
+
+msgid "FileBot Schema:"
+msgstr "FileBot schema:"
+
+msgid "Find Backdrops & Covers ..."
+msgstr ""
+
+msgid "Find Backdrops and Covers for Movielist"
+msgstr ""
+
+msgid "Find Movies"
+msgstr ""
+
+msgid "Find Series"
+msgstr ""
+
+msgid "Find all movies or series"
+msgstr ""
+
+msgid "Image successfully saved."
+msgstr ""
+
+msgid "Language:"
+msgstr ""
+
+msgid "Loading %s for %s"
+msgstr ""
+
+msgid "Network error: cannot reach TMDb"
+msgstr ""
+
+msgid "No movie results, %s for %s"
+msgstr ""
+
+msgid "No results found for %s!"
+msgstr ""
+
+msgid "No results, %s for %s"
+msgstr ""
+
+msgid "No series results, %s for %s"
+msgstr ""
+
+msgid "Picture resolution:"
+msgstr ""
+
+msgid "Save Cover or Backdrop"
+msgstr ""
+
+msgid "Search Text ..."
+msgstr ""
+
+msgid "Search for:"
+msgstr ""
+
+msgid "Setup"
+msgstr ""
+
+msgid "Show Backdrops or Covers"
+msgstr ""
+
+msgid "Start with Backdrops:"
+msgstr ""
+
+msgid "TMDb does not respond, try again later!"
+msgstr ""
+
+msgid "TMDb movie results, %s %s for %s"
+msgstr ""
+
+msgid "TMDb result, %s"
+msgstr ""
+
+msgid "TMDb search"
+msgstr ""
+
+msgid "TMDb search, %s for %s"
+msgstr ""
+
+msgid "TMDb series results, %s %s for %s"
+msgstr ""
+
+msgid "backsNcovers"
+msgstr ""
+
+msgid "virtual folder not possible!"
+msgstr ""

@@ -1,0 +1,121 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:29+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Telugu <(nothing)>\n"
+"Language: te\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "... not saved!"
+msgstr "... రక్షించబడలేదు!"
+
+msgid "... saved!"
+msgstr "... రక్షించబడింది!"
+
+msgid "Backdrops"
+msgstr "బ్యాక్‌డ్రాప్‌లు"
+
+msgid "BacksNcovers"
+msgstr ""
+
+msgid "Close after selection:"
+msgstr "ఎంపిక తర్వాత మూసివేయండి:"
+
+msgid "Covers"
+msgstr "కవర్లు"
+
+msgid "Error: {0}"
+msgstr "లోపం: {0}"
+
+msgid "Exit"
+msgstr "నిష్క్రమించు"
+
+msgid "FileBot Schema:"
+msgstr "FileBot స్కీమా:"
+
+msgid "Find Backdrops & Covers ..."
+msgstr "బ్యాక్‌డ్రాప్‌లు & కవర్‌లను కనుగొనండి..."
+
+msgid "Find Backdrops and Covers for Movielist"
+msgstr "మూవీలిస్ట్ కోసం బ్యాక్‌డ్రాప్‌లు మరియు కవర్‌లను కనుగొనండి"
+
+msgid "Find Movies"
+msgstr "చలనచిత్రాలను కనుగొనండి"
+
+msgid "Find Series"
+msgstr "శ్రేణిని కనుగొనండి"
+
+msgid "Find all movies or series"
+msgstr "అన్ని సినిమాలు లేదా సిరీస్‌లను కనుగొనండి"
+
+msgid "Image successfully saved."
+msgstr "చిత్రం విజయవంతంగా సేవ్ చేయబడింది."
+
+msgid "Language:"
+msgstr "భాష:"
+
+msgid "Loading %s for %s"
+msgstr "%s కోసం %s లోడ్ అవుతోంది"
+
+msgid "Network error: cannot reach TMDb"
+msgstr "నెట్‌వర్క్ లోపం: TMDbని చేరుకోలేదు"
+
+msgid "No movie results, %s for %s"
+msgstr "చలనచిత్ర ఫలితాలు లేవు, %s కోసం %s"
+
+msgid "No results found for %s!"
+msgstr "%s కోసం ఫలితాలు కనుగొనబడలేదు!"
+
+msgid "No results, %s for %s"
+msgstr "ఫలితాలు లేవు, %s కోసం %s"
+
+msgid "No series results, %s for %s"
+msgstr "శ్రేణి ఫలితాలు లేవు, %s కోసం %s"
+
+msgid "Picture resolution:"
+msgstr "చిత్ర స్పష్టత:"
+
+msgid "Save Cover or Backdrop"
+msgstr "కవర్ లేదా బ్యాక్‌డ్రాప్‌ను సేవ్ చేయండి"
+
+msgid "Search Text ..."
+msgstr "వచనాన్ని వెతకండి..."
+
+msgid "Search for:"
+msgstr "దీని కోసం శోధించండి:"
+
+msgid "Setup"
+msgstr "సెటప్"
+
+msgid "Show Backdrops or Covers"
+msgstr "బ్యాక్‌డ్రాప్‌లు లేదా కవర్‌లను చూపండి"
+
+msgid "Start with Backdrops:"
+msgstr "బ్యాక్‌డ్రాప్‌లతో ప్రారంభించండి:"
+
+msgid "TMDb does not respond, try again later!"
+msgstr "TMDb స్పందించలేదు, తర్వాత మళ్లీ ప్రయత్నించండి!"
+
+msgid "TMDb movie results, %s %s for %s"
+msgstr "TMDb చలనచిత్ర ఫలితాలు, %s కోసం %s %s"
+
+msgid "TMDb result, %s"
+msgstr "TMDb ఫలితం, %s"
+
+msgid "TMDb search"
+msgstr "TMDb శోధన"
+
+msgid "TMDb search, %s for %s"
+msgstr "TMDb శోధన, %s కోసం %s"
+
+msgid "TMDb series results, %s %s for %s"
+msgstr "TMDb సిరీస్ ఫలితాలు, %s కోసం %s %s"
+
+msgid "backsNcovers"
+msgstr ""
+
+msgid "virtual folder not possible!"
+msgstr "వర్చువల్ ఫోల్డర్ సాధ్యం కాదు!"

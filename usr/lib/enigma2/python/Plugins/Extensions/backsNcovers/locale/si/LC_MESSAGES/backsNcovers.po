@@ -1,0 +1,121 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:24+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Sinhala\n"
+"Language: si\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "... not saved!"
+msgstr "... ගැලවීමක් නැත!"
+
+msgid "... saved!"
+msgstr "... බේරුණා!"
+
+msgid "Backdrops"
+msgstr "පසුතල"
+
+msgid "BacksNcovers"
+msgstr ""
+
+msgid "Close after selection:"
+msgstr "තේරීමෙන් පසු වසන්න:"
+
+msgid "Covers"
+msgstr "ආවරණ"
+
+msgid "Error: {0}"
+msgstr "දෝෂය: {0}"
+
+msgid "Exit"
+msgstr "පිටවීම"
+
+msgid "FileBot Schema:"
+msgstr "FileBot යෝජනා ක්රමය:"
+
+msgid "Find Backdrops & Covers ..."
+msgstr "පසුබිම් සහ ආවරණ සොයන්න..."
+
+msgid "Find Backdrops and Covers for Movielist"
+msgstr "චිත්‍රපට ලැයිස්තුව සඳහා පසුබිම් සහ ආවරණ සොයන්න"
+
+msgid "Find Movies"
+msgstr "චිත්‍රපට සොයන්න"
+
+msgid "Find Series"
+msgstr "මාලාව සොයන්න"
+
+msgid "Find all movies or series"
+msgstr "සියලුම චිත්‍රපට හෝ මාලාවන් සොයා ගන්න"
+
+msgid "Image successfully saved."
+msgstr "රූපය සාර්ථකව සුරැකිණි."
+
+msgid "Language:"
+msgstr "භාෂාව:"
+
+msgid "Loading %s for %s"
+msgstr "%s සඳහා %s පූරණය වේ"
+
+msgid "Network error: cannot reach TMDb"
+msgstr "ජාල දෝෂය: TMDb වෙත ළඟා විය නොහැක"
+
+msgid "No movie results, %s for %s"
+msgstr "චිත්‍රපට ප්‍රතිඵල නැත, %s සඳහා %s"
+
+msgid "No results found for %s!"
+msgstr "%s සඳහා ප්‍රතිඵල හමු නොවිණි!"
+
+msgid "No results, %s for %s"
+msgstr "ප්‍රතිඵල නැත, %s සඳහා %s"
+
+msgid "No series results, %s for %s"
+msgstr "ශ්‍රේණි ප්‍රතිඵල නැත, %s සඳහා %s"
+
+msgid "Picture resolution:"
+msgstr "පින්තූර විභේදනය:"
+
+msgid "Save Cover or Backdrop"
+msgstr "කවරය හෝ පසුතිරය සුරකින්න"
+
+msgid "Search Text ..."
+msgstr "පෙළ සොයන්න..."
+
+msgid "Search for:"
+msgstr "ඒ සඳහා සොයන්න:"
+
+msgid "Setup"
+msgstr "සැලසුම"
+
+msgid "Show Backdrops or Covers"
+msgstr "පසුබිම් හෝ ආවරණ පෙන්වන්න"
+
+msgid "Start with Backdrops:"
+msgstr "පසුතිර සමඟ ආරම්භ කරන්න:"
+
+msgid "TMDb does not respond, try again later!"
+msgstr "TMDb ප්‍රතිචාර නොදක්වයි, පසුව නැවත උත්සාහ කරන්න!"
+
+msgid "TMDb movie results, %s %s for %s"
+msgstr "TMDb චිත්‍රපට ප්‍රතිඵල, %s සඳහා %s %s"
+
+msgid "TMDb result, %s"
+msgstr "TMDb ප්‍රතිඵලය, %s"
+
+msgid "TMDb search"
+msgstr "TMDb සෙවීම"
+
+msgid "TMDb search, %s for %s"
+msgstr "TMDb සෙවීම, %s සඳහා %s"
+
+msgid "TMDb series results, %s %s for %s"
+msgstr "TMDb ශ්‍රේණි ප්‍රතිඵල, %s සඳහා %s %s"
+
+msgid "backsNcovers"
+msgstr ""
+
+msgid "virtual folder not possible!"
+msgstr "අතථ්‍ය ෆෝල්ඩරය කළ නොහැක!"

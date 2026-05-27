@@ -1,0 +1,122 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 17:51+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Belarusian <debian-l10n-belarusian@lists.debian.org>\n"
+"Language: be\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+msgid "... not saved!"
+msgstr "... не захавалася!"
+
+msgid "... saved!"
+msgstr "... захавана!"
+
+msgid "Backdrops"
+msgstr "Фоны"
+
+msgid "BacksNcovers"
+msgstr "Заднія чахлы"
+
+msgid "Close after selection:"
+msgstr "Закрыць пасля выбару:"
+
+msgid "Covers"
+msgstr "Вокладкі"
+
+msgid "Error: {0}"
+msgstr "Памылка: {0}"
+
+msgid "Exit"
+msgstr "Выхад"
+
+msgid "FileBot Schema:"
+msgstr "Схема FileBot:"
+
+msgid "Find Backdrops & Covers ..."
+msgstr "Знайдзіце фоны і вокладкі..."
+
+msgid "Find Backdrops and Covers for Movielist"
+msgstr "Знайдзіце фоны і вокладкі для Movielist"
+
+msgid "Find Movies"
+msgstr "Знайсці фільмы"
+
+msgid "Find Series"
+msgstr "Знайсці серыял"
+
+msgid "Find all movies or series"
+msgstr "Знайсці ўсе фільмы або серыялы"
+
+msgid "Image successfully saved."
+msgstr "Відарыс паспяхова захаваны."
+
+msgid "Language:"
+msgstr "мова:"
+
+msgid "Loading %s for %s"
+msgstr "Загрузка %s для %s"
+
+msgid "Network error: cannot reach TMDb"
+msgstr "Памылка сеткі: немагчыма дасягнуць TMDb"
+
+msgid "No movie results, %s for %s"
+msgstr "Фільмаў няма, %s для %s"
+
+msgid "No results found for %s!"
+msgstr "Няма вынікаў для %s!"
+
+msgid "No results, %s for %s"
+msgstr "Няма вынікаў, %s для %s"
+
+msgid "No series results, %s for %s"
+msgstr "Няма вынікаў серыі, %s для %s"
+
+msgid "Picture resolution:"
+msgstr "Раздзяленне выявы:"
+
+msgid "Save Cover or Backdrop"
+msgstr "Захаваць вокладку або фон"
+
+msgid "Search Text ..."
+msgstr "Шукаць тэкст ..."
+
+msgid "Search for:"
+msgstr "шукаць:"
+
+msgid "Setup"
+msgstr "Настройка"
+
+msgid "Show Backdrops or Covers"
+msgstr "Паказаць фоны або вокладкі"
+
+msgid "Start with Backdrops:"
+msgstr "Пачніце з фонаў:"
+
+msgid "TMDb does not respond, try again later!"
+msgstr "TMDb не адказвае, паўтарыце спробу пазней!"
+
+msgid "TMDb movie results, %s %s for %s"
+msgstr "Вынікі фільмаў TMDb, %s %s для %s"
+
+msgid "TMDb result, %s"
+msgstr "Вынік TMDb, %s"
+
+msgid "TMDb search"
+msgstr "Пошук у TMDb"
+
+msgid "TMDb search, %s for %s"
+msgstr "Пошук TMDb, %s для %s"
+
+msgid "TMDb series results, %s %s for %s"
+msgstr "Вынікі серыі TMDb, %s %s для %s"
+
+msgid "backsNcovers"
+msgstr "спінкіNвокладкі"
+
+msgid "virtual folder not possible!"
+msgstr "віртуальная тэчка немагчыма!"

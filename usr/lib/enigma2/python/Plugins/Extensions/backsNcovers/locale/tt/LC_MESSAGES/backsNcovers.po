@@ -1,0 +1,121 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:33+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Tatar\n"
+"Language: tt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "... not saved!"
+msgstr "... сакланмаган!"
+
+msgid "... saved!"
+msgstr "... сакланган!"
+
+msgid "Backdrops"
+msgstr "Фон"
+
+msgid "BacksNcovers"
+msgstr ""
+
+msgid "Close after selection:"
+msgstr "Сайлаудан соң ябу:"
+
+msgid "Covers"
+msgstr "Капка"
+
+msgid "Error: {0}"
+msgstr "Хата: {0}"
+
+msgid "Exit"
+msgstr "Чык"
+
+msgid "FileBot Schema:"
+msgstr "FileBot схемасы:"
+
+msgid "Find Backdrops & Covers ..."
+msgstr "Фоннарны һәм каплагычларны табыгыз ..."
+
+msgid "Find Backdrops and Covers for Movielist"
+msgstr "Фильмист өчен фон һәм каплагычларны табыгыз"
+
+msgid "Find Movies"
+msgstr "Кино табу"
+
+msgid "Find Series"
+msgstr "Серияләр табу"
+
+msgid "Find all movies or series"
+msgstr "Барлык киноларны яки серияләрне табыгыз"
+
+msgid "Image successfully saved."
+msgstr "Рәсем уңышлы сакланган."
+
+msgid "Language:"
+msgstr "Тел:"
+
+msgid "Loading %s for %s"
+msgstr "% S өчен% s йөкләү"
+
+msgid "Network error: cannot reach TMDb"
+msgstr "Челтәр хата: TMDb барып җитә алмый"
+
+msgid "No movie results, %s for %s"
+msgstr "Кино нәтиҗәләре юк,% s өчен% s"
+
+msgid "No results found for %s!"
+msgstr "% S өчен нәтиҗәләр табылмады!"
+
+msgid "No results, %s for %s"
+msgstr "Нәтиҗә юк,% s өчен% s"
+
+msgid "No series results, %s for %s"
+msgstr "Серия нәтиҗәләре юк,% s өчен% s"
+
+msgid "Picture resolution:"
+msgstr "Рәсем резолюциясе:"
+
+msgid "Save Cover or Backdrop"
+msgstr "Капка яки фонны саклагыз"
+
+msgid "Search Text ..."
+msgstr "Текстны эзләү ..."
+
+msgid "Search for:"
+msgstr "Эзләү:"
+
+msgid "Setup"
+msgstr "Урнаштыру"
+
+msgid "Show Backdrops or Covers"
+msgstr "Фоннарны яки каплагычларны күрсәт"
+
+msgid "Start with Backdrops:"
+msgstr "Фоннан башлап:"
+
+msgid "TMDb does not respond, try again later!"
+msgstr "TMDb җавап бирми, соңрак кабатлап карагыз!"
+
+msgid "TMDb movie results, %s %s for %s"
+msgstr "TMDb кино нәтиҗәләре,% s өчен% s% s"
+
+msgid "TMDb result, %s"
+msgstr "TMDb нәтиҗәсе,% s"
+
+msgid "TMDb search"
+msgstr "TMDb эзләү"
+
+msgid "TMDb search, %s for %s"
+msgstr "TMDb эзләү,% s өчен% s"
+
+msgid "TMDb series results, %s %s for %s"
+msgstr "TMDb сериясе нәтиҗәләре,% s өчен% s% s"
+
+msgid "backsNcovers"
+msgstr "backәр сүзнең"
+
+msgid "virtual folder not possible!"
+msgstr "виртуаль папка мөмкин түгел!"

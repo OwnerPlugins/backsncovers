@@ -1,0 +1,121 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 17:53+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Bosnian <mtodorov@alu.hr>\n"
+"Language: bs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "... not saved!"
+msgstr "... nije sačuvano!"
+
+msgid "... saved!"
+msgstr "... spašeno!"
+
+msgid "Backdrops"
+msgstr "Pozadine"
+
+msgid "BacksNcovers"
+msgstr ""
+
+msgid "Close after selection:"
+msgstr "Zatvori nakon odabira:"
+
+msgid "Covers"
+msgstr ""
+
+msgid "Error: {0}"
+msgstr "Greška: {0}"
+
+msgid "Exit"
+msgstr "Izađi"
+
+msgid "FileBot Schema:"
+msgstr "FileBot šema:"
+
+msgid "Find Backdrops & Covers ..."
+msgstr "Pronađite pozadine i korice..."
+
+msgid "Find Backdrops and Covers for Movielist"
+msgstr "Pronađite pozadine i omote za Movielist"
+
+msgid "Find Movies"
+msgstr "Pronađite filmove"
+
+msgid "Find Series"
+msgstr ""
+
+msgid "Find all movies or series"
+msgstr "Pronađite sve filmove ili serije"
+
+msgid "Image successfully saved."
+msgstr "Slika je uspješno sačuvana."
+
+msgid "Language:"
+msgstr "Jezik:"
+
+msgid "Loading %s for %s"
+msgstr "Učitavanje %s za %s"
+
+msgid "Network error: cannot reach TMDb"
+msgstr "Mrežna greška: ne može doći do TMDb-a"
+
+msgid "No movie results, %s for %s"
+msgstr "Nema rezultata filmova, %s za %s"
+
+msgid "No results found for %s!"
+msgstr "Nisu pronađeni rezultati za %s!"
+
+msgid "No results, %s for %s"
+msgstr "Nema rezultata, %s za %s"
+
+msgid "No series results, %s for %s"
+msgstr "Nema rezultata serije, %s za %s"
+
+msgid "Picture resolution:"
+msgstr "Rezolucija slike:"
+
+msgid "Save Cover or Backdrop"
+msgstr "Sačuvaj naslovnicu ili pozadinu"
+
+msgid "Search Text ..."
+msgstr "Pretraži tekst..."
+
+msgid "Search for:"
+msgstr "Traži:"
+
+msgid "Setup"
+msgstr ""
+
+msgid "Show Backdrops or Covers"
+msgstr "Prikaži pozadine ili omote"
+
+msgid "Start with Backdrops:"
+msgstr "Započnite s pozadinama:"
+
+msgid "TMDb does not respond, try again later!"
+msgstr "TMDb ne odgovara, pokušajte ponovo kasnije!"
+
+msgid "TMDb movie results, %s %s for %s"
+msgstr "Rezultati TMDb filmova, %s %s za %s"
+
+msgid "TMDb result, %s"
+msgstr "TMDb rezultat, %s"
+
+msgid "TMDb search"
+msgstr "TMDb pretraga"
+
+msgid "TMDb search, %s for %s"
+msgstr "TMDb pretraga, %s za %s"
+
+msgid "TMDb series results, %s %s for %s"
+msgstr "Rezultati TMDb serije, %s %s za %s"
+
+msgid "backsNcovers"
+msgstr ""
+
+msgid "virtual folder not possible!"
+msgstr "virtuelni folder nije moguć!"

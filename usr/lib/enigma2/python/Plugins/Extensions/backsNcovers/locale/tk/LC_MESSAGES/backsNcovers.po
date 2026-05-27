@@ -1,0 +1,121 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:31+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Turkmen\n"
+"Language: tk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "... not saved!"
+msgstr "... halas edilmedi!"
+
+msgid "... saved!"
+msgstr "... halas edildi!"
+
+msgid "Backdrops"
+msgstr "Düşündirişler"
+
+msgid "BacksNcovers"
+msgstr "Yzyna"
+
+msgid "Close after selection:"
+msgstr "Saýlawdan soň ýapyň:"
+
+msgid "Covers"
+msgstr "Örtükler"
+
+msgid "Error: {0}"
+msgstr "Roralňyşlyk: {0}"
+
+msgid "Exit"
+msgstr "Çyk"
+
+msgid "FileBot Schema:"
+msgstr "FileBot shemasy:"
+
+msgid "Find Backdrops & Covers ..."
+msgstr "Düşündirişleri we örtükleri tapyň ..."
+
+msgid "Find Backdrops and Covers for Movielist"
+msgstr "Kinofilmist üçin fon we örtükleri tapyň"
+
+msgid "Find Movies"
+msgstr "Kino tapyň"
+
+msgid "Find Series"
+msgstr "Seriýany tap"
+
+msgid "Find all movies or series"
+msgstr "Movieshli filmleri ýa-da seriýalary tapyň"
+
+msgid "Image successfully saved."
+msgstr "Surat üstünlikli ýatda saklandy."
+
+msgid "Language:"
+msgstr "Dil:"
+
+msgid "Loading %s for %s"
+msgstr "% S üçin% s ýüklemek"
+
+msgid "Network error: cannot reach TMDb"
+msgstr "Tor ýalňyşlygy: TMDb-e baryp bilmeýär"
+
+msgid "No movie results, %s for %s"
+msgstr "Filmiň netijesi ýok,% s üçin% s"
+
+msgid "No results found for %s!"
+msgstr "% S üçin netije tapylmady!"
+
+msgid "No results, %s for %s"
+msgstr "Netije ýok,% s üçin% s"
+
+msgid "No series results, %s for %s"
+msgstr "Hiç hili seriýa netijesi ýok,% s üçin% s"
+
+msgid "Picture resolution:"
+msgstr "Suratyň ölçegi:"
+
+msgid "Save Cover or Backdrop"
+msgstr "Gapagy ýa-da fonda ýazdyryň"
+
+msgid "Search Text ..."
+msgstr "Gözleg teksti ..."
+
+msgid "Search for:"
+msgstr "Gözlemek:"
+
+msgid "Setup"
+msgstr "Gurnama"
+
+msgid "Show Backdrops or Covers"
+msgstr "Düşündirişleri ýa-da gapaklary görkeziň"
+
+msgid "Start with Backdrops:"
+msgstr "Düşündirişlerden başlaň:"
+
+msgid "TMDb does not respond, try again later!"
+msgstr "TMDb jogap berenok, soňrak synanyşyň!"
+
+msgid "TMDb movie results, %s %s for %s"
+msgstr "TMDb filminiň netijeleri,% s üçin% s% s"
+
+msgid "TMDb result, %s"
+msgstr "TMDb netijesi,% s"
+
+msgid "TMDb search"
+msgstr "TMDb gözlegi"
+
+msgid "TMDb search, %s for %s"
+msgstr "TMDb gözlegi,% s üçin% s"
+
+msgid "TMDb series results, %s %s for %s"
+msgstr "TMDb seriýasynyň netijeleri,% s üçin% s% s"
+
+msgid "backsNcovers"
+msgstr "Yzyna"
+
+msgid "virtual folder not possible!"
+msgstr "wirtual bukja mümkin däl!"

@@ -1,0 +1,122 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:14+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Latvian <translation-team-lv@lists.sourceforge.net>\n"
+"Language: lv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : 2);\n"
+
+msgid "... not saved!"
+msgstr "... nav saglabāts!"
+
+msgid "... saved!"
+msgstr "... saglabāts!"
+
+msgid "Backdrops"
+msgstr "Fons"
+
+msgid "BacksNcovers"
+msgstr ""
+
+msgid "Close after selection:"
+msgstr "Aizvērt pēc atlases:"
+
+msgid "Covers"
+msgstr "Vāki"
+
+msgid "Error: {0}"
+msgstr "Kļūda: {0}"
+
+msgid "Exit"
+msgstr "Iziet"
+
+msgid "FileBot Schema:"
+msgstr "FileBot shēma:"
+
+msgid "Find Backdrops & Covers ..."
+msgstr "Atrodiet fona kolāžas un vākus..."
+
+msgid "Find Backdrops and Covers for Movielist"
+msgstr "Atrodiet filmu sarakstu fona kolāžas un vākus"
+
+msgid "Find Movies"
+msgstr "Atrodiet filmas"
+
+msgid "Find Series"
+msgstr "Atrast sēriju"
+
+msgid "Find all movies or series"
+msgstr "Atrodiet visas filmas vai seriālus"
+
+msgid "Image successfully saved."
+msgstr "Attēls veiksmīgi saglabāts."
+
+msgid "Language:"
+msgstr "Valoda:"
+
+msgid "Loading %s for %s"
+msgstr "Notiek %s ielāde %s"
+
+msgid "Network error: cannot reach TMDb"
+msgstr "Tīkla kļūda: nevar sasniegt TMDb"
+
+msgid "No movie results, %s for %s"
+msgstr "Nav filmu rezultātu, %s priekš %s"
+
+msgid "No results found for %s!"
+msgstr "Vaicājumam %s nav atrasts neviens rezultāts!"
+
+msgid "No results, %s for %s"
+msgstr "Nav rezultātu, %s vaicājumam %s"
+
+msgid "No series results, %s for %s"
+msgstr "Nav sērijas rezultātu, %s — %s"
+
+msgid "Picture resolution:"
+msgstr "Attēla izšķirtspēja:"
+
+msgid "Save Cover or Backdrop"
+msgstr "Saglabājiet vāku vai fona kolāžu"
+
+msgid "Search Text ..."
+msgstr "Meklēt tekstu..."
+
+msgid "Search for:"
+msgstr "Meklēt:"
+
+msgid "Setup"
+msgstr "Iestatīšana"
+
+msgid "Show Backdrops or Covers"
+msgstr "Rādīt fona kolāžas vai vākus"
+
+msgid "Start with Backdrops:"
+msgstr "Sāciet ar fona kolāžas:"
+
+msgid "TMDb does not respond, try again later!"
+msgstr "TMDb nereaģē, vēlāk mēģiniet vēlreiz!"
+
+msgid "TMDb movie results, %s %s for %s"
+msgstr "TMDb filmu rezultāti, %s %s %s"
+
+msgid "TMDb result, %s"
+msgstr "TMDb rezultāts, %s"
+
+msgid "TMDb search"
+msgstr "TMDb meklēšana"
+
+msgid "TMDb search, %s for %s"
+msgstr "TMDb meklēšana, %s — %s"
+
+msgid "TMDb series results, %s %s for %s"
+msgstr "TMDb sērijas rezultāti, %s %s %s"
+
+msgid "backsNcovers"
+msgstr "mugurpusesVāki"
+
+msgid "virtual folder not possible!"
+msgstr "virtuālā mape nav iespējama!"

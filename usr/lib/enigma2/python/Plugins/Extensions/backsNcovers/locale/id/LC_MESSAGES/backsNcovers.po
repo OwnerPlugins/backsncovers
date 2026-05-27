@@ -1,0 +1,121 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:07+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Indonesian <translation-team-id@lists.sourceforge.net>\n"
+"Language: id\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "... not saved!"
+msgstr "... tidak disimpan!"
+
+msgid "... saved!"
+msgstr "... diselamatkan!"
+
+msgid "Backdrops"
+msgstr "Latar belakang"
+
+msgid "BacksNcovers"
+msgstr "Penutup Belakang"
+
+msgid "Close after selection:"
+msgstr "Tutup setelah pemilihan:"
+
+msgid "Covers"
+msgstr "Meliputi"
+
+msgid "Error: {0}"
+msgstr "Kesalahan: {0}"
+
+msgid "Exit"
+msgstr "KELUAR"
+
+msgid "FileBot Schema:"
+msgstr "Skema FileBot:"
+
+msgid "Find Backdrops & Covers ..."
+msgstr "Temukan Latar Belakang & Sampul ..."
+
+msgid "Find Backdrops and Covers for Movielist"
+msgstr "Temukan Latar Belakang dan Sampul untuk Daftar Film"
+
+msgid "Find Movies"
+msgstr "Temukan Film"
+
+msgid "Find Series"
+msgstr "Temukan Seri"
+
+msgid "Find all movies or series"
+msgstr "Temukan semua film atau serial"
+
+msgid "Image successfully saved."
+msgstr "Gambar berhasil disimpan."
+
+msgid "Language:"
+msgstr "Bahasa:"
+
+msgid "Loading %s for %s"
+msgstr "Memuat %s untuk %s"
+
+msgid "Network error: cannot reach TMDb"
+msgstr "Kesalahan jaringan: tidak dapat menjangkau TMDb"
+
+msgid "No movie results, %s for %s"
+msgstr "Tidak ada hasil film, %s untuk %s"
+
+msgid "No results found for %s!"
+msgstr "Hasil untuk %s tidak ditemukan!"
+
+msgid "No results, %s for %s"
+msgstr "Tidak ada hasil, %s untuk %s"
+
+msgid "No series results, %s for %s"
+msgstr "Tidak ada hasil seri, %s untuk %s"
+
+msgid "Picture resolution:"
+msgstr "Resolusi gambar:"
+
+msgid "Save Cover or Backdrop"
+msgstr "Simpan Sampul atau Latar Belakang"
+
+msgid "Search Text ..."
+msgstr "Telusuri Teks..."
+
+msgid "Search for:"
+msgstr "Telusuri:"
+
+msgid "Setup"
+msgstr "Pengaturan"
+
+msgid "Show Backdrops or Covers"
+msgstr "Tampilkan Latar Belakang atau Sampul"
+
+msgid "Start with Backdrops:"
+msgstr "Mulailah dengan Latar Belakang:"
+
+msgid "TMDb does not respond, try again later!"
+msgstr "TMDb tidak merespons, coba lagi nanti!"
+
+msgid "TMDb movie results, %s %s for %s"
+msgstr "Hasil film TMDb, %s %s untuk %s"
+
+msgid "TMDb result, %s"
+msgstr "Hasil TMDb, %s"
+
+msgid "TMDb search"
+msgstr "Pencarian TMDb"
+
+msgid "TMDb search, %s for %s"
+msgstr "Pencarian TMDb, %s untuk %s"
+
+msgid "TMDb series results, %s %s for %s"
+msgstr "Hasil rangkaian TMDb, %s %s untuk %s"
+
+msgid "backsNcovers"
+msgstr "punggungNcovers"
+
+msgid "virtual folder not possible!"
+msgstr "folder virtual tidak mungkin!"

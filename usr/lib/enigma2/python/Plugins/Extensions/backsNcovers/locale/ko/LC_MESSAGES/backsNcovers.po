@@ -1,0 +1,122 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:12+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Korean <translation-team-ko@googlegroups.com>\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "... not saved!"
+msgstr "... 저장되지 않았습니다!"
+
+msgid "... saved!"
+msgstr "... 저장되었습니다!"
+
+msgid "Backdrops"
+msgstr "배경화면"
+
+msgid "BacksNcovers"
+msgstr "뒷면Ncovers"
+
+msgid "Close after selection:"
+msgstr "선택 후 닫기:"
+
+msgid "Covers"
+msgstr "커버"
+
+msgid "Error: {0}"
+msgstr "오류: {0}"
+
+msgid "Exit"
+msgstr "출구"
+
+msgid "FileBot Schema:"
+msgstr "FileBot 스키마:"
+
+msgid "Find Backdrops & Covers ..."
+msgstr "배경화면 및 표지 찾기..."
+
+msgid "Find Backdrops and Covers for Movielist"
+msgstr "Movielist의 배경화면 및 표지 찾기"
+
+msgid "Find Movies"
+msgstr "영화 찾기"
+
+msgid "Find Series"
+msgstr "시리즈 찾기"
+
+msgid "Find all movies or series"
+msgstr "모든 영화 또는 시리즈 찾기"
+
+msgid "Image successfully saved."
+msgstr "이미지가 성공적으로 저장되었습니다."
+
+msgid "Language:"
+msgstr "언어:"
+
+msgid "Loading %s for %s"
+msgstr "%s(%s) 로드 중"
+
+msgid "Network error: cannot reach TMDb"
+msgstr "네트워크 오류: TMDb에 연결할 수 없습니다."
+
+msgid "No movie results, %s for %s"
+msgstr "영화 검색결과가 없습니다. %s(%s)"
+
+msgid "No results found for %s!"
+msgstr "%s에 대한 결과를 찾을 수 없습니다!"
+
+msgid "No results, %s for %s"
+msgstr "결과가 없습니다. %s(%s)"
+
+msgid "No series results, %s for %s"
+msgstr "시리즈 결과가 없습니다. %s(%s)"
+
+msgid "Picture resolution:"
+msgstr "사진 해상도:"
+
+msgid "Save Cover or Backdrop"
+msgstr "표지 또는 배경화면 저장"
+
+msgid "Search Text ..."
+msgstr "텍스트 검색 ..."
+
+msgid "Search for:"
+msgstr "검색:"
+
+msgid "Setup"
+msgstr "설정"
+
+msgid "Show Backdrops or Covers"
+msgstr "배경화면 또는 표지 표시"
+
+msgid "Start with Backdrops:"
+msgstr "배경화면으로 시작:"
+
+msgid "TMDb does not respond, try again later!"
+msgstr "TMDb가 응답하지 않습니다. 나중에 다시 시도하십시오!"
+
+msgid "TMDb movie results, %s %s for %s"
+msgstr "TMDb 영화 결과, %s %s for %s"
+
+msgid "TMDb result, %s"
+msgstr "TMDb 결과, %s"
+
+msgid "TMDb search"
+msgstr "TMDb 검색"
+
+msgid "TMDb search, %s for %s"
+msgstr "TMDb 검색, %s(%s)"
+
+msgid "TMDb series results, %s %s for %s"
+msgstr "TMDb 시리즈 결과, %s %s(%s)"
+
+msgid "backsNcovers"
+msgstr "백앤커버"
+
+msgid "virtual folder not possible!"
+msgstr "가상 폴더는 불가능합니다!"

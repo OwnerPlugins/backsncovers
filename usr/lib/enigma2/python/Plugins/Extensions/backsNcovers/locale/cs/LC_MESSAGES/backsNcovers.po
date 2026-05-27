@@ -1,0 +1,122 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 17:54+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+
+msgid "... not saved!"
+msgstr "... neuloženo!"
+
+msgid "... saved!"
+msgstr "... zachráněno!"
+
+msgid "Backdrops"
+msgstr "Kulisy"
+
+msgid "BacksNcovers"
+msgstr ""
+
+msgid "Close after selection:"
+msgstr "Zavřít po výběru:"
+
+msgid "Covers"
+msgstr "Kryty"
+
+msgid "Error: {0}"
+msgstr "Chyba: {0}"
+
+msgid "Exit"
+msgstr "Výstup"
+
+msgid "FileBot Schema:"
+msgstr "Schéma FileBot:"
+
+msgid "Find Backdrops & Covers ..."
+msgstr "Najít pozadí a obaly..."
+
+msgid "Find Backdrops and Covers for Movielist"
+msgstr "Najděte kulisy a obaly pro seznam filmů"
+
+msgid "Find Movies"
+msgstr "Najít filmy"
+
+msgid "Find Series"
+msgstr "Najít řadu"
+
+msgid "Find all movies or series"
+msgstr "Najděte všechny filmy nebo seriály"
+
+msgid "Image successfully saved."
+msgstr "Obrázek byl úspěšně uložen."
+
+msgid "Language:"
+msgstr "Jazyk:"
+
+msgid "Loading %s for %s"
+msgstr "Načítání %s pro %s"
+
+msgid "Network error: cannot reach TMDb"
+msgstr "Chyba sítě: nelze dosáhnout TMDb"
+
+msgid "No movie results, %s for %s"
+msgstr "Nebyl nalezen žádný film, %s pro %s"
+
+msgid "No results found for %s!"
+msgstr "Pro %s nebyly nalezeny žádné výsledky!"
+
+msgid "No results, %s for %s"
+msgstr "Žádné výsledky, %s pro %s"
+
+msgid "No series results, %s for %s"
+msgstr "Žádné výsledky série, %s pro %s"
+
+msgid "Picture resolution:"
+msgstr "Rozlišení obrázku:"
+
+msgid "Save Cover or Backdrop"
+msgstr "Uložit obálku nebo pozadí"
+
+msgid "Search Text ..."
+msgstr "Hledat text..."
+
+msgid "Search for:"
+msgstr "Hledat:"
+
+msgid "Setup"
+msgstr "Nastavení"
+
+msgid "Show Backdrops or Covers"
+msgstr "Zobrazit pozadí nebo obálky"
+
+msgid "Start with Backdrops:"
+msgstr "Začněte s kulisami:"
+
+msgid "TMDb does not respond, try again later!"
+msgstr "TMDb nereaguje, zkuste to znovu později!"
+
+msgid "TMDb movie results, %s %s for %s"
+msgstr "Výsledky filmů TMDb, %s %s pro %s"
+
+msgid "TMDb result, %s"
+msgstr "Výsledek TMDb, %s"
+
+msgid "TMDb search"
+msgstr "vyhledávání TMDb"
+
+msgid "TMDb search, %s for %s"
+msgstr "Vyhledávání TMDb, %s pro %s"
+
+msgid "TMDb series results, %s %s for %s"
+msgstr "Výsledky série TMDb, %s %s pro %s"
+
+msgid "backsNcovers"
+msgstr ""
+
+msgid "virtual folder not possible!"
+msgstr "virtuální složka není možná!"

@@ -1,0 +1,122 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:25+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Slovenian <translation-team-sl@lists.sourceforge.net>\n"
+"Language: sl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3);\n"
+
+msgid "... not saved!"
+msgstr "... ni shranjeno!"
+
+msgid "... saved!"
+msgstr "... shranjeno!"
+
+msgid "Backdrops"
+msgstr "Kulise"
+
+msgid "BacksNcovers"
+msgstr "HrbtiščaNovitki"
+
+msgid "Close after selection:"
+msgstr "Zapri po izbiri:"
+
+msgid "Covers"
+msgstr "Ovitki"
+
+msgid "Error: {0}"
+msgstr "Napaka: {0}"
+
+msgid "Exit"
+msgstr "Izhod"
+
+msgid "FileBot Schema:"
+msgstr "Shema FileBot:"
+
+msgid "Find Backdrops & Covers ..."
+msgstr "Poiščite ozadja in naslovnice ..."
+
+msgid "Find Backdrops and Covers for Movielist"
+msgstr "Poiščite ozadja in naslovnice za Movielist"
+
+msgid "Find Movies"
+msgstr "Poiščite filme"
+
+msgid "Find Series"
+msgstr "Poiščite serijo"
+
+msgid "Find all movies or series"
+msgstr "Poiščite vse filme ali serije"
+
+msgid "Image successfully saved."
+msgstr "Slika uspešno shranjena."
+
+msgid "Language:"
+msgstr "jezik:"
+
+msgid "Loading %s for %s"
+msgstr "Nalaganje %s za %s"
+
+msgid "Network error: cannot reach TMDb"
+msgstr "Omrežna napaka: ni mogoče doseči TMDb"
+
+msgid "No movie results, %s for %s"
+msgstr "Ni filmskih rezultatov, %s za %s"
+
+msgid "No results found for %s!"
+msgstr "Ni rezultatov za %s!"
+
+msgid "No results, %s for %s"
+msgstr "Ni rezultatov, %s za %s"
+
+msgid "No series results, %s for %s"
+msgstr "Ni rezultatov serije, %s za %s"
+
+msgid "Picture resolution:"
+msgstr "Ločljivost slike:"
+
+msgid "Save Cover or Backdrop"
+msgstr "Shranite naslovnico ali ozadje"
+
+msgid "Search Text ..."
+msgstr "Iskanje besedila ..."
+
+msgid "Search for:"
+msgstr "Iskanje za:"
+
+msgid "Setup"
+msgstr "Nastavitev"
+
+msgid "Show Backdrops or Covers"
+msgstr "Prikažite ozadja ali naslovnice"
+
+msgid "Start with Backdrops:"
+msgstr "Začnite z ozadji:"
+
+msgid "TMDb does not respond, try again later!"
+msgstr "TMDb se ne odziva, poskusite znova pozneje!"
+
+msgid "TMDb movie results, %s %s for %s"
+msgstr "Rezultati filmov TMDb, %s %s za %s"
+
+msgid "TMDb result, %s"
+msgstr "Rezultat TMDb, %s"
+
+msgid "TMDb search"
+msgstr "Iskanje TMDb"
+
+msgid "TMDb search, %s for %s"
+msgstr "Iskanje TMDb, %s za %s"
+
+msgid "TMDb series results, %s %s for %s"
+msgstr "Rezultati serije TMDb, %s %s za %s"
+
+msgid "backsNcovers"
+msgstr "hrbetNcovers"
+
+msgid "virtual folder not possible!"
+msgstr "virtualna mapa ni mogoča!"

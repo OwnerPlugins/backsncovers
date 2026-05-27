@@ -1,0 +1,121 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:20+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Occitan\n"
+"Language: oc\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "... not saved!"
+msgstr "... pas salvat!"
+
+msgid "... saved!"
+msgstr "... salvat!"
+
+msgid "Backdrops"
+msgstr "De fons"
+
+msgid "BacksNcovers"
+msgstr "Cobèrtas de darrièr"
+
+msgid "Close after selection:"
+msgstr "Barrar après la seleccion :"
+
+msgid "Covers"
+msgstr "Cobèrtas"
+
+msgid "Error: {0}"
+msgstr "Error : {0}"
+
+msgid "Exit"
+msgstr "Sortida"
+
+msgid "FileBot Schema:"
+msgstr "Esquèma FileBot :"
+
+msgid "Find Backdrops & Covers ..."
+msgstr "Trobar de fons e de cobèrtas ..."
+
+msgid "Find Backdrops and Covers for Movielist"
+msgstr "Trobar de fons e de cobèrtas per Movielist"
+
+msgid "Find Movies"
+msgstr "Trobar de filmes"
+
+msgid "Find Series"
+msgstr "Trobar la sèria"
+
+msgid "Find all movies or series"
+msgstr "Trobar totes los filmes o serias"
+
+msgid "Image successfully saved."
+msgstr "Imatge enregistrat amb succès."
+
+msgid "Language:"
+msgstr "Lenga:"
+
+msgid "Loading %s for %s"
+msgstr "En cargament de %s per %s"
+
+msgid "Network error: cannot reach TMDb"
+msgstr "Error de ret : pòt pas aténher TMDb"
+
+msgid "No movie results, %s for %s"
+msgstr "Cap de resultat de filme, %s per %s"
+
+msgid "No results found for %s!"
+msgstr "Cap de resultat pas trobat per %s !"
+
+msgid "No results, %s for %s"
+msgstr "Pas de resultat, %s per %s"
+
+msgid "No series results, %s for %s"
+msgstr "Cap de resultat de sèria, %s per %s"
+
+msgid "Picture resolution:"
+msgstr "Resolucion de l'imatge:"
+
+msgid "Save Cover or Backdrop"
+msgstr "Enregistrar la portada o lo fons"
+
+msgid "Search Text ..."
+msgstr "Cercar lo tèxte ..."
+
+msgid "Search for:"
+msgstr "Cercar per:"
+
+msgid "Setup"
+msgstr "Metre en plaça"
+
+msgid "Show Backdrops or Covers"
+msgstr "Mostrar de fons o de cobèrtas"
+
+msgid "Start with Backdrops:"
+msgstr "Començatz amb de fons:"
+
+msgid "TMDb does not respond, try again later!"
+msgstr "TMDb respond pas, ensajatz tornar mai tard !"
+
+msgid "TMDb movie results, %s %s for %s"
+msgstr "Resultats del filme TMDb, %s %s per %s"
+
+msgid "TMDb result, %s"
+msgstr "Resultat TMDb, %s"
+
+msgid "TMDb search"
+msgstr "Recèrca TMDb"
+
+msgid "TMDb search, %s for %s"
+msgstr "Recèrca TMDb, %s per %s"
+
+msgid "TMDb series results, %s %s for %s"
+msgstr "Resultats de la seria TMDb, %s %s per %s"
+
+msgid "backsNcovers"
+msgstr "cobèrtas de dorsièrs"
+
+msgid "virtual folder not possible!"
+msgstr "dorsièr virtual pas possible!"

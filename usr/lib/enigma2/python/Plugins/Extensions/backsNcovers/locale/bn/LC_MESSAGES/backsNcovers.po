@@ -1,0 +1,121 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 17:52+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Bengali <(nothing)>\n"
+"Language: bn\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "... not saved!"
+msgstr "... সংরক্ষিত হয়নি!"
+
+msgid "... saved!"
+msgstr "... সংরক্ষিত!"
+
+msgid "Backdrops"
+msgstr "ব্যাকড্রপ"
+
+msgid "BacksNcovers"
+msgstr ""
+
+msgid "Close after selection:"
+msgstr "নির্বাচনের পরে বন্ধ করুন:"
+
+msgid "Covers"
+msgstr "কভার করে"
+
+msgid "Error: {0}"
+msgstr "ত্রুটি: {0}"
+
+msgid "Exit"
+msgstr "প্রস্থান করুন"
+
+msgid "FileBot Schema:"
+msgstr "ফাইলবট স্কিমা:"
+
+msgid "Find Backdrops & Covers ..."
+msgstr "ব্যাকড্রপ এবং কভার খুঁজুন..."
+
+msgid "Find Backdrops and Covers for Movielist"
+msgstr "মুভিলিস্টের জন্য ব্যাকড্রপ এবং কভার খুঁজুন"
+
+msgid "Find Movies"
+msgstr "সিনেমা খুঁজুন"
+
+msgid "Find Series"
+msgstr "সিরিজ খুঁজুন"
+
+msgid "Find all movies or series"
+msgstr "সব সিনেমা বা সিরিজ খুঁজুন"
+
+msgid "Image successfully saved."
+msgstr "ছবি সফলভাবে সংরক্ষিত।"
+
+msgid "Language:"
+msgstr "ভাষা:"
+
+msgid "Loading %s for %s"
+msgstr "%s এর জন্য %s লোড হচ্ছে"
+
+msgid "Network error: cannot reach TMDb"
+msgstr "নেটওয়ার্ক ত্রুটি: TMDb এ পৌঁছাতে পারে না"
+
+msgid "No movie results, %s for %s"
+msgstr "কোনো সিনেমার ফলাফল নেই, %s এর জন্য %s"
+
+msgid "No results found for %s!"
+msgstr "%s এর জন্য কোন ফলাফল পাওয়া যায়নি!"
+
+msgid "No results, %s for %s"
+msgstr "কোন ফলাফল নেই, %s এর জন্য %s"
+
+msgid "No series results, %s for %s"
+msgstr "কোনো সিরিজের ফলাফল নেই, %s এর জন্য %s"
+
+msgid "Picture resolution:"
+msgstr "ছবির রেজোলিউশন:"
+
+msgid "Save Cover or Backdrop"
+msgstr "কভার বা ব্যাকড্রপ সংরক্ষণ করুন"
+
+msgid "Search Text ..."
+msgstr "পাঠ্য অনুসন্ধান করুন..."
+
+msgid "Search for:"
+msgstr "এর জন্য অনুসন্ধান করুন:"
+
+msgid "Setup"
+msgstr "সেটআপ"
+
+msgid "Show Backdrops or Covers"
+msgstr "ব্যাকড্রপ বা কভার দেখান"
+
+msgid "Start with Backdrops:"
+msgstr "ব্যাকড্রপ দিয়ে শুরু করুন:"
+
+msgid "TMDb does not respond, try again later!"
+msgstr "TMDb সাড়া দেয় না, পরে আবার চেষ্টা করুন!"
+
+msgid "TMDb movie results, %s %s for %s"
+msgstr "TMDb সিনেমার ফলাফল, %s এর জন্য %s %s"
+
+msgid "TMDb result, %s"
+msgstr "TMDb ফলাফল, %s"
+
+msgid "TMDb search"
+msgstr "TMDb অনুসন্ধান"
+
+msgid "TMDb search, %s for %s"
+msgstr "TMDb অনুসন্ধান, %s এর জন্য %s"
+
+msgid "TMDb series results, %s %s for %s"
+msgstr "TMDb সিরিজের ফলাফল, %s এর জন্য %s %s"
+
+msgid "backsNcovers"
+msgstr ""
+
+msgid "virtual folder not possible!"
+msgstr "ভার্চুয়াল ফোল্ডার সম্ভব নয়!"

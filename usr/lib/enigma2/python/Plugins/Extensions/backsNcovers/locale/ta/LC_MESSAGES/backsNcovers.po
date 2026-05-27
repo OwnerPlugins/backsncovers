@@ -1,0 +1,121 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:29+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Tamil <tamil@systemreboot.net>\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "... not saved!"
+msgstr "... காப்பாற்றப்படவில்லை!"
+
+msgid "... saved!"
+msgstr "... காப்பாற்றப்பட்டது!"
+
+msgid "Backdrops"
+msgstr "பின்னணிகள்"
+
+msgid "BacksNcovers"
+msgstr "பேக்ஸ்என்கவர்ஸ்"
+
+msgid "Close after selection:"
+msgstr "தேர்வு செய்த பின் மூடு:"
+
+msgid "Covers"
+msgstr "கவர்கள்"
+
+msgid "Error: {0}"
+msgstr "பிழை: {0}"
+
+msgid "Exit"
+msgstr "வெளியேறு"
+
+msgid "FileBot Schema:"
+msgstr "FileBot திட்டம்:"
+
+msgid "Find Backdrops & Covers ..."
+msgstr "பின்னணி மற்றும் அட்டைகளைக் கண்டறிக..."
+
+msgid "Find Backdrops and Covers for Movielist"
+msgstr "திரைப்படப் பட்டியலுக்கான பின்னணிகள் மற்றும் அட்டைகளைக் கண்டறியவும்"
+
+msgid "Find Movies"
+msgstr "திரைப்படங்களைக் கண்டறியவும்"
+
+msgid "Find Series"
+msgstr "தொடரைக் கண்டுபிடி"
+
+msgid "Find all movies or series"
+msgstr "அனைத்து திரைப்படங்கள் அல்லது தொடர்களைக் கண்டறியவும்"
+
+msgid "Image successfully saved."
+msgstr "படம் வெற்றிகரமாகச் சேமிக்கப்பட்டது."
+
+msgid "Language:"
+msgstr "மொழி:"
+
+msgid "Loading %s for %s"
+msgstr "%sக்கு %sஐ ஏற்றுகிறது"
+
+msgid "Network error: cannot reach TMDb"
+msgstr "நெட்வொர்க் பிழை: TMDb ஐ அடைய முடியவில்லை"
+
+msgid "No movie results, %s for %s"
+msgstr "திரைப்பட முடிவுகள் இல்லை, %sக்கு %s"
+
+msgid "No results found for %s!"
+msgstr "%sக்கான முடிவுகள் எதுவும் கிடைக்கவில்லை!"
+
+msgid "No results, %s for %s"
+msgstr "முடிவுகள் இல்லை, %sக்கு %s"
+
+msgid "No series results, %s for %s"
+msgstr "தொடர் முடிவுகள் இல்லை, %sக்கு %s"
+
+msgid "Picture resolution:"
+msgstr "படத்தின் தீர்மானம்:"
+
+msgid "Save Cover or Backdrop"
+msgstr "கவர் அல்லது பின்னணியைச் சேமிக்கவும்"
+
+msgid "Search Text ..."
+msgstr "உரையைத் தேடு..."
+
+msgid "Search for:"
+msgstr "தேட:"
+
+msgid "Setup"
+msgstr "அமைவு"
+
+msgid "Show Backdrops or Covers"
+msgstr "பின்னணிகள் அல்லது அட்டைகளைக் காட்டு"
+
+msgid "Start with Backdrops:"
+msgstr "பின்னணியுடன் தொடங்கவும்:"
+
+msgid "TMDb does not respond, try again later!"
+msgstr "TMDb பதிலளிக்கவில்லை, பிறகு முயற்சிக்கவும்!"
+
+msgid "TMDb movie results, %s %s for %s"
+msgstr "TMDb திரைப்பட முடிவுகள், %s க்கு %s %s"
+
+msgid "TMDb result, %s"
+msgstr "TMDb முடிவு, %s"
+
+msgid "TMDb search"
+msgstr "TMDb தேடல்"
+
+msgid "TMDb search, %s for %s"
+msgstr "TMDb தேடல், %s க்கான %s"
+
+msgid "TMDb series results, %s %s for %s"
+msgstr "TMDb தொடர் முடிவுகள், %s க்கு %s %s"
+
+msgid "backsNcovers"
+msgstr ""
+
+msgid "virtual folder not possible!"
+msgstr "மெய்நிகர் கோப்புறை சாத்தியமில்லை!"

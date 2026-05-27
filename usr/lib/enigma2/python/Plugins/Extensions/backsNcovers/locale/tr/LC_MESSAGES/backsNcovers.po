@@ -1,0 +1,122 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:32+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Turkish <gnome-turk@gnome.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "... not saved!"
+msgstr "... kurtarılmadı!"
+
+msgid "... saved!"
+msgstr "... kurtarıldı!"
+
+msgid "Backdrops"
+msgstr "Arka planlar"
+
+msgid "BacksNcovers"
+msgstr "ArkalarNcovers"
+
+msgid "Close after selection:"
+msgstr "Seçimden sonra kapat:"
+
+msgid "Covers"
+msgstr "Kapaklar"
+
+msgid "Error: {0}"
+msgstr "Hata: {0}"
+
+msgid "Exit"
+msgstr "Çıkış"
+
+msgid "FileBot Schema:"
+msgstr "FileBot şeması:"
+
+msgid "Find Backdrops & Covers ..."
+msgstr "Arka Planları ve Kapakları Bul..."
+
+msgid "Find Backdrops and Covers for Movielist"
+msgstr "Film Listesi için Arka Plan ve Kapakları Bulun"
+
+msgid "Find Movies"
+msgstr "Film Bul"
+
+msgid "Find Series"
+msgstr "Seri Bul"
+
+msgid "Find all movies or series"
+msgstr "Tüm filmleri veya dizileri bulun"
+
+msgid "Image successfully saved."
+msgstr "Resim başarıyla kaydedildi."
+
+msgid "Language:"
+msgstr "Dil:"
+
+msgid "Loading %s for %s"
+msgstr "%s için %s yükleniyor"
+
+msgid "Network error: cannot reach TMDb"
+msgstr "Ağ hatası: TMDb'ye ulaşılamıyor"
+
+msgid "No movie results, %s for %s"
+msgstr "Film sonucu yok, %s için %s"
+
+msgid "No results found for %s!"
+msgstr "%s için sonuç bulunamadı!"
+
+msgid "No results, %s for %s"
+msgstr "Sonuç yok, %s için %s"
+
+msgid "No series results, %s for %s"
+msgstr "Seri sonucu yok, %s için %s"
+
+msgid "Picture resolution:"
+msgstr "Resim çözünürlüğü:"
+
+msgid "Save Cover or Backdrop"
+msgstr "Kapağı veya Arka Planı Kaydet"
+
+msgid "Search Text ..."
+msgstr "Metin Ara..."
+
+msgid "Search for:"
+msgstr "Şunu arayın:"
+
+msgid "Setup"
+msgstr "Kurmak"
+
+msgid "Show Backdrops or Covers"
+msgstr "Arka Planları veya Kapakları Göster"
+
+msgid "Start with Backdrops:"
+msgstr "Arka Planlarla Başlayın:"
+
+msgid "TMDb does not respond, try again later!"
+msgstr "TMDb yanıt vermiyor, daha sonra tekrar deneyin!"
+
+msgid "TMDb movie results, %s %s for %s"
+msgstr "TMDb film sonuçları, %s için %s %s"
+
+msgid "TMDb result, %s"
+msgstr "TMDb sonucu, %s"
+
+msgid "TMDb search"
+msgstr "TMDb araması"
+
+msgid "TMDb search, %s for %s"
+msgstr "TMDb araması, %s için %s"
+
+msgid "TMDb series results, %s %s for %s"
+msgstr "TMDb serisi sonuçları, %s için %s %s"
+
+msgid "backsNcovers"
+msgstr "arkalarNcovers"
+
+msgid "virtual folder not possible!"
+msgstr "sanal klasör mümkün değil!"

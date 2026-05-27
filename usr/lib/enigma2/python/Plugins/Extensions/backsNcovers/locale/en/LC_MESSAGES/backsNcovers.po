@@ -1,0 +1,123 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 17:57+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: English\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#, fuzzy
+msgid "... not saved!"
+msgstr "... not saved!"
+
+msgid "... saved!"
+msgstr "... saved!"
+
+msgid "Backdrops"
+msgstr "Backdrops"
+
+msgid "BacksNcovers"
+msgstr "BacksNcovers"
+
+msgid "Close after selection:"
+msgstr "Close after selection:"
+
+msgid "Covers"
+msgstr "Covers"
+
+msgid "Error: {0}"
+msgstr "Error: {0}"
+
+msgid "Exit"
+msgstr "Exit"
+
+msgid "FileBot Schema:"
+msgstr "FileBot Schema:"
+
+msgid "Find Backdrops & Covers ..."
+msgstr "Find Backdrops & Covers ..."
+
+msgid "Find Backdrops and Covers for Movielist"
+msgstr "Find Backdrops and Covers for Movielist"
+
+msgid "Find Movies"
+msgstr "Find Movies"
+
+msgid "Find Series"
+msgstr "Find Series"
+
+msgid "Find all movies or series"
+msgstr "Find all movies or series"
+
+msgid "Image successfully saved."
+msgstr "Image successfully saved."
+
+msgid "Language:"
+msgstr "Language:"
+
+msgid "Loading %s for %s"
+msgstr "Loading %s for %s"
+
+msgid "Network error: cannot reach TMDb"
+msgstr "Network error: cannot reach TMDb"
+
+msgid "No movie results, %s for %s"
+msgstr "No movie results, %s for %s"
+
+msgid "No results found for %s!"
+msgstr "No results found for %s!"
+
+msgid "No results, %s for %s"
+msgstr "No results, %s for %s"
+
+msgid "No series results, %s for %s"
+msgstr "No series results, %s for %s"
+
+msgid "Picture resolution:"
+msgstr "Picture resolution:"
+
+msgid "Save Cover or Backdrop"
+msgstr "Save Cover or Backdrop"
+
+msgid "Search Text ..."
+msgstr "Search Text ..."
+
+msgid "Search for:"
+msgstr "Search for:"
+
+msgid "Setup"
+msgstr "Setup"
+
+msgid "Show Backdrops or Covers"
+msgstr "Show Backdrops or Covers"
+
+msgid "Start with Backdrops:"
+msgstr "Start with Backdrops:"
+
+msgid "TMDb does not respond, try again later!"
+msgstr "TMDb does not respond, try again later!"
+
+msgid "TMDb movie results, %s %s for %s"
+msgstr "TMDb movie results, %s %s for %s"
+
+msgid "TMDb result, %s"
+msgstr "TMDb result, %s"
+
+msgid "TMDb search"
+msgstr "TMDb search"
+
+msgid "TMDb search, %s for %s"
+msgstr "TMDb search, %s for %s"
+
+msgid "TMDb series results, %s %s for %s"
+msgstr "TMDb series results, %s %s for %s"
+
+msgid "backsNcovers"
+msgstr "backsNcovers"
+
+msgid "virtual folder not possible!"
+msgstr "virtual folder not possible!"

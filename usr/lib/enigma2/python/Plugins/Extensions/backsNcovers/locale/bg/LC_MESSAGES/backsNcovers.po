@@ -1,0 +1,122 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 17:52+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Bulgarian <dict@ludost.net>\n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "... not saved!"
+msgstr "... не е запазено!"
+
+msgid "... saved!"
+msgstr "... запазено!"
+
+msgid "Backdrops"
+msgstr "фонове"
+
+msgid "BacksNcovers"
+msgstr "ГърбовеNкорици"
+
+msgid "Close after selection:"
+msgstr "Затваряне след избор:"
+
+msgid "Covers"
+msgstr "Корици"
+
+msgid "Error: {0}"
+msgstr "Грешка: {0}"
+
+msgid "Exit"
+msgstr "Изход"
+
+msgid "FileBot Schema:"
+msgstr "FileBot схема:"
+
+msgid "Find Backdrops & Covers ..."
+msgstr "Намерете фонове и корици..."
+
+msgid "Find Backdrops and Covers for Movielist"
+msgstr "Намерете фонове и корици за Movielist"
+
+msgid "Find Movies"
+msgstr "Намерете филми"
+
+msgid "Find Series"
+msgstr "Намерете серия"
+
+msgid "Find all movies or series"
+msgstr "Намерете всички филми или сериали"
+
+msgid "Image successfully saved."
+msgstr "Изображението е запазено успешно."
+
+msgid "Language:"
+msgstr "език:"
+
+msgid "Loading %s for %s"
+msgstr "Зарежда се %s за %s"
+
+msgid "Network error: cannot reach TMDb"
+msgstr "Мрежова грешка: не може да се достигне до TMDb"
+
+msgid "No movie results, %s for %s"
+msgstr "Няма резултати за филми, %s за %s"
+
+msgid "No results found for %s!"
+msgstr "Няма намерени резултати за %s!"
+
+msgid "No results, %s for %s"
+msgstr "Няма резултати, %s за %s"
+
+msgid "No series results, %s for %s"
+msgstr "Няма резултати от серия, %s за %s"
+
+msgid "Picture resolution:"
+msgstr "Разделителна способност на картината:"
+
+msgid "Save Cover or Backdrop"
+msgstr "Запазете корица или фон"
+
+msgid "Search Text ..."
+msgstr "Търсене на текст..."
+
+msgid "Search for:"
+msgstr "Търсене за:"
+
+msgid "Setup"
+msgstr "Настройка"
+
+msgid "Show Backdrops or Covers"
+msgstr "Показване на фонове или корици"
+
+msgid "Start with Backdrops:"
+msgstr "Започнете с фонове:"
+
+msgid "TMDb does not respond, try again later!"
+msgstr "TMDb не отговаря, опитайте отново по-късно!"
+
+msgid "TMDb movie results, %s %s for %s"
+msgstr "Резултати от филми на TMDb, %s %s за %s"
+
+msgid "TMDb result, %s"
+msgstr "TMDb резултат, %s"
+
+msgid "TMDb search"
+msgstr "TMDb търсене"
+
+msgid "TMDb search, %s for %s"
+msgstr "TMDb търсене, %s за %s"
+
+msgid "TMDb series results, %s %s for %s"
+msgstr "Резултати от серията TMDb, %s %s за %s"
+
+msgid "backsNcovers"
+msgstr "гърбовеNкорици"
+
+msgid "virtual folder not possible!"
+msgstr "виртуална папка не е възможна!"

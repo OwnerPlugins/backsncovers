@@ -1,0 +1,121 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:21+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Oriya <translation-team-or@lists.sourceforge.net>\n"
+"Language: or\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "... not saved!"
+msgstr "... ସଞ୍ଚୟ ହୋଇନାହିଁ!"
+
+msgid "... saved!"
+msgstr "... ସଞ୍ଚୟ!"
+
+msgid "Backdrops"
+msgstr "ପୃଷ୍ଠପଟ"
+
+msgid "BacksNcovers"
+msgstr ""
+
+msgid "Close after selection:"
+msgstr "ଚୟନ ପରେ ବନ୍ଦ କରନ୍ତୁ:"
+
+msgid "Covers"
+msgstr "କଭର୍ |"
+
+msgid "Error: {0}"
+msgstr "ତ୍ରୁଟି: {0}"
+
+msgid "Exit"
+msgstr "ପ୍ରସ୍ଥାନ"
+
+msgid "FileBot Schema:"
+msgstr "FileBot ସ୍କିମା:"
+
+msgid "Find Backdrops & Covers ..."
+msgstr "ପୃଷ୍ଠପଟ ଏବଂ କଭରଗୁଡିକ ଖୋଜ ..."
+
+msgid "Find Backdrops and Covers for Movielist"
+msgstr "ଚଳଚ୍ଚିତ୍ର ତାଲିକା ପାଇଁ ବ୍ୟାକଡ୍ରପ୍ ଏବଂ କଭର ଖୋଜ |"
+
+msgid "Find Movies"
+msgstr "ଚଳଚ୍ଚିତ୍ର ଖୋଜ |"
+
+msgid "Find Series"
+msgstr "ସିରିଜ୍ ଖୋଜ |"
+
+msgid "Find all movies or series"
+msgstr "ସମସ୍ତ ଚଳଚ୍ଚିତ୍ର କିମ୍ବା ସିରିଜ୍ ଖୋଜ |"
+
+msgid "Image successfully saved."
+msgstr "ପ୍ରତିଛବି ସଫଳତାର ସହିତ ସଞ୍ଚୟ ହୋଇଛି |"
+
+msgid "Language:"
+msgstr "ଭାଷା:"
+
+msgid "Loading %s for %s"
+msgstr "% S ପାଇଁ% s ଲୋଡ୍ ହେଉଛି |"
+
+msgid "Network error: cannot reach TMDb"
+msgstr "ନେଟୱର୍କ ତ୍ରୁଟି: TMDb ରେ ପହଞ୍ଚିପାରିବ ନାହିଁ |"
+
+msgid "No movie results, %s for %s"
+msgstr "କ movie ଣସି ଚଳଚ୍ଚିତ୍ର ଫଳାଫଳ ନାହିଁ,% s ପାଇଁ% s |"
+
+msgid "No results found for %s!"
+msgstr "% S ପାଇଁ କ results ଣସି ଫଳାଫଳ ମିଳିଲା ନାହିଁ!"
+
+msgid "No results, %s for %s"
+msgstr "କ results ଣସି ଫଳାଫଳ ନାହିଁ,% s ପାଇଁ% s"
+
+msgid "No series results, %s for %s"
+msgstr "କ series ଣସି ସିରିଜ୍ ଫଳାଫଳ ନାହିଁ,% s ପାଇଁ% s |"
+
+msgid "Picture resolution:"
+msgstr "ଚିତ୍ର ବିଭେଦନ:"
+
+msgid "Save Cover or Backdrop"
+msgstr "କଭର୍ କିମ୍ବା ବ୍ୟାକଡ୍ରପ୍ ସେଭ୍ କରନ୍ତୁ |"
+
+msgid "Search Text ..."
+msgstr "ସନ୍ଧାନ ପାଠ ..."
+
+msgid "Search for:"
+msgstr "ସନ୍ଧାନ କରନ୍ତୁ:"
+
+msgid "Setup"
+msgstr "ସେଟଅପ୍ |"
+
+msgid "Show Backdrops or Covers"
+msgstr "ବ୍ୟାକଡ୍ରପ୍ କିମ୍ବା କଭର ଦେଖାନ୍ତୁ |"
+
+msgid "Start with Backdrops:"
+msgstr "ପୃଷ୍ଠପଟରୁ ଆରମ୍ଭ କରନ୍ତୁ:"
+
+msgid "TMDb does not respond, try again later!"
+msgstr "TMDb ପ୍ରତିକ୍ରିୟା କରେ ନାହିଁ, ପରେ ପୁନର୍ବାର ଚେଷ୍ଟା କର!"
+
+msgid "TMDb movie results, %s %s for %s"
+msgstr "TMDb ଚଳଚ୍ଚିତ୍ର ଫଳାଫଳ,% s ପାଇଁ% s% s |"
+
+msgid "TMDb result, %s"
+msgstr "TMDb ଫଳାଫଳ,% s"
+
+msgid "TMDb search"
+msgstr "TMDb ସନ୍ଧାନ |"
+
+msgid "TMDb search, %s for %s"
+msgstr "TMDb ସନ୍ଧାନ,% s ପାଇଁ% s |"
+
+msgid "TMDb series results, %s %s for %s"
+msgstr "TMDb ସିରିଜ୍ ଫଳାଫଳ,% s ପାଇଁ% s% s |"
+
+msgid "backsNcovers"
+msgstr ""
+
+msgid "virtual folder not possible!"
+msgstr "ଭର୍ଚୁଆଲ୍ ଫୋଲ୍ଡର୍ ସମ୍ଭବ ନୁହେଁ!"

@@ -1,0 +1,121 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:01+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Western Frisian\n"
+"Language: fy\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "... not saved!"
+msgstr "... net bewarre!"
+
+msgid "... saved!"
+msgstr "... bewarre!"
+
+msgid "Backdrops"
+msgstr ""
+
+msgid "BacksNcovers"
+msgstr ""
+
+msgid "Close after selection:"
+msgstr "Nei seleksje slute:"
+
+msgid "Covers"
+msgstr ""
+
+msgid "Error: {0}"
+msgstr "Flater: {0}"
+
+msgid "Exit"
+msgstr "Útgong"
+
+msgid "FileBot Schema:"
+msgstr "FileBot skema:"
+
+msgid "Find Backdrops & Covers ..."
+msgstr "Sykje eftergrûnen en covers ..."
+
+msgid "Find Backdrops and Covers for Movielist"
+msgstr "Fyn eftergrûnen en covers foar filmlist"
+
+msgid "Find Movies"
+msgstr "Fine films"
+
+msgid "Find Series"
+msgstr "Fyn Searjes"
+
+msgid "Find all movies or series"
+msgstr "Fyn alle films of searjes"
+
+msgid "Image successfully saved."
+msgstr "Ofbylding mei súkses bewarre."
+
+msgid "Language:"
+msgstr "Taal:"
+
+msgid "Loading %s for %s"
+msgstr "%s laden foar %s"
+
+msgid "Network error: cannot reach TMDb"
+msgstr "Netwurkflater: kin TMDb net berikke"
+
+msgid "No movie results, %s for %s"
+msgstr "Gjin filmresultaten, %s foar %s"
+
+msgid "No results found for %s!"
+msgstr "Gjin resultaten fûn foar %s!"
+
+msgid "No results, %s for %s"
+msgstr "Gjin resultaten, %s foar %s"
+
+msgid "No series results, %s for %s"
+msgstr "Gjin searjeresultaten, %s foar %s"
+
+msgid "Picture resolution:"
+msgstr "Ofbylding resolúsje:"
+
+msgid "Save Cover or Backdrop"
+msgstr "Cover of eftergrûn bewarje"
+
+msgid "Search Text ..."
+msgstr "Tekst sykje ..."
+
+msgid "Search for:"
+msgstr "Sykje nei:"
+
+msgid "Setup"
+msgstr "Opsette"
+
+msgid "Show Backdrops or Covers"
+msgstr "Toan eftergrûnen of covers"
+
+msgid "Start with Backdrops:"
+msgstr "Begjin mei eftergrûnen:"
+
+msgid "TMDb does not respond, try again later!"
+msgstr "TMDb reagearret net, besykje it letter nochris!"
+
+msgid "TMDb movie results, %s %s for %s"
+msgstr "TMDb-filmresultaten, %s %s foar %s"
+
+msgid "TMDb result, %s"
+msgstr "TMDb-resultaat, %s"
+
+msgid "TMDb search"
+msgstr "TMDb sykje"
+
+msgid "TMDb search, %s for %s"
+msgstr "TMDb-sykjen, %s foar %s"
+
+msgid "TMDb series results, %s %s for %s"
+msgstr "TMDb-searjeresultaten, %s %s foar %s"
+
+msgid "backsNcovers"
+msgstr ""
+
+msgid "virtual folder not possible!"
+msgstr "firtuele map net mooglik!"

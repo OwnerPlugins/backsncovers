@@ -1,0 +1,121 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:09+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Georgian <(nothing)>\n"
+"Language: ka\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "... not saved!"
+msgstr "... არ არის შენახული!"
+
+msgid "... saved!"
+msgstr "... გადაარჩინა!"
+
+msgid "Backdrops"
+msgstr "ფონები"
+
+msgid "BacksNcovers"
+msgstr ""
+
+msgid "Close after selection:"
+msgstr "დახურვა შერჩევის შემდეგ:"
+
+msgid "Covers"
+msgstr "გადასაფარებლები"
+
+msgid "Error: {0}"
+msgstr "შეცდომა: {0}"
+
+msgid "Exit"
+msgstr "გასვლა"
+
+msgid "FileBot Schema:"
+msgstr "FileBot სქემა:"
+
+msgid "Find Backdrops & Covers ..."
+msgstr "იპოვეთ ფონები და გარეკანები..."
+
+msgid "Find Backdrops and Covers for Movielist"
+msgstr "იპოვეთ ფონები და გარეკანები ფილმების სიისთვის"
+
+msgid "Find Movies"
+msgstr "იპოვნეთ ფილმები"
+
+msgid "Find Series"
+msgstr "იპოვეთ სერიები"
+
+msgid "Find all movies or series"
+msgstr "იპოვეთ ყველა ფილმი ან სერია"
+
+msgid "Image successfully saved."
+msgstr "სურათი წარმატებით შენახულია."
+
+msgid "Language:"
+msgstr "ენა:"
+
+msgid "Loading %s for %s"
+msgstr "იტვირთება %s %s-ისთვის"
+
+msgid "Network error: cannot reach TMDb"
+msgstr "ქსელის შეცდომა: ვერ აღწევს TMDb"
+
+msgid "No movie results, %s for %s"
+msgstr "ფილმის შედეგი არ არის, %s %s-ისთვის"
+
+msgid "No results found for %s!"
+msgstr "%s-ისთვის შედეგი ვერ მოიძებნა!"
+
+msgid "No results, %s for %s"
+msgstr "შედეგი არ არის, %s %s-ისთვის"
+
+msgid "No series results, %s for %s"
+msgstr "სერიის შედეგები არ არის, %s %s-ისთვის"
+
+msgid "Picture resolution:"
+msgstr "სურათის გარჩევადობა:"
+
+msgid "Save Cover or Backdrop"
+msgstr "ყდის ან ფონის შენახვა"
+
+msgid "Search Text ..."
+msgstr "ტექსტის ძიება..."
+
+msgid "Search for:"
+msgstr "ძიება:"
+
+msgid "Setup"
+msgstr "დაყენება"
+
+msgid "Show Backdrops or Covers"
+msgstr "ფონის ან გარეკანების ჩვენება"
+
+msgid "Start with Backdrops:"
+msgstr "დაიწყეთ ფონებით:"
+
+msgid "TMDb does not respond, try again later!"
+msgstr "TMDb არ პასუხობს, სცადეთ მოგვიანებით!"
+
+msgid "TMDb movie results, %s %s for %s"
+msgstr "TMDb ფილმის შედეგები, %s %s %s-ისთვის"
+
+msgid "TMDb result, %s"
+msgstr "TMDb შედეგი, %s"
+
+msgid "TMDb search"
+msgstr "TMDb ძებნა"
+
+msgid "TMDb search, %s for %s"
+msgstr "TMDb ძიება, %s %s-ისთვის"
+
+msgid "TMDb series results, %s %s for %s"
+msgstr "TMDb სერიის შედეგები, %s %s %s-ისთვის"
+
+msgid "backsNcovers"
+msgstr "საზურგეები"
+
+msgid "virtual folder not possible!"
+msgstr "ვირტუალური საქაღალდე შეუძლებელია!"

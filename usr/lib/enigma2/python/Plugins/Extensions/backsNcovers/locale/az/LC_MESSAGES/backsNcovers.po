@@ -1,0 +1,121 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 17:50+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Azerbaijani\n"
+"Language: az\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "... not saved!"
+msgstr "... xilas edilmədi!"
+
+msgid "... saved!"
+msgstr "... xilas oldu!"
+
+msgid "Backdrops"
+msgstr "Fon fonları"
+
+msgid "BacksNcovers"
+msgstr ""
+
+msgid "Close after selection:"
+msgstr "Seçimdən sonra bağlayın:"
+
+msgid "Covers"
+msgstr "Qapaqlar"
+
+msgid "Error: {0}"
+msgstr "Xəta: {0}"
+
+msgid "Exit"
+msgstr "Çıx"
+
+msgid "FileBot Schema:"
+msgstr "FileBot sxemi:"
+
+msgid "Find Backdrops & Covers ..."
+msgstr "Arxa fon və örtükləri tapın..."
+
+msgid "Find Backdrops and Covers for Movielist"
+msgstr "Film siyahısı üçün fon və örtüklər tapın"
+
+msgid "Find Movies"
+msgstr "Filmləri tapın"
+
+msgid "Find Series"
+msgstr "Serialları tapın"
+
+msgid "Find all movies or series"
+msgstr "Bütün filmləri və ya serialları tapın"
+
+msgid "Image successfully saved."
+msgstr "Şəkil uğurla yadda saxlanıldı."
+
+msgid "Language:"
+msgstr "Dil:"
+
+msgid "Loading %s for %s"
+msgstr "%s üçün %s yüklənir"
+
+msgid "Network error: cannot reach TMDb"
+msgstr "Şəbəkə xətası: TMDb ilə əlaqə saxlamaq mümkün deyil"
+
+msgid "No movie results, %s for %s"
+msgstr "Film nəticəsi yoxdur, %s üçün %s"
+
+msgid "No results found for %s!"
+msgstr "%s üçün heç bir nəticə tapılmadı!"
+
+msgid "No results, %s for %s"
+msgstr "Nəticə yoxdur, %s üçün %s"
+
+msgid "No series results, %s for %s"
+msgstr "Seriya nəticə yoxdur, %s üçün %s"
+
+msgid "Picture resolution:"
+msgstr "Şəklin həlli:"
+
+msgid "Save Cover or Backdrop"
+msgstr "Qapağı və ya Fonu yadda saxlayın"
+
+msgid "Search Text ..."
+msgstr "Mətni axtarın..."
+
+msgid "Search for:"
+msgstr "Axtar:"
+
+msgid "Setup"
+msgstr "Quraşdırma"
+
+msgid "Show Backdrops or Covers"
+msgstr "Arxa fonları və ya örtükləri göstərin"
+
+msgid "Start with Backdrops:"
+msgstr "Arxa fonlarla başlayın:"
+
+msgid "TMDb does not respond, try again later!"
+msgstr "TMDb cavab vermir, sonra yenidən cəhd edin!"
+
+msgid "TMDb movie results, %s %s for %s"
+msgstr "TMDb film nəticələri, %s üçün %s %s"
+
+msgid "TMDb result, %s"
+msgstr "TMDb nəticəsi, %s"
+
+msgid "TMDb search"
+msgstr "TMDb axtarışı"
+
+msgid "TMDb search, %s for %s"
+msgstr "TMDb axtarışı, %s üçün %s"
+
+msgid "TMDb series results, %s %s for %s"
+msgstr "TMDb seriyasının nəticələri, %s üçün %s %s"
+
+msgid "backsNcovers"
+msgstr ""
+
+msgid "virtual folder not possible!"
+msgstr "virtual qovluq mümkün deyil!"

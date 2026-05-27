@@ -1,0 +1,122 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:02+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Irish <gaeilge-gnulinux@lists.sourceforge.net>\n"
+"Language: ga\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n==2 ? 1 : 2;\n"
+
+msgid "... not saved!"
+msgstr "... nach bhfuil shábháil!"
+
+msgid "... saved!"
+msgstr "... shábháil!"
+
+msgid "Backdrops"
+msgstr "Cúlra"
+
+msgid "BacksNcovers"
+msgstr ""
+
+msgid "Close after selection:"
+msgstr "Dún tar éis an roghnúcháin:"
+
+msgid "Covers"
+msgstr "Clúdaíonn"
+
+msgid "Error: {0}"
+msgstr "Earráid: {0}"
+
+msgid "Exit"
+msgstr "Scoir"
+
+msgid "FileBot Schema:"
+msgstr "Scéimre FileBot:"
+
+msgid "Find Backdrops & Covers ..."
+msgstr "Faigh Cúlra & Clúdaigh ..."
+
+msgid "Find Backdrops and Covers for Movielist"
+msgstr "Faigh Cúlra agus Clúdaigh don Liosta Scannán"
+
+msgid "Find Movies"
+msgstr "Aimsigh Scannáin"
+
+msgid "Find Series"
+msgstr "Faigh Sraith"
+
+msgid "Find all movies or series"
+msgstr "Faigh gach scannán nó sraith"
+
+msgid "Image successfully saved."
+msgstr "Sábháladh an íomhá."
+
+msgid "Language:"
+msgstr "Teanga:"
+
+msgid "Loading %s for %s"
+msgstr "%s á lódáil le haghaidh %s"
+
+msgid "Network error: cannot reach TMDb"
+msgstr "Earráid líonra: ní féidir TMDb a bhaint amach"
+
+msgid "No movie results, %s for %s"
+msgstr "Gan toradh scannáin, %s le haghaidh %s"
+
+msgid "No results found for %s!"
+msgstr "Níor aimsíodh torthaí le haghaidh %s!"
+
+msgid "No results, %s for %s"
+msgstr "Gan torthaí, %s le haghaidh %s"
+
+msgid "No series results, %s for %s"
+msgstr "Gan torthaí sraithe, %s le haghaidh %s"
+
+msgid "Picture resolution:"
+msgstr "Taifeach pictiúir:"
+
+msgid "Save Cover or Backdrop"
+msgstr "Sábháil Clúdach nó Cúlra"
+
+msgid "Search Text ..."
+msgstr "Cuardaigh Téacs ..."
+
+msgid "Search for:"
+msgstr "Cuardaigh:"
+
+msgid "Setup"
+msgstr "Socrú"
+
+msgid "Show Backdrops or Covers"
+msgstr "Taispeáin Cúlra nó Clúdaigh"
+
+msgid "Start with Backdrops:"
+msgstr "Tosaigh le Cúlra:"
+
+msgid "TMDb does not respond, try again later!"
+msgstr "Ní fhreagraíonn TMDb, bain triail eile as ar ball!"
+
+msgid "TMDb movie results, %s %s for %s"
+msgstr "Torthaí scannáin TMDb, %s %s le haghaidh %s"
+
+msgid "TMDb result, %s"
+msgstr "Toradh TMDb, %s"
+
+msgid "TMDb search"
+msgstr "Cuardach TMDb"
+
+msgid "TMDb search, %s for %s"
+msgstr "Cuardach TMDb, %s le haghaidh %s"
+
+msgid "TMDb series results, %s %s for %s"
+msgstr "Torthaí sraith TMDb, %s %s le haghaidh %s"
+
+msgid "backsNcovers"
+msgstr ""
+
+msgid "virtual folder not possible!"
+msgstr "fillteán fíorúil ní féidir!"

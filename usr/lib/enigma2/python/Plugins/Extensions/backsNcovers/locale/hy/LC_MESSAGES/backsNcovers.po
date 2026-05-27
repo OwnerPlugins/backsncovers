@@ -1,0 +1,121 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:06+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Armenian\n"
+"Language: hy\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "... not saved!"
+msgstr "... չի պահպանվել:"
+
+msgid "... saved!"
+msgstr "... փրկված!"
+
+msgid "Backdrops"
+msgstr "Հետին պլաններ"
+
+msgid "BacksNcovers"
+msgstr ""
+
+msgid "Close after selection:"
+msgstr "Փակել ընտրությունից հետո."
+
+msgid "Covers"
+msgstr "Ծածկոցներ"
+
+msgid "Error: {0}"
+msgstr "Սխալ՝ {0}"
+
+msgid "Exit"
+msgstr "Ելք"
+
+msgid "FileBot Schema:"
+msgstr "FileBot սխեման."
+
+msgid "Find Backdrops & Covers ..."
+msgstr "Գտեք հետնապատկերներ և շապիկներ..."
+
+msgid "Find Backdrops and Covers for Movielist"
+msgstr "Գտեք հետնապատկերներ և շապիկներ ֆիլմերի ցանկի համար"
+
+msgid "Find Movies"
+msgstr "Գտեք Ֆիլմեր"
+
+msgid "Find Series"
+msgstr "Գտեք շարքը"
+
+msgid "Find all movies or series"
+msgstr "Գտեք բոլոր ֆիլմերը կամ սերիալները"
+
+msgid "Image successfully saved."
+msgstr "Պատկերը հաջողությամբ պահպանվեց:"
+
+msgid "Language:"
+msgstr "Լեզուն:"
+
+msgid "Loading %s for %s"
+msgstr "Բեռնվում է %s %s-ի համար"
+
+msgid "Network error: cannot reach TMDb"
+msgstr "Ցանցի սխալ. չի կարող հասնել TMDb"
+
+msgid "No movie results, %s for %s"
+msgstr "Ֆիլմի արդյունք չկա, %s %s-ի համար"
+
+msgid "No results found for %s!"
+msgstr "%s-ի համար արդյունք չի գտնվել:"
+
+msgid "No results, %s for %s"
+msgstr "Ոչ մի արդյունք, %s %s-ի համար"
+
+msgid "No series results, %s for %s"
+msgstr "Շարքի արդյունքներ չկան, %s %s-ի համար"
+
+msgid "Picture resolution:"
+msgstr "Նկարի լուծում."
+
+msgid "Save Cover or Backdrop"
+msgstr "Պահել շապիկը կամ հետնաշերտը"
+
+msgid "Search Text ..."
+msgstr "Որոնել տեքստ..."
+
+msgid "Search for:"
+msgstr "Որոնել:"
+
+msgid "Setup"
+msgstr "Կարգավորում"
+
+msgid "Show Backdrops or Covers"
+msgstr "Ցույց տալ հետնաշերտերը կամ շապիկները"
+
+msgid "Start with Backdrops:"
+msgstr "Սկսեք հետնաշերտերից՝"
+
+msgid "TMDb does not respond, try again later!"
+msgstr "TMDb-ն չի արձագանքում, ավելի ուշ նորից փորձեք:"
+
+msgid "TMDb movie results, %s %s for %s"
+msgstr "TMDb ֆիլմի արդյունքներ, %s %s %s-ի համար"
+
+msgid "TMDb result, %s"
+msgstr "TMDb արդյունք, %s"
+
+msgid "TMDb search"
+msgstr "TMDb որոնում"
+
+msgid "TMDb search, %s for %s"
+msgstr "TMDb որոնում, %s %s-ի համար"
+
+msgid "TMDb series results, %s %s for %s"
+msgstr "TMDb շարքի արդյունքներ, %s %s %s-ի համար"
+
+msgid "backsNcovers"
+msgstr "մեջքի ծածկոցներ"
+
+msgid "virtual folder not possible!"
+msgstr "վիրտուալ թղթապանակ հնարավոր չէ:"

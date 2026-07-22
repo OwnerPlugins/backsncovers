@@ -88,7 +88,7 @@ msgid "Search for:"
 msgstr "Maghanap para sa:"
 
 msgid "Setup"
-msgstr ""
+msgstr "Pag-setup"
 
 msgid "Show Backdrops or Covers"
 msgstr "Ipakita ang mga Backdrop o Cover"

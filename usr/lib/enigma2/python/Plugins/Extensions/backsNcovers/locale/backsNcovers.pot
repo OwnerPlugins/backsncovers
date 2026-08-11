@@ -1,9 +1,5 @@
 #, fuzzy
 
-
-
-
-
 msgid "... not saved!"
 msgstr ""
 
